@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "a29e8b22a08aa0274b027931eec216c4",
+  "version.json": "9776a0a503a909e0d4ef5ce1dc6a1c66",
 "extends/avatar_mob.png": "14cebde98b2c12b2bc9b5654980cc7ed",
 "extends/potrait_web.png": "d233cfbbd27bf877dd6b92f3464ce577",
 "extends/misc/mytimor_privacy.html": "52fce3b5f0a346533092a43fbdddb5b1",
@@ -12,7 +12,10 @@ const RESOURCES = {
 "extends/projects/musica.png": "5694fbe1b67671750f7d4d58d8aa11a9",
 "extends/projects/nutrizer_banner.png": "73c56aeda8aa9a00eef2c9fb3927b801",
 "extends/projects/geraisdm.png": "c3e6970536ea9f75141f8e65c4549115",
+"extends/projects/cctv_dishub_banner.png": "549183e6f33c8afa7bfce8610b40f2fc",
+"extends/projects/cctv_dishub.png": "cd65ba21c49a4cfea0de1273e85c6b72",
 "extends/projects/elibrary_banner.jpg": "81e6e40274f51665765b875b76e97579",
+"extends/projects/bintango.png": "6d06a31a3621bc0871657ba38bbd811f",
 "extends/projects/mytimor_img_3.png": "c237a539a2e8d6c5de18722b01a66325",
 "extends/projects/elibrary.png": "e841086886f3d3f2ef5efb486a07d4ca",
 "extends/projects/mytimor_driver_banner.png": "aeb3395ab94a75531cb58a4904c16fd1",
@@ -30,12 +33,16 @@ const RESOURCES = {
 "extends/projects/elibrary_img_5.png": "bb23fac9388e26ed437012ec3595eb91",
 "extends/projects/elibrary_img_1.png": "a4d33cccea25d072d97307b710919b36",
 "extends/projects/geraisdm_banner.png": "97916990898f5480b6f830035b1ded85",
+"extends/projects/bintango_banner.jpg": "12099dfc85ec6df65d6d933bb981986e",
+"extends/projects/ets_dishub.png": "9885ad71807d84aaa97b5fef31af0c87",
 "extends/projects/elibrary_img_2.png": "c2200ae847a93b3aec402f6d82fcb108",
+"extends/projects/ets_dishub_banner.jpg": "a7fbbfd7bd6846f7e1929404398abb72",
 "extends/projects/nutrizer.png": "80cb798236cdf812dad744849bc00614",
 "extends/projects/sribuu_banner.png": "fabcbc92fa9ce5b2152fd0be1c5071c4",
 "extends/projects/elibrary_img_3.png": "f60efe17198af76f94fdeb64300e57f7",
 "extends/logo.png": "2f36319ac7a8906fb255c90a07212692",
 "extends/potrait_trans.png": "7c4da006c7501f5b73d77aa94dc49b3a",
+"extends/community/flutter_indo.jpeg": "746c770a4388a236d416d979d4af4efa",
 "extends/community/pdg.jpg": "38035274a689c4020558b2b583cc7cc7",
 "extends/community/unsrihackers.jpg": "be49caf89a468bc7497f2e2819c7efc5",
 "extends/community/sribuu.png": "0ac819363fb61528a44fbba864bb70f5",
@@ -46,10 +53,10 @@ const RESOURCES = {
 "extends/services/blog.png": "5e1cbb2c67e2b8ea9ae4bcce0705d2a4",
 "extends/services/open.png": "4a5996597d32b06d91183f0860c29aab",
 "extends/services/ui.png": "3cf727247752b730a05f51fe0177036f",
-"index.html": "4e7cac84d7429ebe22b0052a54f7b0e3",
-"/": "4e7cac84d7429ebe22b0052a54f7b0e3",
-"main.dart.js": "ac4b87778eada32d66318589c3d125e0",
-"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
+"index.html": "783caf375ba3a9952a40d5b2380c9f14",
+"/": "783caf375ba3a9952a40d5b2380c9f14",
+"main.dart.js": "ac239a8505aabaeca5165ad6fcb32c5f",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "icons/favicon-16x16.png": "32c82e0de5400df7b5f3dc83e726c316",
 "icons/favicon.ico": "e1db2d767521c96e873ba301562485f2",
 "icons/android-chrome-192x192.png": "c0836549fba559176ddeaca0c502ce2a",
@@ -58,8 +65,9 @@ const RESOURCES = {
 "icons/site.webmanifest": "053100cb84a50d2ae7f5492f7dd7f25e",
 "icons/favicon-32x32.png": "d2901558111f28e1d5bdc9fc73b5ab31",
 "manifest.json": "3421cd00e17d6f742428a18cbf45709d",
+"dummy_id.html": "cfa966f7a8915d156b5d42c45bb7018b",
 "assets/AssetManifest.json": "b4788d428e41504a4076b358a5385c32",
-"assets/NOTICES": "b07d0f9e7e593f36531885fd11bc1ff2",
+"assets/NOTICES": "6614fb65f7b8f638051aac86978fba24",
 "assets/FontManifest.json": "9bdb557c6b2f6cedd7a1dc0d926f5bd0",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_AMS-Regular.ttf": "657a5353a553777e270827bd1630e467",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Script-Regular.ttf": "55d2dcd4778875a53ff09320a85a5296",
@@ -82,20 +90,21 @@ const RESOURCES = {
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Main-BoldItalic.ttf": "e3c361ea8d1c215805439ce0941a1c8d",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Math-BoldItalic.ttf": "946a26954ab7fbd7ea78df07795a6cbc",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "dd3c4233029270506ecc994d67785a37",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "613e4cc1af0eb5148b8ce409ad35446d",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "d1722d5cf2c7855862f68edb85e31f88",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "26f5af2d93473531f82ef5060f9c6d45",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "1f7cb220b3f5309130bd6d9ad87e0fc0",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "4e20cb87b0d43808c49449ffd69b1a74",
 "assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
+"assets/shaders/ink_sparkle.frag": "f8c0bde805825e83f778dbd3fa9df015",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/assets/placeholder.png": "5cad1c2ab5b441129b9d3edebe0b399b",
 "assets/assets/hi.gif": "cad5918d86b6a7e83f1fb4acead70e4c",
 "assets/assets/fonts/agustina.otf": "7b9833076716a8d14eec0cf885a3153c",
 "assets/assets/fonts/montserrat.ttf": "ee6539921d713482b8ccd4d0d23961bb",
 "assets/assets/donut.png": "680c78259b6b1140a32dccea66bd974f",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
 };
 
 // The application shell files that are downloaded before a service worker can
@@ -103,7 +112,6 @@ const RESOURCES = {
 const CORE = [
   "main.dart.js",
 "index.html",
-"assets/NOTICES",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.
@@ -202,9 +210,11 @@ self.addEventListener("fetch", (event) => {
     .then((cache) =>  {
       return cache.match(event.request).then((response) => {
         // Either respond with the cached resource, or perform a fetch and
-        // lazily populate the cache.
+        // lazily populate the cache only if the resource was successfully fetched.
         return response || fetch(event.request).then((response) => {
-          cache.put(event.request, response.clone());
+          if (response && Boolean(response.ok)) {
+            cache.put(event.request, response.clone());
+          }
           return response;
         });
       })
