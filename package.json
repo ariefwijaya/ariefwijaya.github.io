@@ -1,0 +1,5 @@
+{
+  "name": "arief-portfolio", "private": true, "type": "module",
+  "scripts": {"build": "esbuild world/src/app.js --bundle --format=esm --minify --outfile=world/world.bundle.js", "test": "node --test tests/world.test.js"},
+  "dependencies": {"three": "0.180.0"}, "devDependencies": {"esbuild": "0.25.10"}
+}
