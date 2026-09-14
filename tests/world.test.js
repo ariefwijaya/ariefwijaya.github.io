@@ -42,3 +42,47 @@ test('workshop dividers require walking around their front edge',()=>{
  assert.equal(clearLine(start,end,valid),false);const path=findPath(start,end,valid);assert.ok(path.length>1);
  let from=start;for(const p of path){assert.ok(clearLine(from,p,valid));from=p;}
 });
+
+import * as THREE from 'three';
+import {RoundedBoxGeometry} from 'three/addons/geometries/RoundedBoxGeometry.js';
+import {craftKit} from '../world/src/craft.js';
+import {createExplorer} from '../world/src/explorer.js';
+test('crafted furniture batches mixed geometry into valid renderable meshes',()=>{
+ const group=new THREE.Group(),ownedGeometries=new Set();
+ const mat=color=>new THREE.MeshStandardMaterial({color});
+ const paper=mat(0xe8dfc9),wood=mat(0xb58a5b),red=mat(0xa94431),dark=mat(0x4b4b43),white=mat(0xf4eedc);
+ const mesh=(geometry,material,x,y,z,parent=group)=>{assert.ok(geometry,'geometry must exist after batching');const m=new THREE.Mesh(geometry,material);m.position.set(x,y,z);parent.add(m);return m;};
+ const box=(x,y,z,w,h,d,material,parent)=>mesh(new RoundedBoxGeometry(w,h,d,2,.01),material,x,y,z,parent);
+ const cylinder=(x,y,z,r,h,material,parent)=>mesh(new THREE.CylinderGeometry(r,r,h,12),material,x,y,z,parent);
+ const craft=craftKit({group,mat,mesh,box,cylinder,paper,wood,red,dark,white,paperTexture:null,ownedGeometries});
+ for(const obj of [craft.bench(0,0),craft.meeting(5,0),craft.bookshelf(7,0),craft.doorway(0,3),craft.roomDetails([-5,0,5],false,false),craft.scannerDetail(0,-1)]){
+  let draws=0;obj.traverse(n=>{if(n.isMesh){draws++;assert.ok(n.geometry.attributes.position.count>0);assert.ok(n.geometry.attributes.normal);}});
+  assert.ok(draws<25,'batching should bound draw calls per object');
+ }
+});
+test('courier robot clips bind and produce continuous finite poses',()=>{
+ const {scene,animations}=createExplorer(),mixer=new THREE.AnimationMixer(scene);
+ for(const name of ['Idle','Walking','Sitting','Standing']){
+  mixer.stopAllAction();const clip=animations.find(c=>c.name===name);assert.ok(clip);const action=mixer.clipAction(clip).play();
+  for(let i=0;i<60;i++){mixer.update(1/60);scene.traverse(n=>assert.ok([...n.position,...n.quaternion].every(Number.isFinite)));}
+  action.stop();
+ }
+});
+
+import {buildWorld} from '../world/src/scene.js';
+test('all production world interaction approaches are reachable with furniture present',()=>{
+ const priorDocument=globalThis.document;
+ globalThis.document={createElement:()=>({width:0,height:0,getContext:()=>({fillRect(){},fillText(){}})})};
+ const prototype=new THREE.Group();prototype.add(new THREE.Mesh(new THREE.BoxGeometry(1,1,1),new THREE.MeshStandardMaterial()));
+ const models=new Proxy({},{get:()=>prototype});
+ try{
+  for(const kind of ['paper','night','islands']){
+   const world=buildWorld(kind,models,null),valid=p=>walkable(p,world.bounds,world.obstacles);
+   try{for(const target of world.targets){
+    assert.ok(valid(target.approach),`${kind}/${target.id} approach must clear obstacles`);
+    const path=findPath(world.start,target.approach,valid);assert.ok(path.length,`${kind}/${target.id} must be reachable`);
+    let from=world.start;for(const p of path){assert.ok(clearLine(from,p,valid));from=p;}
+   }}finally{world.dispose();}
+  }
+ }finally{globalThis.document=priorDocument;prototype.children[0].geometry.dispose();prototype.children[0].material.dispose();}
+});

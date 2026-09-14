@@ -1,0 +1,37 @@
+/* Shared doorway composition across the two documents. */
+.doorway-handoff{position:fixed;inset:0;z-index:1000;background:#f8f7f1;overflow:hidden;display:grid;place-items:center}
+.doorway-handoff img,.portal-entry #loading .portal-loader-art{position:absolute;left:50%;top:50%;width:min(76vw,420px);height:auto;max-width:none;transform:translate(-50%,-50%) scale(2.4);transform-origin:center;pointer-events:none}
+.doorway-handoff p{position:absolute;bottom:5vh;left:20px;right:20px;text-align:center;color:#555c65;font:14px/1.5 Arial,sans-serif}
+.portal-loader-art{display:none}
+.portal-entry #loading{position:fixed;inset:0;z-index:1000;background:#f8f7f1;border:0;border-radius:0;transform:none;width:auto;max-width:none;display:flex;flex-direction:column;justify-content:flex-end;align-items:center;padding:0 20px 4vh;overflow:hidden}
+.portal-entry #loading .portal-loader-art{display:block}
+.portal-entry #loading .loading-mark{display:none}
+.portal-entry #loading h2,.portal-entry #loading p,.portal-entry #loading progress,.portal-entry #loading a{position:relative;z-index:1;background:#f8f7f1e8;padding:3px 12px;margin:3px 0}
+.portal-entry #loading h2{font-size:20px}
+.portal-entry #loading a{min-height:44px;display:flex;align-items:center}
+.portal-entry #loading progress{padding:0;width:180px}
+.portal-entry .world-header,.portal-entry .world-dock{visibility:hidden}
+.portal-entry #loading[hidden]{display:none}
+@media(prefers-reduced-motion:reduce){.doorway-handoff img,.portal-entry #loading .portal-loader-art{transform:translate(-50%,-50%);width:min(60vw,280px)}}
+/* Shared arched leaves, light spill and drifting dust bridge the page handoff. */
+.portal-gate{position:absolute;left:50%;top:49%;width:min(52vw,290px);height:min(72vw,390px);transform:translate(-50%,-50%);border-radius:50% 50% 3px 3px/35% 35% 3px 3px;overflow:hidden;perspective:650px;background:#ffe8b6;box-shadow:0 0 70px 25px #f6d69b70;pointer-events:none;z-index:1}
+.portal-leaf{position:absolute;top:0;bottom:0;width:50%;background:linear-gradient(#ae483cbb,#733b31cc),url('/world/textures/cartoon-wood.webp') center/cover;border:1px solid #66362d;transition:transform .85s cubic-bezier(.2,.7,.2,1)}
+.portal-leaf:first-child{left:0;transform-origin:left center}.portal-leaf:last-child{right:0;transform-origin:right center}
+.portal-gate.is-open .portal-leaf:first-child{transform:rotateY(-105deg)}.portal-gate.is-open .portal-leaf:last-child{transform:rotateY(105deg)}
+.portal-gate:after{content:'';position:absolute;inset:0;background:radial-gradient(circle at 30% 35%,#fff7d9 0 2px,transparent 3px),radial-gradient(circle at 70% 65%,#fff7d9 0 2px,transparent 3px);background-size:70px 90px;opacity:.4;animation:portal-dust 2.5s linear infinite;pointer-events:none}
+.portal-entry #loading .portal-gate{transform:translate(-50%,-50%) scale(2.4)}
+.doorway-handoff p{z-index:3}.portal-entry #loading h2,.portal-entry #loading p,.portal-entry #loading progress,.portal-entry #loading a{z-index:3}
+@keyframes portal-dust{to{background-position:20px -90px,-15px -90px}}
+@media(prefers-reduced-motion:reduce){.portal-leaf{transition:none}.portal-gate:after{animation:none}}
+#loading .portal-gate{display:none}.portal-entry #loading .portal-gate{display:block}
+/* One caption in the threshold light, rather than four pasted labels. */
+.portal-entry #loading{padding-bottom:max(7vh,28px)}
+.portal-entry #loading h2,.portal-entry #loading p,.portal-entry #loading a{background:none;padding:0;margin:0;color:#534638;text-shadow:0 1px 12px #fff8e8}
+.portal-entry #loading h2{font:500 clamp(23px,3vw,34px)/1.25 Georgia,serif;letter-spacing:-.025em;margin-bottom:10px}
+.portal-entry #loading p{font:13px/1.6 Arial,sans-serif;max-width:28ch;text-align:center;opacity:.8}
+.portal-entry #loading a{font-size:12px;opacity:.65;margin-top:14px;text-underline-offset:4px}
+.portal-entry #loading progress{appearance:none;-webkit-appearance:none;border:0;height:2px;width:150px;margin-top:18px;background:#795c3820;border-radius:2px;color:#a55037}
+.portal-entry #loading progress::-webkit-progress-bar{background:#795c3820;border-radius:2px}
+.portal-entry #loading progress::-webkit-progress-value{background:#a55037;border-radius:2px}
+.portal-entry #loading progress::-moz-progress-bar{background:#a55037;border-radius:2px}
+.portal-gate:after{opacity:.16;background-size:107px 173px,181px 137px}

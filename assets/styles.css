@@ -8,3 +8,25 @@
 @media(max-width:760px){.chapter h2{font-size:19px}.chapter-heading{gap:10px}.chapter-heading>span{font-size:15px}}
 .chapter-stage{--chapter-step:92px}.chapter{bottom:126px}.chapter[data-sheet="1"]{transform:translate(-8px,var(--chapter-step)) rotate(-3deg)}.chapter[data-sheet="2"],.chapter.is-front{transform:translate(0,calc(var(--chapter-step) * 2)) rotate(2deg)}@media(max-width:760px){.chapter-stage{--chapter-step:70px}.chapter{bottom:102px}}
 .chapter:not(.is-front) .chapter-summary{font-size:14px;max-height:21px;overflow:hidden;line-height:21px}@media(max-width:760px){.chapter:not(.is-front) .chapter-summary{display:none}}
+.world-invite img{transition:transform .45s cubic-bezier(.2,.75,.25,1);transform-origin:50% 70%}.world-invite .button span{transition:transform .25s ease}.world-invite .button:hover span,.world-invite .button:focus-visible span{transform:translate(3px,-2px)}
+
+/* Tactile paper interactions; native links and disclosures remain the controls. */
+.project,.repo{position:relative;transition:background-color .2s ease,box-shadow .2s ease}
+.project summary,.repo{transition:padding .24s ease,background-color .2s ease}
+.project summary .chevron,.repo>span:last-child{display:inline-block;transition:transform .24s cubic-bezier(.22,.75,.25,1)}
+.project[open] summary .chevron{transform:rotate(45deg)}
+.project:focus-within,.repo:focus-visible{background:#ae352808;box-shadow:inset 3px 0 var(--accent)}
+.button,.chapter-tabs button,.copy-button{transition:transform .18s ease,background-color .2s ease,box-shadow .2s ease}
+.button:active,.chapter-tabs button:active{transform:translateY(2px) scale(.98)}
+.project summary:active,.repo:active{background:#ae352813}
+.text-link{transition:text-decoration-color .2s ease;text-decoration-thickness:1px}
+.text-link:hover,.text-link:focus-visible{text-decoration-thickness:2px}
+@media(hover:hover) and (pointer:fine){
+ .project summary:hover,.repo:hover{padding-left:10px;background:#ae352808}
+ .repo:hover>span:last-child{transform:translate(3px,-3px)}
+ .button:hover{box-shadow:0 5px 12px #1d201d12}
+}
+@media(prefers-reduced-motion:reduce){
+ .button:active,.chapter-tabs button:active,.repo:hover>span:last-child{transform:none}
+ .project summary:hover,.repo:hover{padding-left:0}
+}
