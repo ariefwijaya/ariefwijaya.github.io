@@ -172,16 +172,33 @@ $('#tour').addEventListener('click',()=>{$('#explore-panel').close('walk');canva
 document.querySelectorAll('[data-field-next]').forEach(button=>button.addEventListener('click',()=>{leaveDisplay();leaveWorkstation();tourIndex++;tourStep();}));
 $('#tour-next').addEventListener('click',()=>{$('#story-dialog').close();leaveDisplay();leaveWorkstation();tourIndex++;tourStep();});
 const worldAudio=createWorldAudio();
-let soundOn=false,footstepDistance=0,birdCycle=-1,audioLoading=false;
+let soundOn=true,footstepDistance=0,birdCycle=-1,audioLoading=false,audioStarted=false;
+try{soundOn=localStorage.getItem('world-sound')!=='off';}catch{}
 function syncAmbience(){worldAudio.setWorld(current);}
-async function toggleSound(){
- if(audioLoading)return;audioLoading=true;$('#sound').disabled=true;
- try{await worldAudio.enable(!soundOn);soundOn=!soundOn;$('#sound [data-label]').textContent=soundOn?'Sound on':'Sound off';$('#sound').setAttribute('aria-pressed',String(soundOn));}
- catch(error){console.error(error);toast('The sound files could not be loaded. Please try again.');}
- finally{audioLoading=false;$('#sound').disabled=false;}
+function syncSoundButton(){
+ $('#sound [data-label]').textContent=soundOn?'Sound on':'Sound off';
+ $('#sound').setAttribute('aria-pressed',String(soundOn));
 }
+async function setSound(value,persist=false){
+ if(audioLoading)return;audioLoading=true;$('#sound').disabled=true;
+ try{
+  await worldAudio.enable(value);soundOn=value;audioStarted=value;
+  if(persist)try{localStorage.setItem('world-sound',value?'on':'off');}catch{}
+ }
+ catch(error){soundOn=false;console.error(error);toast('The sound files could not be loaded. Please try again.');}
+ finally{audioLoading=false;$('#sound').disabled=false;syncSoundButton();}
+}
+function startSoundOnGesture(event){
+ if(!event.isTrusted||!soundOn||audioStarted||audioLoading||event.target.closest?.('#sound'))return;
+ if(event.type==='keydown'&&(event.repeat||event.ctrlKey||event.metaKey||event.altKey||['Shift','Control','Alt','Meta','Tab','Escape'].includes(event.key)))return;
+ void setSound(true);
+}
+// Resume Web Audio within a trusted gesture; never bypass a saved mute choice.
+document.addEventListener('pointerdown',startSoundOnGesture);
+document.addEventListener('keydown',startSoundOnGesture);
 function tone(kind='note'){worldAudio.cue(kind,position);}
-$('#sound').addEventListener('click',toggleSound);
+$('#sound').addEventListener('click',()=>setSound(!soundOn,true));
+syncSoundButton();
 function resize(){
  if(!renderer||!rig)return;const w=stage.clientWidth,h=stage.clientHeight;
  rig.resize(w,h,current);if(readingDisplay)rig.focusOn(world.displays.view(w/h));renderer.setPixelRatio(Math.min(devicePixelRatio,w<800?1.35:1.75));renderer.setSize(w,h,false);pipeline?.resize(w,h);

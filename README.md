@@ -55,7 +55,7 @@ Models use a lightweight stylised treatment; the approved stylized miniature con
 
 The source contracts and navigation tests are separate from live browser checks recorded in `design-qa.md`. Static markup improves machine readability; search indexing, ranking, proprietary recruiter scraper support and ATS acceptance cannot be guaranteed. Physical-device performance and WebGL support vary.
 
-KURI uses a four-material UV atlas and surface decals, with Wave/Pose emotes under Explore or keys 1/2. Paper sits on a human-sized desk inside a room; Night includes opt-in recorded city ambience. Ground click-to-walk is limited to Diorama and Top view.
+KURI uses a four-material UV atlas and surface decals, with Wave/Pose emotes under Explore or keys 1/2. Paper sits on a human-sized desk inside a room; Night includes recorded city ambience. Sound defaults on after the first click, tap, or gameplay key; an explicit mute choice is remembered across visits. Ground click-to-walk is limited to Diorama and Top view.
 
 ## Publishing
 
