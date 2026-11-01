@@ -1,0 +1,3858 @@
+{
+  "images": [
+    {
+      "src": "/assets/projects/mytimor-customer.webp",
+      "width": 1024,
+      "height": 500,
+      "kind": "promotional",
+      "caption": "Archived promotional image for the MyTimor customer app.",
+      "bytes": 51158,
+      "sha256": "3c853edf9291c457fea7cd848ce86c0f85786bc09dad3277e51f140ee8fd9e51",
+      "source_sha256": "73c6ceaca0e71efc016135db484416c4950c0d37c00d324b431ae1330fd168b4",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/mytimor-customer-800.webp",
+      "width": 800,
+      "height": 391,
+      "kind": "promotional",
+      "caption": "Archived promotional image for the MyTimor customer app.",
+      "bytes": 37520,
+      "sha256": "b8a5892a170436f5e82bf777a8f753772098aada1eddb27d766855de8afd2296",
+      "source_sha256": "73c6ceaca0e71efc016135db484416c4950c0d37c00d324b431ae1330fd168b4",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/mytimor-driver.webp",
+      "width": 1024,
+      "height": 500,
+      "kind": "promotional",
+      "caption": "Archived promotional image for the MyTimor driver app.",
+      "bytes": 31840,
+      "sha256": "117d7a4140aab486bf23a04a48e040969270f2430e6f770b1df1b088d0da613f",
+      "source_sha256": "572a8d157cd9a1ab66069feca8ad722c0ce6e7c36abde81eec2fae4fa9b66260",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/mytimor-driver-800.webp",
+      "width": 800,
+      "height": 391,
+      "kind": "promotional",
+      "caption": "Archived promotional image for the MyTimor driver app.",
+      "bytes": 23096,
+      "sha256": "457830d1eb2ab57493df6dfea7a46e441a829c02830f4a96c60064f612534efe",
+      "source_sha256": "572a8d157cd9a1ab66069feca8ad722c0ce6e7c36abde81eec2fae4fa9b66260",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/mytimor-merchant.webp",
+      "width": 1024,
+      "height": 500,
+      "kind": "promotional",
+      "caption": "Archived promotional image for the MyTimor merchant app.",
+      "bytes": 27072,
+      "sha256": "4ca0f4d1cf0fd65018ca49ec599f67897c9a2251ec7088842465ff908fb5d7f4",
+      "source_sha256": "b62b7d0028ccfbee151ca4bcacfeda754bd514c2e529286aa77ff47c2239850d",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/mytimor-merchant-800.webp",
+      "width": 800,
+      "height": 391,
+      "kind": "promotional",
+      "caption": "Archived promotional image for the MyTimor merchant app.",
+      "bytes": 19664,
+      "sha256": "c2ceaee19057d3ea5b3514573d40638046a6c7477e46cc2f682a5f8e0bc32249",
+      "source_sha256": "b62b7d0028ccfbee151ca4bcacfeda754bd514c2e529286aa77ff47c2239850d",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/sribuu-promotional.webp",
+      "width": 1350,
+      "height": 650,
+      "kind": "promotional",
+      "caption": "Archived Sribuu promotional image with a mobile interface mockup.",
+      "bytes": 40910,
+      "sha256": "73b277b12cc500cc9bd3378a1a67eafa9c38eb07401cf3956361b5f576c2cec2",
+      "source_sha256": "b5510f825fc33353574d3107770be00712d058ed4afe072ad6bd354563b0f670",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/sribuu-promotional-800.webp",
+      "width": 800,
+      "height": 385,
+      "kind": "promotional",
+      "caption": "Archived Sribuu promotional image with a mobile interface mockup.",
+      "bytes": 20716,
+      "sha256": "792daad0e4419c4f88ebf16a3f692381e70f0adc06d99b87301afc9067d5cff4",
+      "source_sha256": "b5510f825fc33353574d3107770be00712d058ed4afe072ad6bd354563b0f670",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/elibrary-home.webp",
+      "width": 1600,
+      "height": 917,
+      "kind": "archive",
+      "caption": "Archived reader-facing E-Library UNTL homepage.",
+      "bytes": 68270,
+      "sha256": "872e20c07b6a1779757d01af1f22af312c22dd3fad5301050c843f492f426eb6",
+      "source_sha256": "04acd59b5c069015d70be42f170036f89586c28871ca3baea7737a50916fd0f1",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/elibrary-home-800.webp",
+      "width": 800,
+      "height": 458,
+      "kind": "archive",
+      "caption": "Archived reader-facing E-Library UNTL homepage.",
+      "bytes": 29994,
+      "sha256": "b458db85fed6ad813d733e1531f360c5309b9fb275564025147c4502fc535c6d",
+      "source_sha256": "04acd59b5c069015d70be42f170036f89586c28871ca3baea7737a50916fd0f1",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/elibrary-catalogue.webp",
+      "width": 1600,
+      "height": 917,
+      "kind": "archive",
+      "caption": "Archived book catalogue. This is a reader view, not the administration interface.",
+      "bytes": 86900,
+      "sha256": "ff5c506eadd42144edafe8576b621dc75b703e68b47ac20bf9c1dfaa3d5f1130",
+      "source_sha256": "6ed386afb844f198155543f4993fa3d6fc61142682c2aafba6f385ebf8cabd9f",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/elibrary-catalogue-800.webp",
+      "width": 800,
+      "height": 458,
+      "kind": "archive",
+      "caption": "Archived book catalogue. This is a reader view, not the administration interface.",
+      "bytes": 33878,
+      "sha256": "bd5afa661908ff5fe37672b6cf05962f44f35ef4d3983c84c36915e0757f60e1",
+      "source_sha256": "6ed386afb844f198155543f4993fa3d6fc61142682c2aafba6f385ebf8cabd9f",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/elibrary-book-detail.webp",
+      "width": 1600,
+      "height": 917,
+      "kind": "archive",
+      "caption": "Archived book-detail page with categories and reading controls.",
+      "bytes": 47602,
+      "sha256": "f75bfd3a63a62651f5cc607b5af5fd60e49136b4925f2ab5e03db81c095ee64b",
+      "source_sha256": "f80c65a4085488f24a34e77f3b2f500bbc261004e188a150734861822f72a33f",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/elibrary-book-detail-800.webp",
+      "width": 800,
+      "height": 458,
+      "kind": "archive",
+      "caption": "Archived book-detail page with categories and reading controls.",
+      "bytes": 19032,
+      "sha256": "efe76a74a91e1c7c97358c6eac1ca97e3ec00d0228fd83fd630d3570c264c1a2",
+      "source_sha256": "f80c65a4085488f24a34e77f3b2f500bbc261004e188a150734861822f72a33f",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/mytimor-home.webp",
+      "width": 500,
+      "height": 1111,
+      "kind": "archive",
+      "caption": "Archived customer-app interface with mock account data.",
+      "bytes": 35566,
+      "sha256": "7d96306d2f3558fb7be2b595ab8f95adebde0196502202011058821d58ffec44",
+      "source_sha256": "bba901d04141d6e4a77a6314c275a29bacc02eb6f737aca1f443634404fbdd07",
+      "crop": [
+        500,
+        0,
+        1000,
+        1111
+      ],
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/mytimor-delivery-booking.webp",
+      "width": 500,
+      "height": 1111,
+      "kind": "archive",
+      "caption": "Customer delivery booking with sender, recipient, route and package details. Recovered from the original MyTimor interface archive; account data is mock.",
+      "bytes": 44610,
+      "sha256": "d24123aa16dcf7ebc9ac8e1bdafc6906fa42084cc67c833cf8f3189722e5fa58",
+      "source_sha256": "bba901d04141d6e4a77a6314c275a29bacc02eb6f737aca1f443634404fbdd07",
+      "crop": [
+        1000,
+        0,
+        1500,
+        1111
+      ],
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/mytimor-food-discovery.webp",
+      "width": 500,
+      "height": 1111,
+      "kind": "archive",
+      "caption": "Customer restaurant menu with product choices, quantities and basket total. Recovered original interface, not a generated mockup.",
+      "bytes": 30650,
+      "sha256": "4f08b8ade90f3fb70cad696c37059f759fc3d0704b1ecf9bf55941cc2a44bdb6",
+      "source_sha256": "5bf74e0ef56d07b31474aad10ea34668d31fa0715feb8d3e9cfadc9eb7085dbe",
+      "crop": [
+        500,
+        0,
+        1000,
+        1111
+      ],
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/mytimor-order-complete.webp",
+      "width": 500,
+      "height": 1111,
+      "kind": "archive",
+      "caption": "Completed delivery with driver rating, route details and order information. Archived customer-app screen with mock data.",
+      "bytes": 28672,
+      "sha256": "d7fda0339a3e1b732f6bd48a0e2bb0540b6ebef35c8a9f65bed34d340dc4f417",
+      "source_sha256": "41bad8fba53c59a1fa93fe70acf6c32c18e0ab42958cc9bc18ea3243ccf4d8bf",
+      "crop": [
+        1000,
+        0,
+        1500,
+        1111
+      ],
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/ets-map.webp",
+      "width": 778,
+      "height": 1600,
+      "kind": "archive",
+      "caption": "Archived Electronic Traffic Sign interface with map markers and location controls. This is a genuine interface capture, not promotional artwork.",
+      "bytes": 88750,
+      "sha256": "c8122bcde873d7f13e125a8caa98c18edb6e675e4f5e3b1b1cd056eccc11d3de",
+      "source_sha256": "0cf7719505ae20e964be04302e8a625e3e8b796b28eed3fec4d31f4236383539",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/anycheck-bank-review.webp",
+      "width": 1600,
+      "height": 819,
+      "kind": "local-qa",
+      "caption": "Bank-statement review from local QA: source document beside extracted header fields awaiting confirmation. This is the review interface, not the financial-analysis summary or a live bank account.",
+      "bytes": 74806,
+      "sha256": "cafd765217285dfd3dcade49d117e467ae8a2d5e509d3db2cacdc2c34c493586",
+      "source_sha256": "b098ac30f7559f3bddd7b741b7dc14163ffe18586cb16fab6bf49fea9b4b9f07",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/anycheck-bank-review-800.webp",
+      "width": 800,
+      "height": 409,
+      "kind": "local-qa",
+      "caption": "Bank-statement review from local QA: source document beside extracted header fields awaiting confirmation. This is the review interface, not the financial-analysis summary or a live bank account.",
+      "bytes": 27146,
+      "sha256": "4570f03dfe0cd7712ad4390e9dc6bae1be77c566e5e9e0c70031736fcbca3059",
+      "source_sha256": "b098ac30f7559f3bddd7b741b7dc14163ffe18586cb16fab6bf49fea9b4b9f07",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/anycheck-services.webp",
+      "width": 1600,
+      "height": 775,
+      "kind": "local-qa",
+      "caption": "AnyCheck Services Hub from local QA, cropped to focus on service selection.",
+      "bytes": 52968,
+      "sha256": "e256f4bf2ef907680c9cc88d733e832f9c33decacac822aab5808bc14cda4a4a",
+      "source_sha256": "99104fcfbecf84fa3155c3fc70710bcca63021100a34af31f9e9484b9b34a2ee",
+      "crop": [
+        0,
+        50,
+        2000,
+        1019
+      ],
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/anycheck-services-800.webp",
+      "width": 800,
+      "height": 388,
+      "kind": "local-qa",
+      "caption": "AnyCheck Services Hub from local QA, cropped to focus on service selection.",
+      "bytes": 16186,
+      "sha256": "b6a44172c711907985d07a55d55c709a778bb1ded14adb427850772e36a62cf2",
+      "source_sha256": "99104fcfbecf84fa3155c3fc70710bcca63021100a34af31f9e9484b9b34a2ee",
+      "crop": [
+        0,
+        50,
+        2000,
+        1019
+      ],
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/anycheck-template-fields.webp",
+      "width": 750,
+      "height": 445,
+      "kind": "local-qa",
+      "caption": "Custom-template field creation from local QA, cropped to focus on the configuration dialog.",
+      "bytes": 15086,
+      "sha256": "b2377dec7233f216ce816241ac076e1343e8c639899a5df08eea9dbbb415d293",
+      "source_sha256": "b2c9fd6d4ce7b19e64c4606b5f57376d3c22f8d2b1c973cabe32f0cdbacf1d1c",
+      "crop": [
+        624,
+        325,
+        1374,
+        770
+      ],
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/anycheck-template-refine.webp",
+      "width": 750,
+      "height": 397,
+      "kind": "local-qa",
+      "caption": "Field-refinement dialog from local QA, cropped to focus on its controls.",
+      "bytes": 11046,
+      "sha256": "50edc0f52456c8544dbcc9123a0544bbd8dec2fe46b1a40061d2c6077c545d8b",
+      "source_sha256": "2c204b0c7656c139a9c73854aba4619716d73c8872d277803a06cfc00989e6fe",
+      "crop": [
+        624,
+        351,
+        1374,
+        748
+      ],
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/anycheck-orbit-chat.webp",
+      "width": 1600,
+      "height": 986,
+      "kind": "runtime-demo",
+      "caption": "Native Orbit chat and extraction components with a consistent synthetic invoice. The conversation is fixture state, not a live model response; the surrounding demonstration workspace is composed for this capture.",
+      "bytes": 54304,
+      "sha256": "69929ae156aa9b1139ad1c2a2d36e15f528a234724246c16c6ee2937bd84da37",
+      "source_sha256": "c2df255c1c7b9e3abb1fa92e6967d3916065c16e0cb91ec0d2b73ca113773860",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/anycheck-orbit-chat-800.webp",
+      "width": 800,
+      "height": 493,
+      "kind": "runtime-demo",
+      "caption": "Native Orbit chat and extraction components with a consistent synthetic invoice. The conversation is fixture state, not a live model response; the surrounding demonstration workspace is composed for this capture.",
+      "bytes": 19504,
+      "sha256": "083a8aa6bf90749b60a54f8cc2e483b0baea08fb52c31303042dca51275d49e7",
+      "source_sha256": "c2df255c1c7b9e3abb1fa92e6967d3916065c16e0cb91ec0d2b73ca113773860",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/anycheck-extraction-review.webp",
+      "width": 1600,
+      "height": 986,
+      "kind": "runtime-demo",
+      "caption": "Native structured-extraction component beside its synthetic source invoice, within an isolated demonstration workspace. No OCR or document processing runs.",
+      "bytes": 37070,
+      "sha256": "c0e85a997d797f769a2af2af5fc17eebaf55d33beeae6482ab532b91ecfe235c",
+      "source_sha256": "f201a6f3e34a9ba8f61d1607fe915a652846286fff42e3e3f3a6407aa3c4a4cb",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/anycheck-extraction-review-800.webp",
+      "width": 800,
+      "height": 493,
+      "kind": "runtime-demo",
+      "caption": "Native structured-extraction component beside its synthetic source invoice, within an isolated demonstration workspace. No OCR or document processing runs.",
+      "bytes": 13392,
+      "sha256": "a1f4cdc340f181e28e3b9ffb57934994ca8b2f69ddc45827f84be9ade6c9ef64",
+      "source_sha256": "f201a6f3e34a9ba8f61d1607fe915a652846286fff42e3e3f3a6407aa3c4a4cb",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/anycheck-owner-overview.webp",
+      "width": 1600,
+      "height": 986,
+      "kind": "runtime-demo",
+      "caption": "Native Organization Owner overview with synthetic company activity, credits, divisions and review counts. These are fixture values, not production performance metrics.",
+      "bytes": 60988,
+      "sha256": "723c7ce3cea4ea9c9fbfa3ff4f4e98557e3b16e5f02175513fb2d345a16473c8",
+      "source_sha256": "14a22e5483d53095e1c3a85d5ba077e37324139b11dffd997385847fa3463f95",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/anycheck-owner-overview-800.webp",
+      "width": 800,
+      "height": 493,
+      "kind": "runtime-demo",
+      "caption": "Native Organization Owner overview with synthetic company activity, credits, divisions and review counts. These are fixture values, not production performance metrics.",
+      "bytes": 22162,
+      "sha256": "8e576a32105699430eaa4cfeb2c659545359ab2001cb5886b43b9d08d543783b",
+      "source_sha256": "14a22e5483d53095e1c3a85d5ba077e37324139b11dffd997385847fa3463f95",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/anycheck-bsa-summary.webp",
+      "width": 1600,
+      "height": 707,
+      "kind": "runtime-demo",
+      "caption": "Native Bank Statement Analyzer with synthetic account and currency totals: five transactions, IDR 6,000,000 credit and IDR 2,500,000 debit. Fixture state, not a live bank account or measured extraction result.",
+      "bytes": 36990,
+      "sha256": "e568607b2824b5906b5020515d487fa41d8ad7c29c6f261c7d9a61b4b9ad3d7b",
+      "source_sha256": "45d2fbfb0944c517153667902caa99edea8552cff2e7eb32ff583867ca7f9b57",
+      "crop": [
+        0,
+        0,
+        1720,
+        760
+      ],
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/anycheck-bsa-summary-800.webp",
+      "width": 800,
+      "height": 353,
+      "kind": "runtime-demo",
+      "caption": "Native Bank Statement Analyzer with synthetic account and currency totals: five transactions, IDR 6,000,000 credit and IDR 2,500,000 debit. Fixture state, not a live bank account or measured extraction result.",
+      "bytes": 14232,
+      "sha256": "647a572a1ea42cd3e9e058634dacd45a5ac4d770f7bc49621de8129f6cd4341e",
+      "source_sha256": "45d2fbfb0944c517153667902caa99edea8552cff2e7eb32ff583867ca7f9b57",
+      "crop": [
+        0,
+        0,
+        1720,
+        760
+      ],
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/anycheck-bsa-transactions.webp",
+      "width": 1400,
+      "height": 660,
+      "kind": "runtime-demo",
+      "caption": "Native transaction filters and table with five mock entries. The sample reconciles from an opening balance of IDR 10,000,000 to IDR 13,500,000. No live banking data or document processing.",
+      "bytes": 37976,
+      "sha256": "b0cb82349b2a0b3835bb620832974dc32cb5affb2d74fb7e45f7ab68806c1d70",
+      "source_sha256": "a7087e328aa0a720ab1377a6924d1c31c3a605c9f281894c2839405834b0fb9a",
+      "crop": [
+        0,
+        0,
+        1400,
+        660
+      ],
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/anycheck-bsa-transactions-800.webp",
+      "width": 800,
+      "height": 377,
+      "kind": "runtime-demo",
+      "caption": "Native transaction filters and table with five mock entries. The sample reconciles from an opening balance of IDR 10,000,000 to IDR 13,500,000. No live banking data or document processing.",
+      "bytes": 17562,
+      "sha256": "d5b9804f2f7e0a4bec415a1bd681ff071edfd0df5fd56a8da9e4569c4c40f66a",
+      "source_sha256": "a7087e328aa0a720ab1377a6924d1c31c3a605c9f281894c2839405834b0fb9a",
+      "crop": [
+        0,
+        0,
+        1400,
+        660
+      ],
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/jagoan-marketplace.webp",
+      "width": 1440,
+      "height": 1200,
+      "kind": "runtime-demo",
+      "caption": "Actual Jagoan frontend rendered locally with a synthetic catalogue. Prices and accounts are demo data.",
+      "bytes": 88592,
+      "sha256": "88e38931977aaf428d53c1d5671082e6623f00a180362045694298921a7b664b",
+      "source_sha256": "e3afd9dc3804ecf475ade24f01d258d94bbfcfebc63e894fa5b3c92f62d83745",
+      "crop": [
+        0,
+        0,
+        1440,
+        1200
+      ],
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/jagoan-marketplace-800.webp",
+      "width": 800,
+      "height": 667,
+      "kind": "runtime-demo",
+      "caption": "Actual Jagoan frontend rendered locally with a synthetic catalogue. Prices and accounts are demo data.",
+      "bytes": 39616,
+      "sha256": "2c51b4e2eb4bedf61ee612966ae7379c5de8ff498d0de2304a3f2ef0eef8c39b",
+      "source_sha256": "e3afd9dc3804ecf475ade24f01d258d94bbfcfebc63e894fa5b3c92f62d83745",
+      "crop": [
+        0,
+        0,
+        1440,
+        1200
+      ],
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/jagoan-checkout.webp",
+      "width": 1440,
+      "height": 1160,
+      "kind": "runtime-demo",
+      "caption": "Checkout with fictional account details and buyer@example.test. API responses are synthetic; no payment is submitted.",
+      "bytes": 66284,
+      "sha256": "0be39562a62cd424635596cd1d36f4dc7a3e19c07719fab2dc96aef1799639d2",
+      "source_sha256": "76697ef60ec96f3841bd3116505f205c1b789460561450a8632abdcca0efc61a",
+      "crop": [
+        0,
+        90,
+        1440,
+        1250
+      ],
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/jagoan-checkout-800.webp",
+      "width": 800,
+      "height": 644,
+      "kind": "runtime-demo",
+      "caption": "Checkout with fictional account details and buyer@example.test. API responses are synthetic; no payment is submitted.",
+      "bytes": 30696,
+      "sha256": "c8a30b5febaae9a5ed685df39e843e3173c4f9f7772bf4196367e88466231163",
+      "source_sha256": "76697ef60ec96f3841bd3116505f205c1b789460561450a8632abdcca0efc61a",
+      "crop": [
+        0,
+        90,
+        1440,
+        1250
+      ],
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/jagoan-order.webp",
+      "width": 1440,
+      "height": 1185,
+      "kind": "runtime-demo",
+      "caption": "Order-status interface with a synthetic order and a non-redeemable demo voucher. This is not a real purchase.",
+      "bytes": 37584,
+      "sha256": "5db1635b9962440283cd43ef6b5ee7718447913c5cfe8bd4e47b15b654a044a0",
+      "source_sha256": "af71b6e85b0cfa2cd55166d7c95b63607341a23fa5c3057ba80506ef9b8b8ff4",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/jagoan-order-800.webp",
+      "width": 800,
+      "height": 658,
+      "kind": "runtime-demo",
+      "caption": "Order-status interface with a synthetic order and a non-redeemable demo voucher. This is not a real purchase.",
+      "bytes": 17012,
+      "sha256": "0b15ac036feab64e30b765cdfebf356e500c76d4cb06d45c6547bc43221ee218",
+      "source_sha256": "af71b6e85b0cfa2cd55166d7c95b63607341a23fa5c3057ba80506ef9b8b8ff4",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/jagoan-overlay-studio.webp",
+      "width": 1120,
+      "height": 1040,
+      "kind": "runtime-demo",
+      "caption": "Overlay Studio in a local synthetic-data session. Cropped before browser-source URLs; no live overlay token is published.",
+      "bytes": 42480,
+      "sha256": "0ab2d99c6afe6e46d325dd34c6661eb2febb98041924b4299fdf819da81ab74a",
+      "source_sha256": "dfb516db83315352fa09f4fb1b8bb01c29cf3abbf8eefd3dbadfcd011602fdc9",
+      "crop": [
+        160,
+        90,
+        1280,
+        1130
+      ],
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/jagoan-overlay-studio-800.webp",
+      "width": 800,
+      "height": 743,
+      "kind": "runtime-demo",
+      "caption": "Overlay Studio in a local synthetic-data session. Cropped before browser-source URLs; no live overlay token is published.",
+      "bytes": 26266,
+      "sha256": "891b08e9531ece86b29373658111d0bbb786d320483abe2d18352261db881261",
+      "source_sha256": "dfb516db83315352fa09f4fb1b8bb01c29cf3abbf8eefd3dbadfcd011602fdc9",
+      "crop": [
+        160,
+        90,
+        1280,
+        1130
+      ],
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/jagoan-overlay.webp",
+      "width": 840,
+      "height": 460,
+      "kind": "runtime-demo",
+      "caption": "The application\u2019s built-in OBS demo mode generates this sample alert. The donor and amount are fictional.",
+      "bytes": 14040,
+      "sha256": "d00cdcc7dd1a822d744b0a6b228f84064cc1f1267e786f451bd3a57c2fa6c4f0",
+      "source_sha256": "11fc3adb3d0bc8f2e6c2b38d8d6c5f90ed70993ff5634cf7eb362df692d572a2",
+      "crop": [
+        300,
+        260,
+        1140,
+        720
+      ],
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/jagoan-overlay-800.webp",
+      "width": 800,
+      "height": 438,
+      "kind": "runtime-demo",
+      "caption": "The application\u2019s built-in OBS demo mode generates this sample alert. The donor and amount are fictional.",
+      "bytes": 24632,
+      "sha256": "03e5254a9c984aaae18f772fb5db786da3e39c44142ab745c066160edc9687ee",
+      "source_sha256": "11fc3adb3d0bc8f2e6c2b38d8d6c5f90ed70993ff5634cf7eb362df692d572a2",
+      "crop": [
+        300,
+        260,
+        1140,
+        720
+      ],
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/anycheck-admin-dashboard.webp",
+      "width": 1600,
+      "height": 933,
+      "kind": "runtime-demo",
+      "caption": "Actual platform-administration dashboard widgets with deterministic test data. Organisation counts, credit usage and success rates are fictional, not production metrics. This is not the Organisation Owner view.",
+      "bytes": 72642,
+      "sha256": "cb49c1850798c9526ce36654e5a2663ca0b1607aa5e609e9a311550722ff933f",
+      "source_sha256": "93a7859dfc2af9879f3dda3f22c2ef624a689166184418a08fffb0c966237f9a",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/anycheck-admin-dashboard-800.webp",
+      "width": 800,
+      "height": 467,
+      "kind": "runtime-demo",
+      "caption": "Actual platform-administration dashboard widgets with deterministic test data. Organisation counts, credit usage and success rates are fictional, not production metrics. This is not the Organisation Owner view.",
+      "bytes": 26464,
+      "sha256": "269f75e1ff2bbfb840f527dfe9c3c3c5ea92b8ff9c72cd2d8d8a1a99eb94bfa1",
+      "source_sha256": "93a7859dfc2af9879f3dda3f22c2ef624a689166184418a08fffb0c966237f9a",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/gomusi-service-mobile.webp",
+      "width": 430,
+      "height": 900,
+      "kind": "runtime-demo",
+      "caption": "Native GoMUSI mobile-width interface with a fictional applicant and service flow. Synthetic API responses only; no application is submitted.",
+      "bytes": 16634,
+      "sha256": "ab6ea71ed6b6ceced56d638f9972fb04ad3b94ac23df22a54fde8d590e7e2278",
+      "source_sha256": "11e2a505dbd23be1591fc4c7979957d8737782af206f24155b0e04998dd697db",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/gomusi-wizard-mobile.webp",
+      "width": 430,
+      "height": 900,
+      "kind": "runtime-demo",
+      "caption": "Native GoMUSI mobile-width interface with a fictional applicant and service flow. Synthetic API responses only; no application is submitted.",
+      "bytes": 11324,
+      "sha256": "4d02306925be5b2d4a1e53996d11ad77047e26b585597a509514741488e4eb8b",
+      "source_sha256": "1b0c5380e584b20ebe7e61e671cfb4f043bfd50dc81dd5032592eab610d74470",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/gomusi-tracking-mobile.webp",
+      "width": 430,
+      "height": 900,
+      "kind": "runtime-demo",
+      "caption": "Native GoMUSI mobile-width interface with a fictional applicant and service flow. Synthetic API responses only; no application is submitted.",
+      "bytes": 12958,
+      "sha256": "bb88a479f16925c172f623790dc596262e71b38a81a7887e098f7d323129165d",
+      "source_sha256": "c514a7f9b08fbf3b0a3cba1adac6418b486baccb9f3ba50064c0e3662385e1bc",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/gomusi-service-cover.webp",
+      "width": 1280,
+      "height": 900,
+      "kind": "runtime-demo",
+      "caption": "GoMUSI service overview with fictional service data. Local synthetic API responses; no real application.",
+      "bytes": 13122,
+      "sha256": "586d01aa5b2fe196d3a32cb65f4402f173d875f3db762f14b546bf82b7ececea",
+      "source_sha256": "2ab05526c19a85bfc4dbc56072a3952c7d5b0b2db8a5788410d4c424aa25f360",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/gomusi-service-cover-800.webp",
+      "width": 800,
+      "height": 562,
+      "kind": "runtime-demo",
+      "caption": "GoMUSI service overview with fictional service data. Local synthetic API responses; no real application.",
+      "bytes": 6952,
+      "sha256": "db73feeda272812c192537eff6ca4b2bdbd127064095a345c945d6e7aa4315da",
+      "source_sha256": "2ab05526c19a85bfc4dbc56072a3952c7d5b0b2db8a5788410d4c424aa25f360",
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/gomusi-service.webp",
+      "width": 1280,
+      "height": 410,
+      "kind": "runtime-demo",
+      "caption": "Actual GoMUSI web interface with a fictional service description and two-step review flow. Local synthetic API responses; no real application.",
+      "bytes": 10040,
+      "sha256": "e20f78859fe5880819aba9614d0191d1e5ccdd319b5ed33f65f10956cd08f21a",
+      "source_sha256": "2ab05526c19a85bfc4dbc56072a3952c7d5b0b2db8a5788410d4c424aa25f360",
+      "crop": [
+        0,
+        0,
+        1280,
+        410
+      ],
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/gomusi-service-800.webp",
+      "width": 800,
+      "height": 256,
+      "kind": "runtime-demo",
+      "caption": "Actual GoMUSI web interface with a fictional service description and two-step review flow. Local synthetic API responses; no real application.",
+      "bytes": 5314,
+      "sha256": "c1d4a30d8a9a97cb5a0ebeb27b3c1e596ef482aed7e15dcaaaaa28a4eabca711",
+      "source_sha256": "2ab05526c19a85bfc4dbc56072a3952c7d5b0b2db8a5788410d4c424aa25f360",
+      "crop": [
+        0,
+        0,
+        1280,
+        410
+      ],
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/gomusi-wizard.webp",
+      "width": 1280,
+      "height": 470,
+      "kind": "runtime-demo",
+      "caption": "Application form populated with Demo Applicant and applicant@example.test. The form is not submitted.",
+      "bytes": 7588,
+      "sha256": "8d93c9af1df04ad5ada89536bd7eaef93a0472ac6715734bb9825b128c8d87d1",
+      "source_sha256": "aa3ed7bf3ff10dd811dcfc6bfd9f1f416a43e2bfbfb567da51c50a72990dc554",
+      "crop": [
+        0,
+        0,
+        1280,
+        470
+      ],
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/gomusi-wizard-800.webp",
+      "width": 800,
+      "height": 294,
+      "kind": "runtime-demo",
+      "caption": "Application form populated with Demo Applicant and applicant@example.test. The form is not submitted.",
+      "bytes": 3792,
+      "sha256": "44ee89677272c950a565427699459ebc4ab743e3e87f30235cf189f3063b2040",
+      "source_sha256": "aa3ed7bf3ff10dd811dcfc6bfd9f1f416a43e2bfbfb567da51c50a72990dc554",
+      "crop": [
+        0,
+        0,
+        1280,
+        470
+      ],
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/gomusi-tracking.webp",
+      "width": 1280,
+      "height": 330,
+      "kind": "runtime-demo",
+      "caption": "Synthetic request progress: one of two steps completed, awaiting administrative review. This is not a real public-service request.",
+      "bytes": 8526,
+      "sha256": "ec0249d1c452864cce8ecbdd5c78cc91092221ad33f9a0f1a446d8250fb4bf71",
+      "source_sha256": "67cf31cecd0208ea0ccdd54a756d51a9404609bfccfea475f1ec339eaaaa15a6",
+      "crop": [
+        0,
+        0,
+        1280,
+        330
+      ],
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/gomusi-tracking-800.webp",
+      "width": 800,
+      "height": 206,
+      "kind": "runtime-demo",
+      "caption": "Synthetic request progress: one of two steps completed, awaiting administrative review. This is not a real public-service request.",
+      "bytes": 4270,
+      "sha256": "7d756b1b2811aefb01b7843ade3e90442e2c087c86e66d8aa0cfddfbe19ad13d",
+      "source_sha256": "67cf31cecd0208ea0ccdd54a756d51a9404609bfccfea475f1ec339eaaaa15a6",
+      "crop": [
+        0,
+        0,
+        1280,
+        330
+      ],
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/gomusi-admin-form.webp",
+      "width": 1280,
+      "height": 650,
+      "kind": "runtime-demo",
+      "caption": "GoMUSI administrative field-configuration screen with a fictional draft label. No form is saved.",
+      "bytes": 10638,
+      "sha256": "38770142ded60f89e72fb6c62796b0c31cc3949875a564f9a63ba158f1f7b07f",
+      "source_sha256": "9991a81ef8c69b733c321040ebd7f6cc944c284232a93ea2b2fe26f4e4d8ff9b",
+      "crop": [
+        0,
+        0,
+        1280,
+        650
+      ],
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/gomusi-admin-form-800.webp",
+      "width": 800,
+      "height": 406,
+      "kind": "runtime-demo",
+      "caption": "GoMUSI administrative field-configuration screen with a fictional draft label. No form is saved.",
+      "bytes": 5758,
+      "sha256": "344e1389e9cea222af2f208016c37c57c0fd1f0942565a88c8dd835274d40fba",
+      "source_sha256": "9991a81ef8c69b733c321040ebd7f6cc944c284232a93ea2b2fe26f4e4d8ff9b",
+      "crop": [
+        0,
+        0,
+        1280,
+        650
+      ],
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/anycheck-cover.webp",
+      "width": 1600,
+      "height": 1000,
+      "kind": "presentation",
+      "presentation_method": "composited-authentic-captures",
+      "caption": "Portfolio cover composed from actual product captures and a generated background. Product UI is not AI-generated.",
+      "bytes": 71094,
+      "sha256": "bc470f3d25cb23860f6d230d1b1a0b85bf97babae87961a4ca5c22ebeb3e4101",
+      "source_sha256": "283ff5d8b04b7646f8012202588235c1cb51da2bde36d8bb3b0032290d4395ae",
+      "sources": [
+        {
+          "file": "anycheck-extraction-orbit.png",
+          "sha256": "f201a6f3e34a9ba8f61d1607fe915a652846286fff42e3e3f3a6407aa3c4a4cb",
+          "kind": "runtime-demo"
+        },
+        {
+          "file": "anycheck-orbit-chat.png",
+          "sha256": "c2df255c1c7b9e3abb1fa92e6967d3916065c16e0cb91ec0d2b73ca113773860",
+          "kind": "runtime-demo"
+        },
+        {
+          "file": "anycheck-orbit-mascot.png",
+          "sha256": "ffe95fa7d0cd376bf48fdd51ccea8cf374c8743d1fdcd59cbf79dff211bcb27b",
+          "kind": "runtime-demo"
+        },
+        {
+          "file": "cover-background-atlas.png",
+          "sha256": "1e772fd9f397f64b923fce45c615ba8b9bde8fd7974c6188c93cadb1b5092761",
+          "kind": "generated-background"
+        }
+      ],
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/anycheck-cover-800.webp",
+      "width": 800,
+      "height": 500,
+      "kind": "presentation",
+      "presentation_method": "composited-authentic-captures",
+      "caption": "Portfolio cover composed from actual product captures and a generated background. Product UI is not AI-generated.",
+      "bytes": 27268,
+      "sha256": "c3573bc0dc43aec60250b0cf5adb36344bed39fc360ac68edb1f90e417ed4d21",
+      "source_sha256": "283ff5d8b04b7646f8012202588235c1cb51da2bde36d8bb3b0032290d4395ae",
+      "sources": [
+        {
+          "file": "anycheck-extraction-orbit.png",
+          "sha256": "f201a6f3e34a9ba8f61d1607fe915a652846286fff42e3e3f3a6407aa3c4a4cb",
+          "kind": "runtime-demo"
+        },
+        {
+          "file": "anycheck-orbit-chat.png",
+          "sha256": "c2df255c1c7b9e3abb1fa92e6967d3916065c16e0cb91ec0d2b73ca113773860",
+          "kind": "runtime-demo"
+        },
+        {
+          "file": "anycheck-orbit-mascot.png",
+          "sha256": "ffe95fa7d0cd376bf48fdd51ccea8cf374c8743d1fdcd59cbf79dff211bcb27b",
+          "kind": "runtime-demo"
+        },
+        {
+          "file": "cover-background-atlas.png",
+          "sha256": "1e772fd9f397f64b923fce45c615ba8b9bde8fd7974c6188c93cadb1b5092761",
+          "kind": "generated-background"
+        }
+      ],
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/jagoan-cover.webp",
+      "width": 1600,
+      "height": 1000,
+      "kind": "presentation",
+      "presentation_method": "composited-authentic-captures",
+      "caption": "Portfolio cover composed from actual product captures and a generated background. Product UI is not AI-generated.",
+      "bytes": 93610,
+      "sha256": "7ae05bdedaa985cdbcde6e0b686780ab0beda3a6e0a80d8c0448bf0e3d5ce7aa",
+      "source_sha256": "57de3f5935b73adb3c97f8dfcb95a8be643cb05014ea6324809290528d6e3f03",
+      "sources": [
+        {
+          "file": "jagoan-marketplace-runtime.png",
+          "sha256": "e3afd9dc3804ecf475ade24f01d258d94bbfcfebc63e894fa5b3c92f62d83745",
+          "kind": "runtime-demo"
+        },
+        {
+          "file": "jagoan-studio-runtime.png",
+          "sha256": "dfb516db83315352fa09f4fb1b8bb01c29cf3abbf8eefd3dbadfcd011602fdc9",
+          "kind": "runtime-demo"
+        },
+        {
+          "file": "cover-background-atlas.png",
+          "sha256": "1e772fd9f397f64b923fce45c615ba8b9bde8fd7974c6188c93cadb1b5092761",
+          "kind": "generated-background"
+        }
+      ],
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/jagoan-cover-800.webp",
+      "width": 800,
+      "height": 500,
+      "kind": "presentation",
+      "presentation_method": "composited-authentic-captures",
+      "caption": "Portfolio cover composed from actual product captures and a generated background. Product UI is not AI-generated.",
+      "bytes": 34724,
+      "sha256": "6e98fb494d8f3feb83a107014cbd99d45742d2d6f6830755743cdcf6019cf824",
+      "source_sha256": "57de3f5935b73adb3c97f8dfcb95a8be643cb05014ea6324809290528d6e3f03",
+      "sources": [
+        {
+          "file": "jagoan-marketplace-runtime.png",
+          "sha256": "e3afd9dc3804ecf475ade24f01d258d94bbfcfebc63e894fa5b3c92f62d83745",
+          "kind": "runtime-demo"
+        },
+        {
+          "file": "jagoan-studio-runtime.png",
+          "sha256": "dfb516db83315352fa09f4fb1b8bb01c29cf3abbf8eefd3dbadfcd011602fdc9",
+          "kind": "runtime-demo"
+        },
+        {
+          "file": "cover-background-atlas.png",
+          "sha256": "1e772fd9f397f64b923fce45c615ba8b9bde8fd7974c6188c93cadb1b5092761",
+          "kind": "generated-background"
+        }
+      ],
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/gomusi-cover.webp",
+      "width": 1600,
+      "height": 1000,
+      "kind": "presentation",
+      "presentation_method": "reference-based-generation",
+      "caption": "Reference-based generated cover using original interface captures and a hardware reference. Original, unmodified screens are available in the gallery.",
+      "bytes": 77074,
+      "sha256": "7b2cf3c6b3910775fe701e967f342630ac806ef76d91553b95b91b446d63e3e7",
+      "source_sha256": "bab36ed63788a263ca9a088258a30d23e836ef1a7b7f0222437a6750c0e65e51",
+      "sources": [
+        {
+          "file": "gomusi-layout-reference.webp",
+          "sha256": "ddd266057afe5b6eb7772ef6db7169bf5126dee7b802aa45b88ce12c680546ab",
+          "kind": "presentation",
+          "role": "layout-reference"
+        },
+        {
+          "file": "phone-hardware.png",
+          "sha256": "b8f1be69da2d73e928af35a4dc10febc5b46b78d969064b3c8eb71b217a08339",
+          "kind": "generated-frame",
+          "role": "hardware-reference"
+        },
+        {
+          "file": "gomusi-service-mobile.png",
+          "sha256": "11e2a505dbd23be1591fc4c7979957d8737782af206f24155b0e04998dd697db",
+          "kind": "runtime-demo",
+          "role": "ui-reference"
+        },
+        {
+          "file": "gomusi-wizard-mobile.png",
+          "sha256": "1b0c5380e584b20ebe7e61e671cfb4f043bfd50dc81dd5032592eab610d74470",
+          "kind": "runtime-demo",
+          "role": "ui-reference"
+        }
+      ],
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/gomusi-cover-800.webp",
+      "width": 800,
+      "height": 500,
+      "kind": "presentation",
+      "presentation_method": "reference-based-generation",
+      "caption": "Reference-based generated cover using original interface captures and a hardware reference. Original, unmodified screens are available in the gallery.",
+      "bytes": 27404,
+      "sha256": "907790df5b5ae4c1c6e7e068ed5e77cf4a3e8642ceb082738ff1a0817dadd1f1",
+      "source_sha256": "bab36ed63788a263ca9a088258a30d23e836ef1a7b7f0222437a6750c0e65e51",
+      "sources": [
+        {
+          "file": "gomusi-layout-reference.webp",
+          "sha256": "ddd266057afe5b6eb7772ef6db7169bf5126dee7b802aa45b88ce12c680546ab",
+          "kind": "presentation",
+          "role": "layout-reference"
+        },
+        {
+          "file": "phone-hardware.png",
+          "sha256": "b8f1be69da2d73e928af35a4dc10febc5b46b78d969064b3c8eb71b217a08339",
+          "kind": "generated-frame",
+          "role": "hardware-reference"
+        },
+        {
+          "file": "gomusi-service-mobile.png",
+          "sha256": "11e2a505dbd23be1591fc4c7979957d8737782af206f24155b0e04998dd697db",
+          "kind": "runtime-demo",
+          "role": "ui-reference"
+        },
+        {
+          "file": "gomusi-wizard-mobile.png",
+          "sha256": "1b0c5380e584b20ebe7e61e671cfb4f043bfd50dc81dd5032592eab610d74470",
+          "kind": "runtime-demo",
+          "role": "ui-reference"
+        }
+      ],
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/mytimor-cover.webp",
+      "width": 1600,
+      "height": 1000,
+      "kind": "presentation",
+      "presentation_method": "reference-based-generation",
+      "caption": "Reference-based generated cover using original interface captures and a hardware reference. Original, unmodified screens are available in the gallery.",
+      "bytes": 118126,
+      "sha256": "4b31fcbc7013d033ed75631112a5b0e38d60152779ea0d49848c6091dc0723ca",
+      "source_sha256": "2f4e1a695d82504406a90c8b9b7177ce3010a339ff4b1af3c3b549714fa74d9a",
+      "sources": [
+        {
+          "file": "mytimor-layout-reference.webp",
+          "sha256": "c030db3cd6f26ca9d0a79570863b4e8d1d88a89fff7c39c72526c4069449f743",
+          "kind": "presentation",
+          "role": "layout-reference"
+        },
+        {
+          "file": "phone-hardware.png",
+          "sha256": "b8f1be69da2d73e928af35a4dc10febc5b46b78d969064b3c8eb71b217a08339",
+          "kind": "generated-frame",
+          "role": "hardware-reference"
+        },
+        {
+          "file": "mytimor-reference-delivery.png",
+          "sha256": "ecb1c0d01c4a858e9dac7c9dc943ea51dd0520ad8ea5202894821d672e2df4b7",
+          "kind": "archive",
+          "role": "ui-reference"
+        },
+        {
+          "file": "mytimor-reference-food.png",
+          "sha256": "48d620df5a460e8c000c91ce3339b3d1fff7ec1feca828f6536a689a4d031a93",
+          "kind": "archive",
+          "role": "ui-reference"
+        },
+        {
+          "file": "mytimor-reference-complete.png",
+          "sha256": "5d765c8b5a4063f4daba318eadb0d86eb6ebc54cc35691c58cb775ee875ae05c",
+          "kind": "archive",
+          "role": "ui-reference"
+        }
+      ],
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/mytimor-cover-800.webp",
+      "width": 800,
+      "height": 500,
+      "kind": "presentation",
+      "presentation_method": "reference-based-generation",
+      "caption": "Reference-based generated cover using original interface captures and a hardware reference. Original, unmodified screens are available in the gallery.",
+      "bytes": 39228,
+      "sha256": "a2e25e1a1f295bd0810c710cd20ff9c347ca104c12584ed188c434d072a9fd64",
+      "source_sha256": "2f4e1a695d82504406a90c8b9b7177ce3010a339ff4b1af3c3b549714fa74d9a",
+      "sources": [
+        {
+          "file": "mytimor-layout-reference.webp",
+          "sha256": "c030db3cd6f26ca9d0a79570863b4e8d1d88a89fff7c39c72526c4069449f743",
+          "kind": "presentation",
+          "role": "layout-reference"
+        },
+        {
+          "file": "phone-hardware.png",
+          "sha256": "b8f1be69da2d73e928af35a4dc10febc5b46b78d969064b3c8eb71b217a08339",
+          "kind": "generated-frame",
+          "role": "hardware-reference"
+        },
+        {
+          "file": "mytimor-reference-delivery.png",
+          "sha256": "ecb1c0d01c4a858e9dac7c9dc943ea51dd0520ad8ea5202894821d672e2df4b7",
+          "kind": "archive",
+          "role": "ui-reference"
+        },
+        {
+          "file": "mytimor-reference-food.png",
+          "sha256": "48d620df5a460e8c000c91ce3339b3d1fff7ec1feca828f6536a689a4d031a93",
+          "kind": "archive",
+          "role": "ui-reference"
+        },
+        {
+          "file": "mytimor-reference-complete.png",
+          "sha256": "5d765c8b5a4063f4daba318eadb0d86eb6ebc54cc35691c58cb775ee875ae05c",
+          "kind": "archive",
+          "role": "ui-reference"
+        }
+      ],
+      "crop": null,
+      "redacted": false
+    },
+    {
+      "src": "/assets/projects/musica-logo.webp",
+      "width": 243,
+      "height": 256,
+      "kind": "identity",
+      "identity_origin": "original-project-asset",
+      "caption": "Original project identity, recovered from the project assets or historical portfolio archive.",
+      "bytes": 43788,
+      "sha256": "28105d08019bbb2b769f544e1b00acea67bcdc81c3bf0395a4e53aebb49f67bd",
+      "crop": null,
+      "redacted": false,
+      "source_file": "musica.png",
+      "source_sha256": "d2df5859dd06841990a338d8454c2be41931fd3f73a0eaf8b3694f1c79722ae0"
+    },
+    {
+      "src": "/assets/projects/geraisdm-logo.webp",
+      "width": 294,
+      "height": 256,
+      "kind": "identity",
+      "identity_origin": "original-project-asset",
+      "caption": "Original project identity, recovered from the project assets or historical portfolio archive.",
+      "bytes": 47698,
+      "sha256": "9ab26a6af1380d8e21ac5a401d7086819cc22224a694ff6450319f17f28daf18",
+      "crop": null,
+      "redacted": false,
+      "source_file": "geraisdm.png",
+      "source_sha256": "d5d32a8cc3047bbf4d854f3687efc7a3d9d15174c122dadd710d87276fa8eb35"
+    },
+    {
+      "src": "/assets/projects/cctv_dishub-logo.webp",
+      "width": 256,
+      "height": 256,
+      "kind": "identity",
+      "identity_origin": "original-project-asset",
+      "caption": "Original project identity, recovered from the project assets or historical portfolio archive.",
+      "bytes": 11744,
+      "sha256": "f2b5a852d0752d827e27845580d3d356275f2367dd145bbe0b85b4d3be8befd0",
+      "crop": null,
+      "redacted": false,
+      "source_file": "cctv_dishub.png",
+      "source_sha256": "730255f4860aaa7f1334463e53de5f31d808776b817f068c05fa1546372e9111"
+    },
+    {
+      "src": "/assets/projects/bintango-logo.webp",
+      "width": 256,
+      "height": 256,
+      "kind": "identity",
+      "identity_origin": "original-project-asset",
+      "caption": "Original project identity, recovered from the project assets or historical portfolio archive.",
+      "bytes": 93876,
+      "sha256": "e8dcb3b6bcb267f88103e7ee700b8302a84ad790bbfbc5973c58e8bcf3055119",
+      "crop": null,
+      "redacted": false,
+      "source_file": "bintango.png",
+      "source_sha256": "9cf1467de6811d8cee62f4e7f400f65c8b8314be5839fb16dd251bc7ccfa7e45"
+    },
+    {
+      "src": "/assets/projects/elibrary-logo.webp",
+      "width": 216,
+      "height": 44,
+      "kind": "identity",
+      "identity_origin": "original-project-asset",
+      "caption": "Original project identity, recovered from the project assets or historical portfolio archive.",
+      "bytes": 9306,
+      "sha256": "f6dd4af233f4257ea5de913a3c920203e5de3d35600dfd4c7e8e1c3c0d48fef7",
+      "crop": null,
+      "redacted": false,
+      "source_file": "elibrary.png",
+      "source_sha256": "b135099d94ab0e17cde0c265340216a8df5b2f49cf2a40b5d1c863270a1741d1"
+    },
+    {
+      "src": "/assets/projects/mytimor-logo.webp",
+      "width": 309,
+      "height": 256,
+      "kind": "identity",
+      "identity_origin": "original-project-asset",
+      "caption": "Original project identity, recovered from the project assets or historical portfolio archive.",
+      "bytes": 15052,
+      "sha256": "579f94c9e996f2a357fe83250101d223251812f6cedb3d71d33b6bb009ad462f",
+      "crop": null,
+      "redacted": false,
+      "source_file": "mytimor.png",
+      "source_sha256": "3ba9ca0b817dfd3cfa9a37a21d3d09e407ede17fe06292a61405848e4a7d701f"
+    },
+    {
+      "src": "/assets/projects/sentuhassetku-logo.webp",
+      "width": 281,
+      "height": 256,
+      "kind": "identity",
+      "identity_origin": "original-project-asset",
+      "caption": "Original project identity, recovered from the project assets or historical portfolio archive.",
+      "bytes": 11860,
+      "sha256": "a0b3fb7b56eb52ba337a286755f8f232f8c020bd5a06c6fd85e3d4031cecb828",
+      "crop": null,
+      "redacted": false,
+      "source_file": "sentuhassetku.png",
+      "source_sha256": "7bbee901220dfd3f5767c0e239ef111cd2f9f36d724e5818c0c2e62838e687fb"
+    },
+    {
+      "src": "/assets/projects/sribuu-logo.webp",
+      "width": 384,
+      "height": 81,
+      "kind": "identity",
+      "identity_origin": "original-project-asset",
+      "caption": "Original project identity, recovered from the project assets or historical portfolio archive.",
+      "bytes": 20550,
+      "sha256": "e1f50fcad22d4e2eafb40e1bfc3f97f764efdba0e3c29471699ed75d1b1c832d",
+      "crop": null,
+      "redacted": false,
+      "source_file": "sribuu.png",
+      "source_sha256": "305c9cfcda16ba8ac273e337d3637f39b0776248d94d706c4e9b59ee3e5a1e3d"
+    },
+    {
+      "src": "/assets/projects/ets_dishub-logo.webp",
+      "width": 256,
+      "height": 256,
+      "kind": "identity",
+      "identity_origin": "original-project-asset",
+      "caption": "Original project identity, recovered from the project assets or historical portfolio archive.",
+      "bytes": 3384,
+      "sha256": "0430b271eb764ddb04708ba7d6501df9e5442bbd89378e36a53cf11c87abb05d",
+      "crop": null,
+      "redacted": false,
+      "source_file": "ets_dishub.png",
+      "source_sha256": "f4e405e9dde25f80d7263d139b7901d9e29f3096825a461dde2775e6ce1d3571"
+    },
+    {
+      "src": "/assets/projects/nutrizer-logo.webp",
+      "width": 256,
+      "height": 256,
+      "kind": "identity",
+      "identity_origin": "original-project-asset",
+      "caption": "Original project identity, recovered from the project assets or historical portfolio archive.",
+      "bytes": 17520,
+      "sha256": "2354964ec1ca1f53944d0e11e05143610fc7425ff57fce72de5806354adad690",
+      "crop": null,
+      "redacted": false,
+      "source_file": "nutrizer.png",
+      "source_sha256": "4e37e6caed13f997adaeb7dab6ef871cddb235c2b918ac80956d404dfbca3ecd"
+    },
+    {
+      "src": "/assets/projects/sirajamusi-logo.webp",
+      "width": 257,
+      "height": 256,
+      "kind": "identity",
+      "identity_origin": "original-project-asset",
+      "caption": "Original project identity, recovered from the project assets or historical portfolio archive.",
+      "bytes": 45848,
+      "sha256": "e309d319fb3a2a8c42a7468558dc2765cc13bbf18da5fe69d369d89c0ca0fff0",
+      "crop": null,
+      "redacted": false,
+      "source_file": "logo_trans.png",
+      "source_sha256": "c4a8b82ed6111e01c59f83cf83d6d041ef0a6de7fc1a5439468274f9b10f01b3"
+    },
+    {
+      "src": "/assets/projects/sinabung-logo.webp",
+      "width": 202,
+      "height": 256,
+      "kind": "identity",
+      "identity_origin": "original-project-asset",
+      "caption": "Original project identity, recovered from the project assets or historical portfolio archive.",
+      "bytes": 53898,
+      "sha256": "ff6a5949550b7c9815171400988091ab65cf44ae289b9fa18f6b10b60280472e",
+      "crop": null,
+      "redacted": false,
+      "source_file": "logo_trans.png",
+      "source_sha256": "c41b8367d69c00a9263709ae679ac1df1ff5b42892200e0bc5bcc69ffdbb2d93"
+    },
+    {
+      "src": "/assets/projects/siapsemeru-logo.webp",
+      "width": 304,
+      "height": 233,
+      "kind": "identity",
+      "identity_origin": "original-project-asset",
+      "caption": "Original project identity, recovered from the project assets or historical portfolio archive.",
+      "bytes": 7654,
+      "sha256": "cceb82cb21b314b0be914a587e6d527da93f9c7016924c947928bf2815dad689",
+      "crop": null,
+      "redacted": false,
+      "source_file": "logo_trans.png",
+      "source_sha256": "cb44f189501fe132c263c94abdf7f5663907186eab2741bac899aefbe6af7915"
+    },
+    {
+      "src": "/assets/projects/monaling-logo.webp",
+      "width": 256,
+      "height": 256,
+      "kind": "identity",
+      "identity_origin": "original-project-asset",
+      "caption": "Original project identity, recovered from the project assets or historical portfolio archive.",
+      "bytes": 37922,
+      "sha256": "d8f4140aeb736efbd5ec1755967f6973254f0b34cf27645cd9165753609e8fb2",
+      "crop": null,
+      "redacted": false,
+      "source_file": "logo_trans.png",
+      "source_sha256": "4d856d449354557ae57999397ad9740f0676b3ac16ab054ba5209ead5a6ad963"
+    },
+    {
+      "src": "/assets/projects/gardupln-logo.webp",
+      "width": 256,
+      "height": 256,
+      "kind": "identity",
+      "identity_origin": "original-project-asset",
+      "caption": "Original project identity, recovered from the project assets or historical portfolio archive.",
+      "bytes": 26294,
+      "sha256": "c22b50256ff2e76f3b1866af5974b5692d728e55b4a48026f7b73ff437206baf",
+      "crop": null,
+      "redacted": false,
+      "source_file": "logo_trans.png",
+      "source_sha256": "07a2761df1e66e7dd56836924e88b820b40437ac896b1cfeb0e165c12e491b7f"
+    },
+    {
+      "src": "/assets/projects/anycheck-logo.webp",
+      "width": 384,
+      "height": 89,
+      "kind": "identity",
+      "identity_origin": "original-project-asset",
+      "caption": "Original project identity, recovered from the project assets or historical portfolio archive.",
+      "bytes": 12514,
+      "sha256": "58367fea598970905b048e861ed9731e0ee55da63b655a4a1c084e4f0761a9e6",
+      "crop": null,
+      "redacted": false,
+      "source_file": "logo_light.png",
+      "source_sha256": "1464b28a39f4aa3725edd7f2df7963719467053f915f26ed1ef5b9303f359da6"
+    },
+    {
+      "src": "/assets/projects/gomusi-logo.webp",
+      "width": 256,
+      "height": 256,
+      "kind": "identity",
+      "identity_origin": "original-project-asset",
+      "caption": "Original project identity, recovered from the project assets or historical portfolio archive.",
+      "bytes": 22106,
+      "sha256": "35c5923233a832f97c76e04dd9f3383f8ab782afb717f5053f9e188f29643ae3",
+      "crop": null,
+      "redacted": false,
+      "source_file": "logo_web.png",
+      "source_sha256": "2e479d2f3a8596835ef8c0f7db8bc9cd080e8ec443d606f7cd481530ced11931"
+    },
+    {
+      "src": "/assets/projects/jagoan-logo.webp",
+      "width": 384,
+      "height": 111,
+      "kind": "identity",
+      "identity_origin": "original-project-asset",
+      "caption": "Original project identity, recovered from the project assets or historical portfolio archive.",
+      "bytes": 35714,
+      "sha256": "3d01d0ba0a89b5157197ff4b74f6dac3d34c74575e6f1baf0658bf081e9b5eb7",
+      "crop": null,
+      "redacted": false,
+      "source_file": "logo.webp",
+      "source_sha256": "e00588709676d9fb4375f5222c5089696d3e58b1a7b70d3fa605e86654dfbc77"
+    },
+    {
+      "kind": "runtime-demo",
+      "caption": "Competency evidence, supporting documents and verification history. Sample records.",
+      "basis": [
+        "Original production widgets and theme rendered with isolated synthetic state"
+      ],
+      "src": "/assets/projects/sinabung-competency.webp",
+      "width": 860,
+      "height": 1864,
+      "bytes": 52626,
+      "sha256": "e9bbb24d55c7998c9bc579f5dbe929977112c25a7a6b28bfdcdd6195d3c6aaec",
+      "source_sha256": "3fbba52f4322836a09ec1908a58bf99ae5dfb38a33cb4aeb0b19af3444fbee2a",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "runtime-demo",
+      "caption": "Competency evidence, supporting documents and verification history. Sample records.",
+      "basis": [
+        "Original production widgets and theme rendered with isolated synthetic state"
+      ],
+      "src": "/assets/projects/sinabung-competency-800.webp",
+      "width": 800,
+      "height": 1734,
+      "bytes": 49302,
+      "sha256": "9473c583ae06d7882787a4dcec5cfbe1d937b69a1a729f40ef5ed600d09b2e23",
+      "source_sha256": "3fbba52f4322836a09ec1908a58bf99ae5dfb38a33cb4aeb0b19af3444fbee2a",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "runtime-demo",
+      "caption": "Assessment report with competency totals and ranking details. Sample records.",
+      "basis": [
+        "Original production widgets and theme rendered with isolated synthetic state"
+      ],
+      "src": "/assets/projects/sinabung-report.webp",
+      "width": 860,
+      "height": 1864,
+      "bytes": 56418,
+      "sha256": "3cdb48c446f5ea7580066dcd12d342cda0774d80add3bd6fe09271085d002c7a",
+      "source_sha256": "9113bcdba82d02a3c390f01072639575103d635993db62b1badc7374c08a6685",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "runtime-demo",
+      "caption": "Assessment report with competency totals and ranking details. Sample records.",
+      "basis": [
+        "Original production widgets and theme rendered with isolated synthetic state"
+      ],
+      "src": "/assets/projects/sinabung-report-800.webp",
+      "width": 800,
+      "height": 1734,
+      "bytes": 53438,
+      "sha256": "1fefc64602e5d2a34d24357028212abe484abb02f06f9834974e808fd5a7667a",
+      "source_sha256": "9113bcdba82d02a3c390f01072639575103d635993db62b1badc7374c08a6685",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "runtime-demo",
+      "caption": "Innovation submission, supporting documents and review history. Sample records.",
+      "basis": [
+        "Original production widgets and theme rendered with isolated synthetic state"
+      ],
+      "src": "/assets/projects/siapsemeru-innovation.webp",
+      "width": 860,
+      "height": 1864,
+      "bytes": 49086,
+      "sha256": "028494211e0d3e15c32f0cea01abe0119fa85a1ad19362e3e3a35dd151f81a78",
+      "source_sha256": "742b38bc44cf82ba28fc7cb5820355e67ea40ddf50c01b92ad8747d2b41f758d",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "runtime-demo",
+      "caption": "Innovation submission, supporting documents and review history. Sample records.",
+      "basis": [
+        "Original production widgets and theme rendered with isolated synthetic state"
+      ],
+      "src": "/assets/projects/siapsemeru-innovation-800.webp",
+      "width": 800,
+      "height": 1734,
+      "bytes": 45724,
+      "sha256": "0624bbc88c9b62e837ab6aba5dbbe25aee365503611d7deb582ae7a6418ffb60",
+      "source_sha256": "742b38bc44cf82ba28fc7cb5820355e67ea40ddf50c01b92ad8747d2b41f758d",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "runtime-demo",
+      "caption": "Performance reporting and ranking details. Sample records.",
+      "basis": [
+        "Original production widgets and theme rendered with isolated synthetic state"
+      ],
+      "src": "/assets/projects/siapsemeru-report.webp",
+      "width": 860,
+      "height": 1864,
+      "bytes": 52288,
+      "sha256": "42f56e57a7e7f1f797abd6099c7910705387a2b62569ba86c246c0aedf26fbfd",
+      "source_sha256": "5d797483e1cc0f1065a2a11fe84686085b1d4e679d10c8ece2e96360ebe3e7e8",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "runtime-demo",
+      "caption": "Performance reporting and ranking details. Sample records.",
+      "basis": [
+        "Original production widgets and theme rendered with isolated synthetic state"
+      ],
+      "src": "/assets/projects/siapsemeru-report-800.webp",
+      "width": 800,
+      "height": 1734,
+      "bytes": 48810,
+      "sha256": "112caf1b45006a4e644216343383cf392f77ee66f2f5d5f3bbfc761913563ca0",
+      "source_sha256": "5d797483e1cc0f1065a2a11fe84686085b1d4e679d10c8ece2e96360ebe3e7e8",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "runtime-demo",
+      "caption": "Offline inspection form with asset, site, inspector and draft controls. Sample records.",
+      "basis": [
+        "Original production widgets and theme rendered with isolated synthetic state"
+      ],
+      "src": "/assets/projects/monaling-inspection.webp",
+      "width": 860,
+      "height": 1864,
+      "bytes": 33428,
+      "sha256": "8266decccfc017e06a752cbf1af9292c6f0ca683a1b6a2635e6ed77d8556c207",
+      "source_sha256": "138d10f18f2f75821fd8601f4a8ba1f1e948f5474962d4090533dfd1eb558e99",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "runtime-demo",
+      "caption": "Offline inspection form with asset, site, inspector and draft controls. Sample records.",
+      "basis": [
+        "Original production widgets and theme rendered with isolated synthetic state"
+      ],
+      "src": "/assets/projects/monaling-inspection-800.webp",
+      "width": 800,
+      "height": 1734,
+      "bytes": 31664,
+      "sha256": "9500b23a91b9906161c14bc1caaaf252693b6268d1d6db06a5220fb8c717dada",
+      "source_sha256": "138d10f18f2f75821fd8601f4a8ba1f1e948f5474962d4090533dfd1eb558e99",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "runtime-demo",
+      "caption": "Submission history with accepted, waiting and draft statuses. Sample records.",
+      "basis": [
+        "Original production widgets and theme rendered with isolated synthetic state"
+      ],
+      "src": "/assets/projects/monaling-history.webp",
+      "width": 860,
+      "height": 1864,
+      "bytes": 40584,
+      "sha256": "10a0166c6c129c5b9fb576b9d3fc9fe7c9b4f07e75744ea847d0213e41c6e676",
+      "source_sha256": "e1f10c2ed3afbf3b4abda4f710ab3e04ca80d1f7c4ee1663a40286ba18dbbf8f",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "runtime-demo",
+      "caption": "Submission history with accepted, waiting and draft statuses. Sample records.",
+      "basis": [
+        "Original production widgets and theme rendered with isolated synthetic state"
+      ],
+      "src": "/assets/projects/monaling-history-800.webp",
+      "width": 800,
+      "height": 1734,
+      "bytes": 37518,
+      "sha256": "a2f82a6bc543301ffb1ced42002b7f1121cb03d9252b1a503c001c8f1a011ccb",
+      "source_sha256": "e1f10c2ed3afbf3b4abda4f710ab3e04ca80d1f7c4ee1663a40286ba18dbbf8f",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "Competency review and performance reporting.",
+      "presentation_method": "reference-based-generation",
+      "sources": [
+        {
+          "file": "sinabung-competency.png",
+          "sha256": "3fbba52f4322836a09ec1908a58bf99ae5dfb38a33cb4aeb0b19af3444fbee2a",
+          "role": "ui-reference"
+        },
+        {
+          "file": "sinabung-report.png",
+          "sha256": "9113bcdba82d02a3c390f01072639575103d635993db62b1badc7374c08a6685",
+          "role": "ui-reference"
+        },
+        {
+          "file": "sinabung-logo.webp",
+          "sha256": "ff6a5949550b7c9815171400988091ab65cf44ae289b9fa18f6b10b60280472e",
+          "role": "identity-reference"
+        }
+      ],
+      "src": "/assets/projects/sinabung-cover.webp",
+      "width": 1586,
+      "height": 991,
+      "bytes": 124466,
+      "sha256": "3af137599b93803eb2331b7866fe09ff6ea5813bbab1949560e176cfac84be59",
+      "source_sha256": "465f509b08bc294ec6ad66b65b5be103bf459b79a1ecfe0b06959b16f1485969",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "Competency review and performance reporting.",
+      "presentation_method": "reference-based-generation",
+      "sources": [
+        {
+          "file": "sinabung-competency.png",
+          "sha256": "3fbba52f4322836a09ec1908a58bf99ae5dfb38a33cb4aeb0b19af3444fbee2a",
+          "role": "ui-reference"
+        },
+        {
+          "file": "sinabung-report.png",
+          "sha256": "9113bcdba82d02a3c390f01072639575103d635993db62b1badc7374c08a6685",
+          "role": "ui-reference"
+        },
+        {
+          "file": "sinabung-logo.webp",
+          "sha256": "ff6a5949550b7c9815171400988091ab65cf44ae289b9fa18f6b10b60280472e",
+          "role": "identity-reference"
+        }
+      ],
+      "src": "/assets/projects/sinabung-cover-800.webp",
+      "width": 800,
+      "height": 500,
+      "bytes": 48046,
+      "sha256": "38b6579773916fbffab5bfaf527b6c058f4599f42e57e71ce488395d4426a6ed",
+      "source_sha256": "465f509b08bc294ec6ad66b65b5be103bf459b79a1ecfe0b06959b16f1485969",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "Book discovery and reader-facing book details.",
+      "presentation_method": "reference-based-generation",
+      "sources": [
+        {
+          "file": "elibrary-home.webp",
+          "sha256": "872e20c07b6a1779757d01af1f22af312c22dd3fad5301050c843f492f426eb6",
+          "role": "ui-reference"
+        },
+        {
+          "file": "elibrary-book-detail.webp",
+          "sha256": "f75bfd3a63a62651f5cc607b5af5fd60e49136b4925f2ab5e03db81c095ee64b",
+          "role": "ui-reference"
+        },
+        {
+          "file": "elibrary-logo.webp",
+          "sha256": "f6dd4af233f4257ea5de913a3c920203e5de3d35600dfd4c7e8e1c3c0d48fef7",
+          "role": "identity-reference"
+        }
+      ],
+      "src": "/assets/projects/elibrary-cover.webp",
+      "width": 1586,
+      "height": 991,
+      "bytes": 123546,
+      "sha256": "9055bb62f896f80a7b14c1a7fa34e07362ca605fdf98de524f68d91becfe3bae",
+      "source_sha256": "cb549210df6d596ed70632fa9d2bc4e349593a4db50063931a5050376acb4e0c",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "Book discovery and reader-facing book details.",
+      "presentation_method": "reference-based-generation",
+      "sources": [
+        {
+          "file": "elibrary-home.webp",
+          "sha256": "872e20c07b6a1779757d01af1f22af312c22dd3fad5301050c843f492f426eb6",
+          "role": "ui-reference"
+        },
+        {
+          "file": "elibrary-book-detail.webp",
+          "sha256": "f75bfd3a63a62651f5cc607b5af5fd60e49136b4925f2ab5e03db81c095ee64b",
+          "role": "ui-reference"
+        },
+        {
+          "file": "elibrary-logo.webp",
+          "sha256": "f6dd4af233f4257ea5de913a3c920203e5de3d35600dfd4c7e8e1c3c0d48fef7",
+          "role": "identity-reference"
+        }
+      ],
+      "src": "/assets/projects/elibrary-cover-800.webp",
+      "width": 800,
+      "height": 500,
+      "bytes": 50790,
+      "sha256": "829ab8db59cea0c7e93bb8b3cc01985f511613762d3721d0349feddd2849fe1c",
+      "source_sha256": "cb549210df6d596ed70632fa9d2bc4e349593a4db50063931a5050376acb4e0c",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "Financial reporting and monthly budget planning.",
+      "presentation_method": "reference-based-generation",
+      "sources": [
+        {
+          "file": "feature-overview.png",
+          "sha256": "682cad314a3f8bb55b9f6b8ee4e20d0b0576d7a19faa0b2d6f10ae1c9a3dbcf2",
+          "role": "public-product-reference"
+        },
+        {
+          "file": "budget-form.png",
+          "sha256": "4dafe59867540596f7864666944de27de1c0ce709fdbf383d6205d6a0440106e",
+          "role": "public-product-reference"
+        },
+        {
+          "file": "sribuu-logo.webp",
+          "sha256": "e1f50fcad22d4e2eafb40e1bfc3f97f764efdba0e3c29471699ed75d1b1c832d",
+          "role": "identity-reference"
+        }
+      ],
+      "src": "/assets/projects/sribuu-cover.webp",
+      "width": 1586,
+      "height": 991,
+      "bytes": 66822,
+      "sha256": "442e25a71bdd5dbdcad14a25b8c24f2e74d226b40de8d7dff3a09c88279eb19e",
+      "source_sha256": "d51e59be53a962581c31624c6d1ff8d5176ab8e3f688cd450764b3aab3c276d7",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "Financial reporting and monthly budget planning.",
+      "presentation_method": "reference-based-generation",
+      "sources": [
+        {
+          "file": "feature-overview.png",
+          "sha256": "682cad314a3f8bb55b9f6b8ee4e20d0b0576d7a19faa0b2d6f10ae1c9a3dbcf2",
+          "role": "public-product-reference"
+        },
+        {
+          "file": "budget-form.png",
+          "sha256": "4dafe59867540596f7864666944de27de1c0ce709fdbf383d6205d6a0440106e",
+          "role": "public-product-reference"
+        },
+        {
+          "file": "sribuu-logo.webp",
+          "sha256": "e1f50fcad22d4e2eafb40e1bfc3f97f764efdba0e3c29471699ed75d1b1c832d",
+          "role": "identity-reference"
+        }
+      ],
+      "src": "/assets/projects/sribuu-cover-800.webp",
+      "width": 800,
+      "height": 500,
+      "bytes": 28652,
+      "sha256": "79b19c9e41b5b94e2dfa10220310aa6513096d1a0a6cb05a20dd83b1e6bc878e",
+      "source_sha256": "d51e59be53a962581c31624c6d1ff8d5176ab8e3f688cd450764b3aab3c276d7",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "caption": "Sribuu financial overview and mobile product interfaces.",
+      "source_url": "https://sribuu.id/fitur/",
+      "source_image_url": "https://sribuu.id/wp-content/uploads/2022/07/fitur-header-1024x458.png",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/sribuu-feature-overview.webp",
+      "width": 1024,
+      "height": 458,
+      "bytes": 57272,
+      "sha256": "ceb6d9bebeb27d596f287b5918c06ca756ba00abaa4367e925a31d7aade7c071",
+      "source_sha256": "682cad314a3f8bb55b9f6b8ee4e20d0b0576d7a19faa0b2d6f10ae1c9a3dbcf2",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "caption": "Sribuu financial overview and mobile product interfaces.",
+      "source_url": "https://sribuu.id/fitur/",
+      "source_image_url": "https://sribuu.id/wp-content/uploads/2022/07/fitur-header-1024x458.png",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/sribuu-feature-overview-800.webp",
+      "width": 800,
+      "height": 358,
+      "bytes": 41806,
+      "sha256": "d2df5900c3d8e7b9563897ddae8068e8cdd4dcdbaa39520301378926fc2cb86a",
+      "source_sha256": "682cad314a3f8bb55b9f6b8ee4e20d0b0576d7a19faa0b2d6f10ae1c9a3dbcf2",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "caption": "Monthly budget setup with amount, category and month selection.",
+      "source_url": "https://sribuu.id/budgeting-2/",
+      "source_image_url": "https://sribuu.id/wp-content/uploads/2022/03/Frame-5441-2-1-1024x409.png",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/sribuu-budget-form.webp",
+      "width": 1024,
+      "height": 409,
+      "bytes": 6506,
+      "sha256": "1e91b29bc9f645ee5203fe8f21160aed3c416d5d6cffe534b16045b983c17e6a",
+      "source_sha256": "4dafe59867540596f7864666944de27de1c0ce709fdbf383d6205d6a0440106e",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "caption": "Monthly budget setup with amount, category and month selection.",
+      "source_url": "https://sribuu.id/budgeting-2/",
+      "source_image_url": "https://sribuu.id/wp-content/uploads/2022/03/Frame-5441-2-1-1024x409.png",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/sribuu-budget-form-800.webp",
+      "width": 800,
+      "height": 320,
+      "bytes": 4680,
+      "sha256": "6a82cf3a285c1225a0931e842d8e28324261b2e3ab94ec22a7cd0294bf6aa08c",
+      "source_sha256": "4dafe59867540596f7864666944de27de1c0ce709fdbf383d6205d6a0440106e",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "caption": "Budget confirmation and category navigation.",
+      "source_url": "https://sribuu.id/budgeting-2/",
+      "source_image_url": "https://sribuu.id/wp-content/uploads/2022/03/Frame-5441-4-1024x409.png",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/sribuu-budget-complete.webp",
+      "width": 1024,
+      "height": 409,
+      "bytes": 8624,
+      "sha256": "01a6cba3b857d0d8b4f0fe286dea386115e3bc7aba3466391149c69b0e2f261b",
+      "source_sha256": "bc8eb6801d3b6289df781ec2bcc160f803d8787b19705ffa017942d740e14652",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "caption": "Budget confirmation and category navigation.",
+      "source_url": "https://sribuu.id/budgeting-2/",
+      "source_image_url": "https://sribuu.id/wp-content/uploads/2022/03/Frame-5441-4-1024x409.png",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/sribuu-budget-complete-800.webp",
+      "width": 800,
+      "height": 320,
+      "bytes": 6424,
+      "sha256": "0a88b60820ae9365ebf6157bf13839073e57ae225db84bc60313df9f79e65101",
+      "source_sha256": "bc8eb6801d3b6289df781ec2bcc160f803d8787b19705ffa017942d740e14652",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "caption": "Financial-goal tracking from Sribuu\u2019s published product guide.",
+      "source_url": "https://sribuu.id/fitur/",
+      "source_image_url": "https://sribuu.id/wp-content/uploads/2022/07/tujuan-keuangan-1-1024x753.png",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/sribuu-financial-goals.webp",
+      "width": 1024,
+      "height": 753,
+      "bytes": 19046,
+      "sha256": "2fc26a164e32517dc43985cece16b401b283d50a65cb1428d1eedfcbacedff2f",
+      "source_sha256": "4f4c96ff2b723a8c224be3ee5d9a98e5cff0f3c94928807b9d86fd74176b677b",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "caption": "Financial-goal tracking from Sribuu\u2019s published product guide.",
+      "source_url": "https://sribuu.id/fitur/",
+      "source_image_url": "https://sribuu.id/wp-content/uploads/2022/07/tujuan-keuangan-1-1024x753.png",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/sribuu-financial-goals-800.webp",
+      "width": 800,
+      "height": 588,
+      "bytes": 14934,
+      "sha256": "61cbd0dc015a013dcf31994171b573f5a7bad49433414916b4f6669269cb9464",
+      "source_sha256": "4f4c96ff2b723a8c224be3ee5d9a98e5cff0f3c94928807b9d86fd74176b677b",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "Land-asset locations, plotting and search.",
+      "presentation_method": "source-informed-generation",
+      "basis": [
+        "Documented land plotting, search and asset-location features",
+        "Archived original Sentuh Asetku identity"
+      ],
+      "src": "/assets/projects/sentuhassetku-mapping.webp",
+      "width": 1586,
+      "height": 991,
+      "bytes": 111878,
+      "sha256": "4d0941398af7902eed9fbfaa57589d4ceb8294669e5508674f9c09866c0d7347",
+      "source_sha256": "b611ea4fb8c525974cd13e651a34d9cb2aecba187afd3fcf8c1fd1a5ff412b2e",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "Land-asset locations, plotting and search.",
+      "presentation_method": "source-informed-generation",
+      "basis": [
+        "Documented land plotting, search and asset-location features",
+        "Archived original Sentuh Asetku identity"
+      ],
+      "src": "/assets/projects/sentuhassetku-mapping-800.webp",
+      "width": 800,
+      "height": 500,
+      "bytes": 49072,
+      "sha256": "869a0b127939d2d43b3b73ff458fb899f7aa166b6771ee718903847275fff733",
+      "source_sha256": "b611ea4fb8c525974cd13e651a34d9cb2aecba187afd3fcf8c1fd1a5ff412b2e",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "From supply-chain data to generated reports and automated delivery.",
+      "presentation_method": "source-informed-generation",
+      "basis": [
+        "Recorded supply-chain analysis and automated Telegram report delivery",
+        "Recorded PHP, Node.js, MySQL and Oracle stack"
+      ],
+      "src": "/assets/projects/scm-reporting.webp",
+      "width": 1586,
+      "height": 991,
+      "bytes": 67638,
+      "sha256": "7bea59dee67d4fe504cfd7afff37b27f1b1ef99628eeb15011dfe8c04b8d1b96",
+      "source_sha256": "fb95e1e780746599e3724862231c50230af93a326c71d0b361c682628d4a3f01",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "From supply-chain data to generated reports and automated delivery.",
+      "presentation_method": "source-informed-generation",
+      "basis": [
+        "Recorded supply-chain analysis and automated Telegram report delivery",
+        "Recorded PHP, Node.js, MySQL and Oracle stack"
+      ],
+      "src": "/assets/projects/scm-reporting-800.webp",
+      "width": 800,
+      "height": 500,
+      "bytes": 30482,
+      "sha256": "e48d0e4baa53be2de056b23a91c3a85b93e7ee365a3b13d862a7be55d1c0f6fc",
+      "source_sha256": "fb95e1e780746599e3724862231c50230af93a326c71d0b361c682628d4a3f01",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "Document upload, template selection and extraction settings.",
+      "presentation_method": "source-informed-generation",
+      "basis": [
+        "UploadScreen configuration constants and FormBuilder production widgets",
+        "Document upload, templates, parse/predict, citations and lite/pro parser options"
+      ],
+      "src": "/assets/projects/anycheck-upload-configuration.webp",
+      "width": 1586,
+      "height": 991,
+      "bytes": 61788,
+      "sha256": "c50e53c3f4d90f39f67eb9b98b7c52c5cacd322c8ee6785be4eadbe7a1034d18",
+      "source_sha256": "8c19261612be60afe88b737ac62ba8a37e28fd2f8ce4a9c29301259620969175",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "Document upload, template selection and extraction settings.",
+      "presentation_method": "source-informed-generation",
+      "basis": [
+        "UploadScreen configuration constants and FormBuilder production widgets",
+        "Document upload, templates, parse/predict, citations and lite/pro parser options"
+      ],
+      "src": "/assets/projects/anycheck-upload-configuration-800.webp",
+      "width": 800,
+      "height": 500,
+      "bytes": 22850,
+      "sha256": "70c8c2af5507542ff2e7acf60c7a3269ca5e9a92810525ceec8f791555067c92",
+      "source_sha256": "8c19261612be60afe88b737ac62ba8a37e28fd2f8ce4a9c29301259620969175",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "identity",
+      "caption": "Scm Tools portfolio identity.",
+      "identity_origin": "generated-portfolio-identity",
+      "basis": [
+        "Project name and documented functional context; original identity artwork used where available"
+      ],
+      "src": "/assets/projects/scm-tools-logo.webp",
+      "width": 384,
+      "height": 112,
+      "bytes": 29256,
+      "sha256": "aef2b2890caabab588981e66d9f1e7cdcb68c0d21c1b087530c1fd8b415b6f83",
+      "source_sha256": "4629a478660ff68a907c3a9a99603b2b58c9fcea3b93aa10f07cc30c4493add2",
+      "crop": [
+        98,
+        298,
+        1446,
+        691
+      ],
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "identity",
+      "caption": "Mina Finansial portfolio identity.",
+      "identity_origin": "generated-portfolio-identity",
+      "basis": [
+        "Project name and documented functional context; original identity artwork used where available"
+      ],
+      "src": "/assets/projects/mina-finansial-logo.webp",
+      "width": 384,
+      "height": 186,
+      "bytes": 47182,
+      "sha256": "e131f00cf429ad1f2d2c33cd62a6981a1b7ae13e0d0362ce8a50b4d41ed8ab9e",
+      "source_sha256": "0c83445741ac703ae0ab628a56fc56b46bee47f7b765976dcae6c5304eedfd04",
+      "crop": [
+        216,
+        227,
+        1323,
+        764
+      ],
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "identity",
+      "caption": "Game Center portfolio identity.",
+      "identity_origin": "generated-portfolio-identity",
+      "basis": [
+        "Project name and documented functional context; original identity artwork used where available"
+      ],
+      "src": "/assets/projects/game-center-logo.webp",
+      "width": 384,
+      "height": 103,
+      "bytes": 34928,
+      "sha256": "860063e2423695a708f1ba0d2b09715e0535d1a2bebea3268d6fc739fecd930c",
+      "source_sha256": "1b440afb8988254c3a87dce7ea322aae45b8000cf9e2a08c1eb94f97dfe3984d",
+      "crop": [
+        179,
+        339,
+        1399,
+        667
+      ],
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "runtime-demo",
+      "caption": "Read-only competency evaluation with individual assessment criteria. Sample records.",
+      "basis": [
+        "Original production screens and theme, compiled with isolated synthetic repositories"
+      ],
+      "src": "/assets/projects/sirajamusi-evaluation.webp",
+      "width": 860,
+      "height": 1864,
+      "bytes": 14070,
+      "sha256": "1fc42f2533e8faff6aab887fe2e749943936eb37742b494b6d8233904da130a0",
+      "source_sha256": "c848ca26cc50242da878057d27391c05d768f2125487bb5b8640d1a9ad8a2037",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "runtime-demo",
+      "caption": "Read-only competency evaluation with individual assessment criteria. Sample records.",
+      "basis": [
+        "Original production screens and theme, compiled with isolated synthetic repositories"
+      ],
+      "src": "/assets/projects/sirajamusi-evaluation-800.webp",
+      "width": 800,
+      "height": 1734,
+      "bytes": 13474,
+      "sha256": "5e9cc77d514ba495c4b5ea568353ae03ebf3fa86d4e62fdad3f4287790b5d673",
+      "source_sha256": "c848ca26cc50242da878057d27391c05d768f2125487bb5b8640d1a9ad8a2037",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "runtime-demo",
+      "caption": "Performance-report detail with competency totals and ranking. Sample records.",
+      "basis": [
+        "Original production screens and theme, compiled with isolated synthetic repositories"
+      ],
+      "src": "/assets/projects/sirajamusi-report.webp",
+      "width": 860,
+      "height": 1864,
+      "bytes": 51064,
+      "sha256": "cbe5e2241faaca55d7723bb4b318e8bae0eeb13cc89b5b7dc94d9231674ea113",
+      "source_sha256": "24404401f5337b4243059c92fc14a580407d693c1d8992ba45c0b2692fb03293",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "runtime-demo",
+      "caption": "Performance-report detail with competency totals and ranking. Sample records.",
+      "basis": [
+        "Original production screens and theme, compiled with isolated synthetic repositories"
+      ],
+      "src": "/assets/projects/sirajamusi-report-800.webp",
+      "width": 800,
+      "height": 1734,
+      "bytes": 46342,
+      "sha256": "9d3c02b2dd1d070ffcf62202a9e76efa530c497af0028e3d75be617a3a3cbad7",
+      "source_sha256": "24404401f5337b4243059c92fc14a580407d693c1d8992ba45c0b2692fb03293",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Nutrition tools: BMI, nutritional needs and the nutrition dictionary.",
+      "source_url": "https://apkpure.com/fr/nutrizer/com.etramatech.nutrizer",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLmV0cmFtYXRlY2gubnV0cml6ZXJfc2NyZWVuXzNfMTYxNjgxNTQ4OF8wNTU/screen-3.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/nutrizer-published-features.webp",
+      "width": 750,
+      "height": 1334,
+      "bytes": 38058,
+      "sha256": "32797aa24cfc2fb482ecee85fe8e363728f04fc88f44f137e0e194fcf7b1e655",
+      "source_sha256": "20be48922a2cc1ab3211b44e79df6fcda580d9d4e1df69aea5e9ed731a111b3b",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "BMI calculation with height, weight and an interpreted result.",
+      "source_url": "https://apkpure.com/fr/nutrizer/com.etramatech.nutrizer",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLmV0cmFtYXRlY2gubnV0cml6ZXJfc2NyZWVuXzVfMTYxNjgxNTQ4OV8wMzY/screen-5.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/nutrizer-published-bmi.webp",
+      "width": 750,
+      "height": 1334,
+      "bytes": 28844,
+      "sha256": "a8b47b31a3758ed75ac45586d8fb319e00ab37c12d37678c5dfc024a823362b0",
+      "source_sha256": "fb655c22e84b43b63b36ed429102eb3225fbd3e094552a2888b82b55e3d4c388",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Nutritional-needs calculation with energy, protein, carbohydrate and fat totals.",
+      "source_url": "https://apkpure.com/fr/nutrizer/com.etramatech.nutrizer",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLmV0cmFtYXRlY2gubnV0cml6ZXJfc2NyZWVuXzZfMTYxNjgxNTQ5MF8wOTE/screen-6.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/nutrizer-published-nutrition.webp",
+      "width": 750,
+      "height": 1334,
+      "bytes": 30322,
+      "sha256": "180148081ba6f185193d50bec74c329f7a70b1bc656104d2faa6f7de1a667f68",
+      "source_sha256": "b3ba45f76b27b320a0ff43db464d23df4f09e26e20024a9a0aa904fdba8ebe02",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Camera directory with a monitoring preview and camera locations.",
+      "source_url": "https://apkpure.com/fr/cctv-dishub-palembang/com.sintechsolution.atcs",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLnNpbnRlY2hzb2x1dGlvbi5hdGNzX3NjcmVlbl80XzE2NzI5OTE1ODZfMDA5/screen-4.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/cctv-published-cameras.webp",
+      "width": 540,
+      "height": 1110,
+      "bytes": 63034,
+      "sha256": "749342050be6cc744d16c9163089ad9ee182c47602327259dc8f5ef63e62d6de",
+      "source_sha256": "ae026d2a9d1c2a2db96f96027f21c41b63394037d2ebda03d0d41ea850486886",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Feeder-stop locations with map filters and location controls.",
+      "source_url": "https://apkpure.com/fr/cctv-dishub-palembang/com.sintechsolution.atcs",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLnNpbnRlY2hzb2x1dGlvbi5hdGNzX3NjcmVlbl8zXzE2NzI5OTE1ODVfMDg4/screen-3.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/cctv-published-map.webp",
+      "width": 540,
+      "height": 1110,
+      "bytes": 53940,
+      "sha256": "30c0e8726e82a56156f11e9933cbc859c8de76a5f880c9fa7a0832deb8dbaea5",
+      "source_sha256": "ba4de29be556ba30c4bc3a8c6f749ae38a24822ff650dc73e89e5faf719a3eba",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Published Gerai SDM artwork showing the personnel-service home and news.",
+      "source_url": "https://apkpure.com/fr/gerai-sdm-polda-sumsel/com.sintechsolution.geraisdm",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLnNpbnRlY2hzb2x1dGlvbi5nZXJhaXNkbV9zY3JlZW5fMV8xNjQzODIxNTQ4XzA5Mg/screen-1.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/geraisdm-published-home.webp",
+      "width": 931,
+      "height": 1660,
+      "bytes": 74434,
+      "sha256": "ae3296b5e8840137d881e2db54dab603f4fe712f01d1fb0210f060737d49040b",
+      "source_sha256": "1e726900b68de03098e9f7a83cebbd4ff6664acbe4d564490d8d8a2eb2cf55f6",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Published Gerai SDM artwork showing the personnel-service home and news.",
+      "source_url": "https://apkpure.com/fr/gerai-sdm-polda-sumsel/com.sintechsolution.geraisdm",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLnNpbnRlY2hzb2x1dGlvbi5nZXJhaXNkbV9zY3JlZW5fMV8xNjQzODIxNTQ4XzA5Mg/screen-1.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/geraisdm-published-home-800.webp",
+      "width": 800,
+      "height": 1426,
+      "bytes": 59928,
+      "sha256": "0055a9a22185cce4442d3a76045b4d7beaee7715854428b669b2628148d0a705",
+      "source_sha256": "1e726900b68de03098e9f7a83cebbd4ff6664acbe4d564490d8d8a2eb2cf55f6",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Published Gerai SDM artwork showing personnel-service categories.",
+      "source_url": "https://apkpure.com/fr/gerai-sdm-polda-sumsel/com.sintechsolution.geraisdm",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLnNpbnRlY2hzb2x1dGlvbi5nZXJhaXNkbV9zY3JlZW5fM18xNjQzODIxNTQ5XzA5MA/screen-3.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/geraisdm-published-services.webp",
+      "width": 931,
+      "height": 1660,
+      "bytes": 74914,
+      "sha256": "954085da288fd7195b6aa4de73b81552baa3d2b0821e70a6892aa1fee85bf586",
+      "source_sha256": "b68ed32b494d0c4f2a39f09acfe0fd62a74985ccf4522639616c61bf5eaf8ee9",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Published Gerai SDM artwork showing personnel-service categories.",
+      "source_url": "https://apkpure.com/fr/gerai-sdm-polda-sumsel/com.sintechsolution.geraisdm",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLnNpbnRlY2hzb2x1dGlvbi5nZXJhaXNkbV9zY3JlZW5fM18xNjQzODIxNTQ5XzA5MA/screen-3.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/geraisdm-published-services-800.webp",
+      "width": 800,
+      "height": 1426,
+      "bytes": 61966,
+      "sha256": "00a95a43015f8d11110773da4c689b944f54acc5fd896852930504d3fe3535d3",
+      "source_sha256": "b68ed32b494d0c4f2a39f09acfe0fd62a74985ccf4522639616c61bf5eaf8ee9",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Traffic-sign locations with category filters on the map.",
+      "source_url": "https://apkpure.com/fr/ets-dishub-kota-palembang/com.etramatech.ets",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLmV0cmFtYXRlY2guZXRzX3NjcmVlbl80XzE2NjIwNzcwODNfMDUw/screen-4.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/ets-published-map.webp",
+      "width": 778,
+      "height": 1600,
+      "bytes": 82592,
+      "sha256": "040dd730abf498f15af5c264a898d2e12b23c806f22099f4a0214966f96537bf",
+      "source_sha256": "64d64ab1744b00338a99407cbd5bc01880267f9a25cbb2b7b71b306126da6b79",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Sign plotting with coordinates, procurement year, notes and supporting photos.",
+      "source_url": "https://apkpure.com/fr/ets-dishub-kota-palembang/com.etramatech.ets",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLmV0cmFtYXRlY2guZXRzX3NjcmVlbl81XzE2NjIwNzcwODRfMDk0/screen-5.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/ets-published-plotting.webp",
+      "width": 778,
+      "height": 1600,
+      "bytes": 27930,
+      "sha256": "a635afffbede299a7696439eba89eb0bf285af59a12ff39ae67f657312bdc59b",
+      "source_sha256": "86086502ec912b085910cdad5879a02a8b4ca9d1bb417fb70f9b1a92da935f00",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "A traffic-sign record with condition, location, procurement year and installation action.",
+      "source_url": "https://apkpure.com/fr/ets-dishub-kota-palembang/com.etramatech.ets",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLmV0cmFtYXRlY2guZXRzX3NjcmVlbl83XzE2NjIwNzcwODRfMDc2/screen-7.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/ets-published-detail.webp",
+      "width": 778,
+      "height": 1600,
+      "bytes": 33298,
+      "sha256": "5f4d3ee70d6419ee4ef0929cedafd2f7a1f3980b1630c4f0543974dc0976e054",
+      "source_sha256": "db6e513ce812397f78b6be03d8c92cda7d29f045735970b2cc315f77d773b991",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Hard-competency categories with reporting actions and submitted-report indicators.",
+      "source_url": "https://apkpure.com/fr/siap-semeru/com.sintechsolution.siapsemeru",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLnNpbnRlY2hzb2x1dGlvbi5zaWFwc2VtZXJ1X3NjcmVlbl8zXzE2ODM3MjU1ODdfMDU2/screen-3.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/siapsemeru-published-competency.webp",
+      "width": 720,
+      "height": 1600,
+      "bytes": 46844,
+      "sha256": "ba27bab0f152fe267aae3420adb7be64f80bc56d9e67e7e179338b106ebdcecd",
+      "source_sha256": "a3f09797c5721ef134f765a504414ce1d0e01d24fc2937afe8cac8f13e9a03ac",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Hard-competency reporting categories and report-entry actions.",
+      "source_url": "https://apkpure.com/fr/sirajamusi-polda-sumsel/com.sintechsolution.sirajamusi",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLnNpbnRlY2hzb2x1dGlvbi5zaXJhamFtdXNpX3NjcmVlbl80XzE3ODc5OTc3NTVfMDkw/screen-4.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/sirajamusi-published-competency.webp",
+      "width": 778,
+      "height": 1600,
+      "bytes": 46632,
+      "sha256": "7531cf5efee4997a2fc5b8b35cf7323b3ecff270a18248de4d52b2ff30ebc695",
+      "source_sha256": "5e7305ebaa7ec945eca7e8b2f7bcb9fbb3598a557b6b58d88be0c9da1f704b67",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Transmission-tower locations with map filters and location controls.",
+      "source_url": "https://apkpure.com/fr/monaling/com.sintechsolution.monaling",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLnNpbnRlY2hzb2x1dGlvbi5tb25hbGluZ19zY3JlZW5fM18xNzgyODM3MjU2XzAyMQ/screen-3.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/monaling-published-map.webp",
+      "width": 576,
+      "height": 1280,
+      "bytes": 85084,
+      "sha256": "9433ff72f2418f469da0b04b5eb75f50fc7792a4019788b0e6ad47b61317ef04",
+      "source_sha256": "8f8dc80282d0fdc2b0544e7cd7697a8e7b5017bc3574437bff3efd407a512132",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Customer app: restaurant discovery, categories and recommended menus.",
+      "source_url": "https://apkpure.com/fr/mytimor-order-taxi-food-and/com.tcel.mytimor",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLnRjZWwubXl0aW1vcl9zY3JlZW5fN18xNjI1NzQwMDM5XzAwOQ/screen-7.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/mytimor-published-discovery.webp",
+      "width": 1080,
+      "height": 2400,
+      "bytes": 163078,
+      "sha256": "61dfbc7d6f61166104a10c6d3672fca4e2d22be6069c5c88f7e02caa18fa68dd",
+      "source_sha256": "ecf9a07b61cda7bda5b9a804497cd8527bfd32f9c0a205d9442abecbb106b68f",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Customer app: restaurant discovery, categories and recommended menus.",
+      "source_url": "https://apkpure.com/fr/mytimor-order-taxi-food-and/com.tcel.mytimor",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLnRjZWwubXl0aW1vcl9zY3JlZW5fN18xNjI1NzQwMDM5XzAwOQ/screen-7.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/mytimor-published-discovery-800.webp",
+      "width": 800,
+      "height": 1778,
+      "bytes": 109740,
+      "sha256": "87005b6e53f51dac6589c99f457c0b73e1d91db863cb5efb1725997e79ecc799",
+      "source_sha256": "ecf9a07b61cda7bda5b9a804497cd8527bfd32f9c0a205d9442abecbb106b68f",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Driver app: a confirmed food order, pickup and delivery details, estimated revenue and order verification.",
+      "source_url": "https://apkpure.com/fr/mytimor-driver/com.tcel.mytimor_driver",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLnRjZWwubXl0aW1vcl9kcml2ZXJfc2NyZWVuXzVfMTYyNTc2MTcwNF8wODU/screen-5.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/mytimor-driver-published-order.webp",
+      "width": 1080,
+      "height": 2400,
+      "bytes": 75932,
+      "sha256": "39d01dbf0218f1ed7977be2ce64212c7121cdf157afe568919fb063a83a7c7ea",
+      "source_sha256": "7f2e9acc72158cc5fd5598500ad4686191bcb8bfd39ab0fc067122b903338540",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Driver app: a confirmed food order, pickup and delivery details, estimated revenue and order verification.",
+      "source_url": "https://apkpure.com/fr/mytimor-driver/com.tcel.mytimor_driver",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLnRjZWwubXl0aW1vcl9kcml2ZXJfc2NyZWVuXzVfMTYyNTc2MTcwNF8wODU/screen-5.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/mytimor-driver-published-order-800.webp",
+      "width": 800,
+      "height": 1778,
+      "bytes": 52616,
+      "sha256": "a63ba78c325cbe404752444cda841dce9cc3c2c087ca9b9c7d06d63e6a137186",
+      "source_sha256": "7f2e9acc72158cc5fd5598500ad4686191bcb8bfd39ab0fc067122b903338540",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Published merchant-app artwork showing menu management and an add-menu action.",
+      "source_url": "https://apkpure.com/fr/mytimor-merchant/com.tcel.mytimor_merchant",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLnRjZWwubXl0aW1vcl9tZXJjaGFudF9zY3JlZW5fMl8xNjI0ODMzMjkzXzAyMQ/screen-2.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/mytimor-merchant-published-menu.webp",
+      "width": 1080,
+      "height": 1920,
+      "bytes": 67512,
+      "sha256": "0593c9e141401f140144db9ec7f05950473996119974ce4353267d9b73e54605",
+      "source_sha256": "3ed137327e497b952374317fdf259edc653baa4eba0da8da547f899951ea7706",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Published merchant-app artwork showing menu management and an add-menu action.",
+      "source_url": "https://apkpure.com/fr/mytimor-merchant/com.tcel.mytimor_merchant",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLnRjZWwubXl0aW1vcl9tZXJjaGFudF9zY3JlZW5fMl8xNjI0ODMzMjkzXzAyMQ/screen-2.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/mytimor-merchant-published-menu-800.webp",
+      "width": 800,
+      "height": 1422,
+      "bytes": 46976,
+      "sha256": "a1c2d6f20ef920f82c3fc4b23ac0da85731b52e11db024b96496a5e40a39d12d",
+      "source_sha256": "3ed137327e497b952374317fdf259edc653baa4eba0da8da547f899951ea7706",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Merchant app: opening hours and day-by-day availability controls.",
+      "source_url": "https://apkpure.com/fr/mytimor-merchant/com.tcel.mytimor_merchant",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLnRjZWwubXl0aW1vcl9tZXJjaGFudF9zY3JlZW5fN18xNjI0ODMzMjk1XzA4MQ/screen-7.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/mytimor-merchant-published-hours.webp",
+      "width": 1080,
+      "height": 2400,
+      "bytes": 48632,
+      "sha256": "69a13c0363ba381b7324a6ac00bf9d9e72c6d1cc05d9101a61d562c62389e54e",
+      "source_sha256": "fd322f789ca61702c755b59e651ae814dcb7173c601cb84c5ae5873147817028",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Merchant app: opening hours and day-by-day availability controls.",
+      "source_url": "https://apkpure.com/fr/mytimor-merchant/com.tcel.mytimor_merchant",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLnRjZWwubXl0aW1vcl9tZXJjaGFudF9zY3JlZW5fN18xNjI0ODMzMjk1XzA4MQ/screen-7.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/mytimor-merchant-published-hours-800.webp",
+      "width": 800,
+      "height": 1778,
+      "bytes": 34428,
+      "sha256": "df1fe76d6896920550ce41e833ed35438e241a8e261c282a50e70dcbe0c95335",
+      "source_sha256": "fd322f789ca61702c755b59e651ae814dcb7173c601cb84c5ae5873147817028",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Mobile library: subject departments and book counts.",
+      "source_url": "https://apkpure.com/fr/e-biblioteca-untl/com.untl.tcel.tluntl",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLnVudGwudGNlbC50bHVudGxfc2NyZWVuXzNfMTU2NjUwMjQxMl8wNjY/screen-3.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/elibrary-published-mobile-categories.webp",
+      "width": 720,
+      "height": 1280,
+      "bytes": 32482,
+      "sha256": "a899f2a3eb11a62ac8ecf89cd1bfbecb9470bdf2d2eba28cfcd84748ca5d88a9",
+      "source_sha256": "5ce95d19c46514b004a1f22384115491c2f46d2a3bea6675705e7905a3f30879",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Mobile library: the book-reading interface.",
+      "source_url": "https://apkpure.com/fr/e-biblioteca-untl/com.untl.tcel.tluntl",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLnVudGwudGNlbC50bHVudGxfc2NyZWVuXzRfMTU2NjUwMjQxMl8wMzU/screen-4.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/elibrary-published-mobile-reader.webp",
+      "width": 720,
+      "height": 1280,
+      "bytes": 99578,
+      "sha256": "1a3c179570bed988311495891c9d0ab65b3ce6b12ef81b57dab29c6250d87be7",
+      "source_sha256": "b062e89c597878c3e51407c2f349d2a32cda5b51b5e441d8f148abbbe2813da8",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Published Musica artwork showing music discovery and a song list.",
+      "source_url": "https://apkpure.com/fr/musica-timor-leste/com.tcel.musicatl",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLnRjZWwubXVzaWNhdGxfc2NyZWVuXzFfMTU5NDIwNzAzMl8wODU/screen-1.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/musica-published-discovery.webp",
+      "width": 1280,
+      "height": 2273,
+      "bytes": 68990,
+      "sha256": "860a6ab89d085852d1cc1e5f5cfca479d1fc54370164b0654e6722432782516a",
+      "source_sha256": "41a95da771a9a9d945337bc1ec20fa45f7ab3575965b205c7679411c7fa3d0d0",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Published Musica artwork showing music discovery and a song list.",
+      "source_url": "https://apkpure.com/fr/musica-timor-leste/com.tcel.musicatl",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLnRjZWwubXVzaWNhdGxfc2NyZWVuXzFfMTU5NDIwNzAzMl8wODU/screen-1.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/musica-published-discovery-800.webp",
+      "width": 800,
+      "height": 1421,
+      "bytes": 40120,
+      "sha256": "220a895c3bda2d4f57114e8cb8d10b13ea77f5765c6c5da280a30e5fda0ee742",
+      "source_sha256": "41a95da771a9a9d945337bc1ec20fa45f7ab3575965b205c7679411c7fa3d0d0",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Published Musica artwork showing playback, progress and listening controls.",
+      "source_url": "https://apkpure.com/fr/musica-timor-leste/com.tcel.musicatl",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLnRjZWwubXVzaWNhdGxfc2NyZWVuXzJfMTU5NDIwNzAzNF8wMDU/screen-2.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/musica-published-player.webp",
+      "width": 1280,
+      "height": 2272,
+      "bytes": 50804,
+      "sha256": "3b451e45741fcf3d8bda25bb4016ca2a4ee5c2900ddefb5452676ee25a8f6872",
+      "source_sha256": "425352c73ef658aee85d8ba6c763c8acfcb4fe726d58dba7afa42766dafd9913",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Published Musica artwork showing playback, progress and listening controls.",
+      "source_url": "https://apkpure.com/fr/musica-timor-leste/com.tcel.musicatl",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLnRjZWwubXVzaWNhdGxfc2NyZWVuXzJfMTU5NDIwNzAzNF8wMDU/screen-2.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/musica-published-player-800.webp",
+      "width": 800,
+      "height": 1420,
+      "bytes": 29414,
+      "sha256": "9ed957979688d7884d034bd5b16c1e9d90b499296ec88395a16d74a53cb21296",
+      "source_sha256": "425352c73ef658aee85d8ba6c763c8acfcb4fe726d58dba7afa42766dafd9913",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Published Musica artwork showing the duet-karaoke interface.",
+      "source_url": "https://apkpure.com/fr/musica-timor-leste/com.tcel.musicatl",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLnRjZWwubXVzaWNhdGxfc2NyZWVuXzNfMTU5NDIwNzAzNl8wMDY/screen-3.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/musica-published-duet.webp",
+      "width": 1280,
+      "height": 2272,
+      "bytes": 65616,
+      "sha256": "6433b4b149f1e2c52fbb323586b432a00701e00e3679c73d6f381a3092d02d75",
+      "source_sha256": "01ba73ad66521254b388ecb78f87f4ff7ed1d2ee3de7baea2d1e9081e10a1cfd",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Published Musica artwork showing the duet-karaoke interface.",
+      "source_url": "https://apkpure.com/fr/musica-timor-leste/com.tcel.musicatl",
+      "source_image_url": "https://image.winudf.com/v2/image1/Y29tLnRjZWwubXVzaWNhdGxfc2NyZWVuXzNfMTU5NDIwNzAzNl8wMDY/screen-3.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/musica-published-duet-800.webp",
+      "width": 800,
+      "height": 1420,
+      "bytes": 36144,
+      "sha256": "53096bea8c068f7f3e5ba389b47d0c4e3295aff8e41fe14a2ee2fb3cee7baf1e",
+      "source_sha256": "01ba73ad66521254b388ecb78f87f4ff7ed1d2ee3de7baea2d1e9081e10a1cfd",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Published CreatorSpace artwork showing creator jobs and brand-collaboration opportunities.",
+      "source_url": "https://apkpure.com/fr/bintango-creatorspace/id.bintango",
+      "source_image_url": "https://image.winudf.com/v2/image1/aWQuYmludGFuZ29fc2NyZWVuX2lkXzFfMTY1NzU3OTUwN18wODg/screen-1.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/bintango-published-jobs.webp",
+      "width": 800,
+      "height": 1731,
+      "bytes": 282218,
+      "sha256": "8b177a61b481824418d5be51977dd60c567ea58f70a98bb1f38d738bee613035",
+      "source_sha256": "7efe515ad0fb812dffd6784cc60bb1ed56dc3fb4162297a583dceee3392d220c",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Published CreatorSpace artwork showing campaign listings and job filters.",
+      "source_url": "https://apkpure.com/fr/bintango-creatorspace/id.bintango",
+      "source_image_url": "https://image.winudf.com/v2/image1/aWQuYmludGFuZ29fc2NyZWVuX2lkXzJfMTY1NzU3OTUxMF8wNzk/screen-2.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/bintango-published-adnetwork.webp",
+      "width": 800,
+      "height": 1731,
+      "bytes": 219050,
+      "sha256": "fb4ac66025ad69a1446408c9ae9305845c87b64bc401f7eab61b576364089513",
+      "source_sha256": "326bc7e7746538158cf8edb74f4f9fc71d3376d9c8b518a3907ac9dfbdda3c60",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "public-listing",
+      "caption": "Published CreatorSpace artwork showing the creator community and forum.",
+      "source_url": "https://apkpure.com/fr/bintango-creatorspace/id.bintango",
+      "source_image_url": "https://image.winudf.com/v2/image1/aWQuYmludGFuZ29fc2NyZWVuX2lkXzNfMTY1NzU3OTUxNF8wMTE/screen-3.jpg?fakeurl=1&type=.jpg",
+      "retrieved_on": "2026-11-01",
+      "src": "/assets/projects/bintango-published-community.webp",
+      "width": 800,
+      "height": 1731,
+      "bytes": 244174,
+      "sha256": "c4ec87cd42cad1532ca4cea752691c5e9deb7b12e930c0aa4e7ddcda09342eff",
+      "source_sha256": "267ae1839f6e9dd2c92e5ad6f226bef39533b367b9d908ca795bf038cd6c921f",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "app-store",
+      "caption": "Published Sribuu App Store artwork showing the financial overview and budgeting context.",
+      "source_url": "https://apps.apple.com/id/app/sribuu-budget-money-manager/id1542637665?uo=4",
+      "source_image_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/ae/d4/b5aed48e-bed4-ed1a-c328-ac0230857d42/52f3c402-ec14-4add-aedf-4fa3ccbc5311_0x0ss.png/1242x2688bb.jpg",
+      "retrieved_on": "2026-11-01",
+      "listing_image_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/ae/d4/b5aed48e-bed4-ed1a-c328-ac0230857d42/52f3c402-ec14-4add-aedf-4fa3ccbc5311_0x0ss.png/320x480bb.jpg",
+      "src": "/assets/projects/sribuu-app-store-overview.webp",
+      "width": 1242,
+      "height": 2688,
+      "bytes": 153978,
+      "sha256": "089aa3f1132ec5c3e81d916d81077a3b0a9ecc75211ccfa17f2544b09a6eb028",
+      "source_sha256": "80c88ca0f1238486222ba67f405a0e2443939a97b8d3f30b54fdfc0840a59c89",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "app-store",
+      "caption": "Published Sribuu App Store artwork showing the financial overview and budgeting context.",
+      "source_url": "https://apps.apple.com/id/app/sribuu-budget-money-manager/id1542637665?uo=4",
+      "source_image_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/ae/d4/b5aed48e-bed4-ed1a-c328-ac0230857d42/52f3c402-ec14-4add-aedf-4fa3ccbc5311_0x0ss.png/1242x2688bb.jpg",
+      "retrieved_on": "2026-11-01",
+      "listing_image_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/ae/d4/b5aed48e-bed4-ed1a-c328-ac0230857d42/52f3c402-ec14-4add-aedf-4fa3ccbc5311_0x0ss.png/320x480bb.jpg",
+      "src": "/assets/projects/sribuu-app-store-overview-800.webp",
+      "width": 800,
+      "height": 1731,
+      "bytes": 94500,
+      "sha256": "5e85018a5274468eb45bb6fc4b13f4055e9aa9422a8cae6066c41acd0c78e0e0",
+      "source_sha256": "80c88ca0f1238486222ba67f405a0e2443939a97b8d3f30b54fdfc0840a59c89",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "app-store",
+      "caption": "Published Sribuu App Store artwork showing statement-import options.",
+      "source_url": "https://apps.apple.com/id/app/sribuu-budget-money-manager/id1542637665?uo=4",
+      "source_image_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/71/96/f07196ef-d65f-fd22-fba4-269bcc40419e/ASO_Iphone_6.5.png/1242x2688bb.jpg",
+      "retrieved_on": "2026-11-01",
+      "listing_image_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/71/96/f07196ef-d65f-fd22-fba4-269bcc40419e/ASO_Iphone_6.5.png/320x480bb.jpg",
+      "src": "/assets/projects/sribuu-app-store-import.webp",
+      "width": 1242,
+      "height": 2688,
+      "bytes": 122226,
+      "sha256": "5dbd3a8410780f0b11d3552ba70a32960caca395c0a96f88295ea6140cf92ca9",
+      "source_sha256": "73bfc5acec010b0e15a7b45f302f753f42af7ef3f98fce86dd255784b13ca1e0",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "public-reference",
+      "reference_type": "app-store",
+      "caption": "Published Sribuu App Store artwork showing statement-import options.",
+      "source_url": "https://apps.apple.com/id/app/sribuu-budget-money-manager/id1542637665?uo=4",
+      "source_image_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/71/96/f07196ef-d65f-fd22-fba4-269bcc40419e/ASO_Iphone_6.5.png/1242x2688bb.jpg",
+      "retrieved_on": "2026-11-01",
+      "listing_image_url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/71/96/f07196ef-d65f-fd22-fba4-269bcc40419e/ASO_Iphone_6.5.png/320x480bb.jpg",
+      "src": "/assets/projects/sribuu-app-store-import-800.webp",
+      "width": 800,
+      "height": 1731,
+      "bytes": 77374,
+      "sha256": "24c1caf68e62deabcb16133d717ecfd3be3ba0e3d285f44ff5909846e0aedc20",
+      "source_sha256": "73bfc5acec010b0e15a7b45f302f753f42af7ef3f98fce86dd255784b13ca1e0",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "runtime-demo",
+      "caption": "Workflow canvas with connected invoice nodes and the selected output-node inspector. Isolated sample workflow; no live processing.",
+      "basis": [
+        "Original workflow widgets rendered with isolated fixture nodes and native inspector controls"
+      ],
+      "src": "/assets/projects/anycheck-workflow.webp",
+      "width": 1600,
+      "height": 933,
+      "bytes": 59220,
+      "sha256": "f99ab8ec7c594a5eb4d04b3659e16e8ba7f96972cb30cb2c01b4073363911b77",
+      "source_sha256": "9e852a35a92a42e395aa7513bbf82e62affa7bff02baa41c2d20576b6696bee2",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "runtime-demo",
+      "caption": "Workflow canvas with connected invoice nodes and the selected output-node inspector. Isolated sample workflow; no live processing.",
+      "basis": [
+        "Original workflow widgets rendered with isolated fixture nodes and native inspector controls"
+      ],
+      "src": "/assets/projects/anycheck-workflow-800.webp",
+      "width": 800,
+      "height": 467,
+      "bytes": 20624,
+      "sha256": "e79888cc9d95d7483c0d21c871d1366e3480083631c5b20f33313d78682dcd03",
+      "source_sha256": "9e852a35a92a42e395aa7513bbf82e62affa7bff02baa41c2d20576b6696bee2",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "runtime-demo",
+      "caption": "Asset-condition and periodic-inspection charts, using the original chart widgets and theme with sample records.",
+      "basis": [
+        "Original doughnut and column chart rendering bodies and project theme in an isolated host",
+        "Synthetic asset-condition totals: 12 + 4 + 2 = 18",
+        "Synthetic monthly inspections: July 3, August 5, September 6, October 4"
+      ],
+      "capture_scope": "isolated-native-chart-components",
+      "src": "/assets/projects/gardupln-dashboard.webp",
+      "width": 860,
+      "height": 1864,
+      "bytes": 30804,
+      "sha256": "3047f5c0240481b43ab26bc053764520a021904ae51755bb467d7eb50e9e37ca",
+      "source_sha256": "da6f422fe74d8ad209185ed8e49b5429f5d49d6643266dd86b5315e786b338f6",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "runtime-demo",
+      "caption": "Asset-condition and periodic-inspection charts, using the original chart widgets and theme with sample records.",
+      "basis": [
+        "Original doughnut and column chart rendering bodies and project theme in an isolated host",
+        "Synthetic asset-condition totals: 12 + 4 + 2 = 18",
+        "Synthetic monthly inspections: July 3, August 5, September 6, October 4"
+      ],
+      "capture_scope": "isolated-native-chart-components",
+      "src": "/assets/projects/gardupln-dashboard-800.webp",
+      "width": 800,
+      "height": 1734,
+      "bytes": 28848,
+      "sha256": "3380286affd72eb74f8dfd944086217d2e14de55be70b98c15eb43c2f5e354ce",
+      "source_sha256": "da6f422fe74d8ad209185ed8e49b5429f5d49d6643266dd86b5315e786b338f6",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "presentation_method": "reference-based-generation",
+      "sample_data": true,
+      "caption": "Financial Statement Analyzer with Orbit in document context. Sample company, statement and values.",
+      "sources": [
+        {
+          "file": "reference-1.webp",
+          "sha256": "f91845a98b6cc85f49970675e190fd31c5dee5309f1d72d33bbbd2c9caecd04e",
+          "role": "ui-reference"
+        },
+        {
+          "file": "reference-3.png",
+          "sha256": "ef44b7d5b5a8b3528c4b73318223af89799e00a2b6602125d1e6980e904d33c0",
+          "role": "mascot-reference"
+        }
+      ],
+      "sample_fixture_sha256": "e9b9d70767b5af68706595a1b66225f0cc141b817345492f460d31c03e6ae1d2",
+      "src": "/assets/projects/anycheck-fsa-orbit.webp",
+      "width": 1600,
+      "height": 850,
+      "bytes": 88690,
+      "sha256": "fa69925a6523b111ebdd7c7f9239d5709b4dac23eec83c86412c7c56bc09edce",
+      "source_sha256": "f1cc155a7711ba50df3fe84acdf6a223d36729d2b0b1cf67a96c9ed25f60f0ab",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "presentation_method": "reference-based-generation",
+      "sample_data": true,
+      "caption": "Financial Statement Analyzer with Orbit in document context. Sample company, statement and values.",
+      "sources": [
+        {
+          "file": "reference-1.webp",
+          "sha256": "f91845a98b6cc85f49970675e190fd31c5dee5309f1d72d33bbbd2c9caecd04e",
+          "role": "ui-reference"
+        },
+        {
+          "file": "reference-3.png",
+          "sha256": "ef44b7d5b5a8b3528c4b73318223af89799e00a2b6602125d1e6980e904d33c0",
+          "role": "mascot-reference"
+        }
+      ],
+      "sample_fixture_sha256": "e9b9d70767b5af68706595a1b66225f0cc141b817345492f460d31c03e6ae1d2",
+      "src": "/assets/projects/anycheck-fsa-orbit-800.webp",
+      "width": 800,
+      "height": 425,
+      "bytes": 33772,
+      "sha256": "1edc44a6b315dc323ad5c894c2eff617071266495c1e265902ddafeafa67b820",
+      "source_sha256": "f1cc155a7711ba50df3fe84acdf6a223d36729d2b0b1cf67a96c9ed25f60f0ab",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "presentation_method": "reference-based-generation",
+      "sample_data": true,
+      "caption": "Platform Dashboard with organization activity and credit-usage trends. Sample organizations and values.",
+      "sources": [
+        {
+          "file": "reference-4.webp",
+          "sha256": "776e2c70019865ba036ba5ed3542cd83d4dc2b03883550dfc446d38011f80a05",
+          "role": "ui-reference"
+        },
+        {
+          "file": "reference-3.png",
+          "sha256": "ef44b7d5b5a8b3528c4b73318223af89799e00a2b6602125d1e6980e904d33c0",
+          "role": "mascot-reference"
+        }
+      ],
+      "sample_fixture_sha256": "e9b9d70767b5af68706595a1b66225f0cc141b817345492f460d31c03e6ae1d2",
+      "src": "/assets/projects/anycheck-platform-dashboard.webp",
+      "width": 1600,
+      "height": 850,
+      "bytes": 67798,
+      "sha256": "133662b3d91c8771360654ee892f5eee53821f2e558ccc765c6925d014894994",
+      "source_sha256": "d5f4b16433c1feb3a5bb3d46d8ddf6f7d03f08e51fd4bc17470625fb284e1722",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "presentation_method": "reference-based-generation",
+      "sample_data": true,
+      "caption": "Platform Dashboard with organization activity and credit-usage trends. Sample organizations and values.",
+      "sources": [
+        {
+          "file": "reference-4.webp",
+          "sha256": "776e2c70019865ba036ba5ed3542cd83d4dc2b03883550dfc446d38011f80a05",
+          "role": "ui-reference"
+        },
+        {
+          "file": "reference-3.png",
+          "sha256": "ef44b7d5b5a8b3528c4b73318223af89799e00a2b6602125d1e6980e904d33c0",
+          "role": "mascot-reference"
+        }
+      ],
+      "sample_fixture_sha256": "e9b9d70767b5af68706595a1b66225f0cc141b817345492f460d31c03e6ae1d2",
+      "src": "/assets/projects/anycheck-platform-dashboard-800.webp",
+      "width": 800,
+      "height": 425,
+      "bytes": 25590,
+      "sha256": "7cbf37e52f4aebe570f8144cef4731e44c203ffd26d107b5c21293e4c85c919a",
+      "source_sha256": "d5f4b16433c1feb3a5bb3d46d8ddf6f7d03f08e51fd4bc17470625fb284e1722",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "runtime-demo",
+      "capture_scope": "isolated-native-annotation-dashboard",
+      "sample_data": true,
+      "caption": "Annotation Admin Dashboard with workload, team performance and review queues. Original dashboard widgets with sample records.",
+      "sources": [
+        {
+          "file": "reference-2.webp",
+          "sha256": "bafc8093678dae12d2eec15893d7c296830a1fd813e66b6ab8db92f96ca203e0",
+          "role": "ui-reference"
+        },
+        {
+          "file": "annotation_overview_admin_fragment.dart",
+          "sha256": "da3948d105059eec9fefe0817a1922aed9885d954f660a4cf24e64131ea47057",
+          "role": "component-source"
+        }
+      ],
+      "basis": [
+        "Original production dashboard fragment and project theme",
+        "Isolated synthetic model; no application API, authentication or processing",
+        "Status counts total 1,280; throughput and analyst completions total 1,100"
+      ],
+      "sample_fixture_sha256": "e9b9d70767b5af68706595a1b66225f0cc141b817345492f460d31c03e6ae1d2",
+      "src": "/assets/projects/anycheck-annotation-dashboard.webp",
+      "width": 1600,
+      "height": 672,
+      "bytes": 49754,
+      "sha256": "ad705b02f707b367fe3edc36c0765b1562d43906bd58a76518b1fa396cf3e2ca",
+      "source_sha256": "d5246200332ca89b0a7c1ad17688d4f5558a4a46a7c4b2eb02e22572a80dd4b7",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "runtime-demo",
+      "capture_scope": "isolated-native-annotation-dashboard",
+      "sample_data": true,
+      "caption": "Annotation Admin Dashboard with workload, team performance and review queues. Original dashboard widgets with sample records.",
+      "sources": [
+        {
+          "file": "reference-2.webp",
+          "sha256": "bafc8093678dae12d2eec15893d7c296830a1fd813e66b6ab8db92f96ca203e0",
+          "role": "ui-reference"
+        },
+        {
+          "file": "annotation_overview_admin_fragment.dart",
+          "sha256": "da3948d105059eec9fefe0817a1922aed9885d954f660a4cf24e64131ea47057",
+          "role": "component-source"
+        }
+      ],
+      "basis": [
+        "Original production dashboard fragment and project theme",
+        "Isolated synthetic model; no application API, authentication or processing",
+        "Status counts total 1,280; throughput and analyst completions total 1,100"
+      ],
+      "sample_fixture_sha256": "e9b9d70767b5af68706595a1b66225f0cc141b817345492f460d31c03e6ae1d2",
+      "src": "/assets/projects/anycheck-annotation-dashboard-800.webp",
+      "width": 800,
+      "height": 336,
+      "bytes": 18764,
+      "sha256": "d305fb7aad634178935e4ce4b57fc4e9f060566447cdb9affaf5eb62c3c79d80",
+      "source_sha256": "d5246200332ca89b0a7c1ad17688d4f5558a4a46a7c4b2eb02e22572a80dd4b7",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "Sirajamusi assessment and reporting, presented using the original project views.",
+      "presentation_method": "reference-based-generation",
+      "sources": [
+        {
+          "file": "sirajamusi-evaluation.webp",
+          "sha256": "1fc42f2533e8faff6aab887fe2e749943936eb37742b494b6d8233904da130a0",
+          "role": "ui-reference"
+        },
+        {
+          "file": "sirajamusi-report.webp",
+          "sha256": "cbe5e2241faaca55d7723bb4b318e8bae0eeb13cc89b5b7dc94d9231674ea113",
+          "role": "ui-reference"
+        },
+        {
+          "file": "sirajamusi-logo.webp",
+          "sha256": "e309d319fb3a2a8c42a7468558dc2765cc13bbf18da5fe69d369d89c0ca0fff0",
+          "role": "project-identity"
+        }
+      ],
+      "src": "/assets/projects/sirajamusi-cover.webp",
+      "width": 1586,
+      "height": 991,
+      "bytes": 151084,
+      "sha256": "043cca9784dac329a4c33ae301706b312dacdfe6c7032d72c3994a2def530813",
+      "source_sha256": "6c406ec52843301cfcc91995336427ad562404b213965bac41d37a330295ec48",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "Sirajamusi assessment and reporting, presented using the original project views.",
+      "presentation_method": "reference-based-generation",
+      "sources": [
+        {
+          "file": "sirajamusi-evaluation.webp",
+          "sha256": "1fc42f2533e8faff6aab887fe2e749943936eb37742b494b6d8233904da130a0",
+          "role": "ui-reference"
+        },
+        {
+          "file": "sirajamusi-report.webp",
+          "sha256": "cbe5e2241faaca55d7723bb4b318e8bae0eeb13cc89b5b7dc94d9231674ea113",
+          "role": "ui-reference"
+        },
+        {
+          "file": "sirajamusi-logo.webp",
+          "sha256": "e309d319fb3a2a8c42a7468558dc2765cc13bbf18da5fe69d369d89c0ca0fff0",
+          "role": "project-identity"
+        }
+      ],
+      "src": "/assets/projects/sirajamusi-cover-800.webp",
+      "width": 800,
+      "height": 500,
+      "bytes": 59686,
+      "sha256": "7434e92082fe4d53ef722cd285b3523a9505878d6e7569b46eb993d12413ce31",
+      "source_sha256": "6c406ec52843301cfcc91995336427ad562404b213965bac41d37a330295ec48",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "Siapsemeru \u2014 Achievement & review. Original product views presented in an integrated workspace composition.",
+      "presentation_method": "reference-based-generation",
+      "sources": [
+        {
+          "file": "siapsemeru-innovation.webp",
+          "sha256": "028494211e0d3e15c32f0cea01abe0119fa85a1ad19362e3e3a35dd151f81a78",
+          "role": "ui-reference"
+        },
+        {
+          "file": "siapsemeru-report.webp",
+          "sha256": "42f56e57a7e7f1f797abd6099c7910705387a2b62569ba86c246c0aedf26fbfd",
+          "role": "ui-reference"
+        },
+        {
+          "file": "siapsemeru-logo.webp",
+          "sha256": "cceb82cb21b314b0be914a587e6d527da93f9c7016924c947928bf2815dad689",
+          "role": "project-identity"
+        }
+      ],
+      "src": "/assets/projects/siapsemeru-cover.webp",
+      "width": 1586,
+      "height": 991,
+      "bytes": 134118,
+      "sha256": "e31d591918d8303a88637f1292990be68507dd9a110ee6a614746461d6265ece",
+      "source_sha256": "71a1f044fcd9c07e136cfcc4678d8bf8c1fa460ea88c449acd146e707e738b04",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "Siapsemeru \u2014 Achievement & review. Original product views presented in an integrated workspace composition.",
+      "presentation_method": "reference-based-generation",
+      "sources": [
+        {
+          "file": "siapsemeru-innovation.webp",
+          "sha256": "028494211e0d3e15c32f0cea01abe0119fa85a1ad19362e3e3a35dd151f81a78",
+          "role": "ui-reference"
+        },
+        {
+          "file": "siapsemeru-report.webp",
+          "sha256": "42f56e57a7e7f1f797abd6099c7910705387a2b62569ba86c246c0aedf26fbfd",
+          "role": "ui-reference"
+        },
+        {
+          "file": "siapsemeru-logo.webp",
+          "sha256": "cceb82cb21b314b0be914a587e6d527da93f9c7016924c947928bf2815dad689",
+          "role": "project-identity"
+        }
+      ],
+      "src": "/assets/projects/siapsemeru-cover-800.webp",
+      "width": 800,
+      "height": 500,
+      "bytes": 54950,
+      "sha256": "65cf2db6050b53a8bf51133f59f8f88b125668feab98c1241d4195104153b321",
+      "source_sha256": "71a1f044fcd9c07e136cfcc4678d8bf8c1fa460ea88c449acd146e707e738b04",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "Monaling \u2014 Fieldwork, connected. Original product views presented in an integrated workspace composition.",
+      "presentation_method": "reference-based-generation",
+      "sources": [
+        {
+          "file": "monaling-published-map.webp",
+          "sha256": "9433ff72f2418f469da0b04b5eb75f50fc7792a4019788b0e6ad47b61317ef04",
+          "role": "ui-reference"
+        },
+        {
+          "file": "monaling-inspection.webp",
+          "sha256": "8266decccfc017e06a752cbf1af9292c6f0ca683a1b6a2635e6ed77d8556c207",
+          "role": "ui-reference"
+        },
+        {
+          "file": "monaling-logo.webp",
+          "sha256": "d8f4140aeb736efbd5ec1755967f6973254f0b34cf27645cd9165753609e8fb2",
+          "role": "project-identity"
+        }
+      ],
+      "src": "/assets/projects/monaling-cover.webp",
+      "width": 1586,
+      "height": 991,
+      "bytes": 182070,
+      "sha256": "7a8ba15c808f9e728f2a37db26362a57a38dd75141d489ade3dc4b8378fa7d7d",
+      "source_sha256": "895a6c999db75d23832a7ad6c40de33a4f7209ca6e2e0a17a1905bbb6535dc7c",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "Monaling \u2014 Fieldwork, connected. Original product views presented in an integrated workspace composition.",
+      "presentation_method": "reference-based-generation",
+      "sources": [
+        {
+          "file": "monaling-published-map.webp",
+          "sha256": "9433ff72f2418f469da0b04b5eb75f50fc7792a4019788b0e6ad47b61317ef04",
+          "role": "ui-reference"
+        },
+        {
+          "file": "monaling-inspection.webp",
+          "sha256": "8266decccfc017e06a752cbf1af9292c6f0ca683a1b6a2635e6ed77d8556c207",
+          "role": "ui-reference"
+        },
+        {
+          "file": "monaling-logo.webp",
+          "sha256": "d8f4140aeb736efbd5ec1755967f6973254f0b34cf27645cd9165753609e8fb2",
+          "role": "project-identity"
+        }
+      ],
+      "src": "/assets/projects/monaling-cover-800.webp",
+      "width": 800,
+      "height": 500,
+      "bytes": 70624,
+      "sha256": "05e6994286342783755a713704414a32dd9eda17778f2a442b012f86c2736752",
+      "source_sha256": "895a6c999db75d23832a7ad6c40de33a4f7209ca6e2e0a17a1905bbb6535dc7c",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "Gardu PLN \u2014 Asset health & inspections. Original product views presented in an integrated workspace composition.",
+      "presentation_method": "reference-based-generation",
+      "sources": [
+        {
+          "file": "gardupln-dashboard.webp",
+          "sha256": "3047f5c0240481b43ab26bc053764520a021904ae51755bb467d7eb50e9e37ca",
+          "role": "ui-reference"
+        },
+        {
+          "file": "gardupln-logo.webp",
+          "sha256": "c22b50256ff2e76f3b1866af5974b5692d728e55b4a48026f7b73ff437206baf",
+          "role": "project-identity"
+        }
+      ],
+      "src": "/assets/projects/gardu-pln-cover.webp",
+      "width": 1586,
+      "height": 991,
+      "bytes": 91864,
+      "sha256": "b88aa5f6f5f80e529b70efe25346ff830203156884c7b09246c4c7d5c18fa94a",
+      "source_sha256": "7e0b2a9768ad3470c54d43dee6defb94f8563e03067614ba9415c571ef6ddcd6",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "Gardu PLN \u2014 Asset health & inspections. Original product views presented in an integrated workspace composition.",
+      "presentation_method": "reference-based-generation",
+      "sources": [
+        {
+          "file": "gardupln-dashboard.webp",
+          "sha256": "3047f5c0240481b43ab26bc053764520a021904ae51755bb467d7eb50e9e37ca",
+          "role": "ui-reference"
+        },
+        {
+          "file": "gardupln-logo.webp",
+          "sha256": "c22b50256ff2e76f3b1866af5974b5692d728e55b4a48026f7b73ff437206baf",
+          "role": "project-identity"
+        }
+      ],
+      "src": "/assets/projects/gardu-pln-cover-800.webp",
+      "width": 800,
+      "height": 500,
+      "bytes": 40282,
+      "sha256": "e61554c822df92a015adedb33d72a86ccd6060787425fa39b5fd424f71648098",
+      "source_sha256": "7e0b2a9768ad3470c54d43dee6defb94f8563e03067614ba9415c571ef6ddcd6",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "ETS \u2014 Traffic signs, mapped. Original product views presented in an integrated workspace composition.",
+      "presentation_method": "reference-based-generation",
+      "sources": [
+        {
+          "file": "ets-published-map.webp",
+          "sha256": "040dd730abf498f15af5c264a898d2e12b23c806f22099f4a0214966f96537bf",
+          "role": "ui-reference"
+        },
+        {
+          "file": "ets-published-detail.webp",
+          "sha256": "5f4d3ee70d6419ee4ef0929cedafd2f7a1f3980b1630c4f0543974dc0976e054",
+          "role": "ui-reference"
+        },
+        {
+          "file": "ets_dishub-logo.webp",
+          "sha256": "0430b271eb764ddb04708ba7d6501df9e5442bbd89378e36a53cf11c87abb05d",
+          "role": "project-identity"
+        }
+      ],
+      "src": "/assets/projects/ets-cover.webp",
+      "width": 1586,
+      "height": 991,
+      "bytes": 161184,
+      "sha256": "464b67d3b11e31a296feefc2f94782c00e179243d587aeddb516fc37088a1c82",
+      "source_sha256": "038ca6f241dc43dc81da00b5aa420e385f9e8509f0cda2900c1608574e23bc58",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "ETS \u2014 Traffic signs, mapped. Original product views presented in an integrated workspace composition.",
+      "presentation_method": "reference-based-generation",
+      "sources": [
+        {
+          "file": "ets-published-map.webp",
+          "sha256": "040dd730abf498f15af5c264a898d2e12b23c806f22099f4a0214966f96537bf",
+          "role": "ui-reference"
+        },
+        {
+          "file": "ets-published-detail.webp",
+          "sha256": "5f4d3ee70d6419ee4ef0929cedafd2f7a1f3980b1630c4f0543974dc0976e054",
+          "role": "ui-reference"
+        },
+        {
+          "file": "ets_dishub-logo.webp",
+          "sha256": "0430b271eb764ddb04708ba7d6501df9e5442bbd89378e36a53cf11c87abb05d",
+          "role": "project-identity"
+        }
+      ],
+      "src": "/assets/projects/ets-cover-800.webp",
+      "width": 800,
+      "height": 500,
+      "bytes": 65580,
+      "sha256": "21e7417d1d7415c7c20d366663cf86028da9dc7492450531e3fc24da10ae4c9a",
+      "source_sha256": "038ca6f241dc43dc81da00b5aa420e385f9e8509f0cda2900c1608574e23bc58",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "BintanGO \u2014 Creator jobs & community. Original product views presented in an integrated workspace composition.",
+      "presentation_method": "reference-based-generation",
+      "sources": [
+        {
+          "file": "bintango-published-jobs.webp",
+          "sha256": "8b177a61b481824418d5be51977dd60c567ea58f70a98bb1f38d738bee613035",
+          "role": "ui-reference"
+        },
+        {
+          "file": "bintango-published-community.webp",
+          "sha256": "c4ec87cd42cad1532ca4cea752691c5e9deb7b12e930c0aa4e7ddcda09342eff",
+          "role": "ui-reference"
+        },
+        {
+          "file": "bintango-logo.webp",
+          "sha256": "e8dcb3b6bcb267f88103e7ee700b8302a84ad790bbfbc5973c58e8bcf3055119",
+          "role": "project-identity"
+        }
+      ],
+      "src": "/assets/projects/bintango-cover.webp",
+      "width": 1586,
+      "height": 991,
+      "bytes": 133900,
+      "sha256": "5ce21a47b003bf078e0ba3c7ca848ce1358575aa1f20ffb1dc8a066048211027",
+      "source_sha256": "d9f1bebd4914e2d5d32476852ad419c9253021f37169d2529606da0fa197517b",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "BintanGO \u2014 Creator jobs & community. Original product views presented in an integrated workspace composition.",
+      "presentation_method": "reference-based-generation",
+      "sources": [
+        {
+          "file": "bintango-published-jobs.webp",
+          "sha256": "8b177a61b481824418d5be51977dd60c567ea58f70a98bb1f38d738bee613035",
+          "role": "ui-reference"
+        },
+        {
+          "file": "bintango-published-community.webp",
+          "sha256": "c4ec87cd42cad1532ca4cea752691c5e9deb7b12e930c0aa4e7ddcda09342eff",
+          "role": "ui-reference"
+        },
+        {
+          "file": "bintango-logo.webp",
+          "sha256": "e8dcb3b6bcb267f88103e7ee700b8302a84ad790bbfbc5973c58e8bcf3055119",
+          "role": "project-identity"
+        }
+      ],
+      "src": "/assets/projects/bintango-cover-800.webp",
+      "width": 800,
+      "height": 500,
+      "bytes": 54446,
+      "sha256": "7eaa879d294d7dec4fabc76860276c12142f6683effea415eac07f21427d927f",
+      "source_sha256": "d9f1bebd4914e2d5d32476852ad419c9253021f37169d2529606da0fa197517b",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "Musica \u2014 Music & karaoke. Original product views presented in an integrated workspace composition.",
+      "presentation_method": "reference-based-generation",
+      "sources": [
+        {
+          "file": "musica-published-player.webp",
+          "sha256": "3b451e45741fcf3d8bda25bb4016ca2a4ee5c2900ddefb5452676ee25a8f6872",
+          "role": "ui-reference"
+        },
+        {
+          "file": "musica-published-duet.webp",
+          "sha256": "6433b4b149f1e2c52fbb323586b432a00701e00e3679c73d6f381a3092d02d75",
+          "role": "ui-reference"
+        },
+        {
+          "file": "musica-logo.webp",
+          "sha256": "28105d08019bbb2b769f544e1b00acea67bcdc81c3bf0395a4e53aebb49f67bd",
+          "role": "project-identity"
+        }
+      ],
+      "src": "/assets/projects/musica-cover.webp",
+      "width": 1586,
+      "height": 991,
+      "bytes": 136880,
+      "sha256": "f0e02f9476d2c4170406d429d2ee5d70059b4ec69a5c3a4cd8d2c95c9b5a23f4",
+      "source_sha256": "c66720431201cde9c1848741f1b671d8edbec29d8fa62f611b3e38f3127c933c",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "Musica \u2014 Music & karaoke. Original product views presented in an integrated workspace composition.",
+      "presentation_method": "reference-based-generation",
+      "sources": [
+        {
+          "file": "musica-published-player.webp",
+          "sha256": "3b451e45741fcf3d8bda25bb4016ca2a4ee5c2900ddefb5452676ee25a8f6872",
+          "role": "ui-reference"
+        },
+        {
+          "file": "musica-published-duet.webp",
+          "sha256": "6433b4b149f1e2c52fbb323586b432a00701e00e3679c73d6f381a3092d02d75",
+          "role": "ui-reference"
+        },
+        {
+          "file": "musica-logo.webp",
+          "sha256": "28105d08019bbb2b769f544e1b00acea67bcdc81c3bf0395a4e53aebb49f67bd",
+          "role": "project-identity"
+        }
+      ],
+      "src": "/assets/projects/musica-cover-800.webp",
+      "width": 800,
+      "height": 500,
+      "bytes": 56622,
+      "sha256": "9c845ec11aac9b9231ef57d21519ddfa1862aba16a694536f137958054bf890a",
+      "source_sha256": "c66720431201cde9c1848741f1b671d8edbec29d8fa62f611b3e38f3127c933c",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "CCTV Dishub \u2014 Cameras & city locations. Original product views presented in an integrated workspace composition.",
+      "presentation_method": "reference-based-generation",
+      "sources": [
+        {
+          "file": "cctv-published-cameras.webp",
+          "sha256": "749342050be6cc744d16c9163089ad9ee182c47602327259dc8f5ef63e62d6de",
+          "role": "ui-reference"
+        },
+        {
+          "file": "cctv-published-map.webp",
+          "sha256": "30c0e8726e82a56156f11e9933cbc859c8de76a5f880c9fa7a0832deb8dbaea5",
+          "role": "ui-reference"
+        },
+        {
+          "file": "cctv_dishub-logo.webp",
+          "sha256": "f2b5a852d0752d827e27845580d3d356275f2367dd145bbe0b85b4d3be8befd0",
+          "role": "project-identity"
+        }
+      ],
+      "src": "/assets/projects/cctv-dishub-cover.webp",
+      "width": 1586,
+      "height": 991,
+      "bytes": 169500,
+      "sha256": "e6a58aefa3340213c7b5f1a868d50c8666a62c829e87bc770e7ff79d52220a51",
+      "source_sha256": "a97c215e9328ed2b0c080d1ace844b5c67d97a4a493178db114e5037a548f28d",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "CCTV Dishub \u2014 Cameras & city locations. Original product views presented in an integrated workspace composition.",
+      "presentation_method": "reference-based-generation",
+      "sources": [
+        {
+          "file": "cctv-published-cameras.webp",
+          "sha256": "749342050be6cc744d16c9163089ad9ee182c47602327259dc8f5ef63e62d6de",
+          "role": "ui-reference"
+        },
+        {
+          "file": "cctv-published-map.webp",
+          "sha256": "30c0e8726e82a56156f11e9933cbc859c8de76a5f880c9fa7a0832deb8dbaea5",
+          "role": "ui-reference"
+        },
+        {
+          "file": "cctv_dishub-logo.webp",
+          "sha256": "f2b5a852d0752d827e27845580d3d356275f2367dd145bbe0b85b4d3be8befd0",
+          "role": "project-identity"
+        }
+      ],
+      "src": "/assets/projects/cctv-dishub-cover-800.webp",
+      "width": 800,
+      "height": 500,
+      "bytes": 65200,
+      "sha256": "60b01c307e5b3cf56a51a7643749b04983b4595990ece9979b67f5c8b54149d9",
+      "source_sha256": "a97c215e9328ed2b0c080d1ace844b5c67d97a4a493178db114e5037a548f28d",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "Gerai SDM \u2014 Personnel services, connected. Original product views presented in an integrated workspace composition.",
+      "presentation_method": "reference-based-generation",
+      "sources": [
+        {
+          "file": "geraisdm-published-services.webp",
+          "sha256": "954085da288fd7195b6aa4de73b81552baa3d2b0821e70a6892aa1fee85bf586",
+          "role": "ui-reference"
+        },
+        {
+          "file": "geraisdm-published-home.webp",
+          "sha256": "ae3296b5e8840137d881e2db54dab603f4fe712f01d1fb0210f060737d49040b",
+          "role": "ui-reference"
+        },
+        {
+          "file": "geraisdm-logo.webp",
+          "sha256": "9ab26a6af1380d8e21ac5a401d7086819cc22224a694ff6450319f17f28daf18",
+          "role": "project-identity"
+        }
+      ],
+      "src": "/assets/projects/gerai-sdm-cover.webp",
+      "width": 1586,
+      "height": 991,
+      "bytes": 165368,
+      "sha256": "825eb1bb625309deda25f976bd240ba3e5ce72949e989b193cd7c7d575a9c649",
+      "source_sha256": "f32e90d6e820ba00c58c9063d6190332dcdfb39e107f62f51b518c01a28c0e42",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "Gerai SDM \u2014 Personnel services, connected. Original product views presented in an integrated workspace composition.",
+      "presentation_method": "reference-based-generation",
+      "sources": [
+        {
+          "file": "geraisdm-published-services.webp",
+          "sha256": "954085da288fd7195b6aa4de73b81552baa3d2b0821e70a6892aa1fee85bf586",
+          "role": "ui-reference"
+        },
+        {
+          "file": "geraisdm-published-home.webp",
+          "sha256": "ae3296b5e8840137d881e2db54dab603f4fe712f01d1fb0210f060737d49040b",
+          "role": "ui-reference"
+        },
+        {
+          "file": "geraisdm-logo.webp",
+          "sha256": "9ab26a6af1380d8e21ac5a401d7086819cc22224a694ff6450319f17f28daf18",
+          "role": "project-identity"
+        }
+      ],
+      "src": "/assets/projects/gerai-sdm-cover-800.webp",
+      "width": 800,
+      "height": 500,
+      "bytes": 65494,
+      "sha256": "92020d459822e3cb77e97d936a0a0c5ec7b42844643d5788aa0b5c2209755640",
+      "source_sha256": "f32e90d6e820ba00c58c9063d6190332dcdfb39e107f62f51b518c01a28c0e42",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "Nutrizer \u2014 BMI & nutrition tools. Original product views presented in an integrated workspace composition.",
+      "presentation_method": "reference-based-generation",
+      "sources": [
+        {
+          "file": "nutrizer-published-nutrition.webp",
+          "sha256": "180148081ba6f185193d50bec74c329f7a70b1bc656104d2faa6f7de1a667f68",
+          "role": "ui-reference"
+        },
+        {
+          "file": "nutrizer-published-bmi.webp",
+          "sha256": "a8b47b31a3758ed75ac45586d8fb319e00ab37c12d37678c5dfc024a823362b0",
+          "role": "ui-reference"
+        },
+        {
+          "file": "nutrizer-logo.webp",
+          "sha256": "2354964ec1ca1f53944d0e11e05143610fc7425ff57fce72de5806354adad690",
+          "role": "project-identity"
+        }
+      ],
+      "src": "/assets/projects/nutrizer-cover.webp",
+      "width": 1586,
+      "height": 991,
+      "bytes": 133626,
+      "sha256": "2e4262bdc092787d2c4bb4eae5bdff37e237039cd241e019c823aed7fd289623",
+      "source_sha256": "fa6cf021b5abbb738cc51eb780514303f1d21be8987a449e82a593003f1d9019",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "Nutrizer \u2014 BMI & nutrition tools. Original product views presented in an integrated workspace composition.",
+      "presentation_method": "reference-based-generation",
+      "sources": [
+        {
+          "file": "nutrizer-published-nutrition.webp",
+          "sha256": "180148081ba6f185193d50bec74c329f7a70b1bc656104d2faa6f7de1a667f68",
+          "role": "ui-reference"
+        },
+        {
+          "file": "nutrizer-published-bmi.webp",
+          "sha256": "a8b47b31a3758ed75ac45586d8fb319e00ab37c12d37678c5dfc024a823362b0",
+          "role": "ui-reference"
+        },
+        {
+          "file": "nutrizer-logo.webp",
+          "sha256": "2354964ec1ca1f53944d0e11e05143610fc7425ff57fce72de5806354adad690",
+          "role": "project-identity"
+        }
+      ],
+      "src": "/assets/projects/nutrizer-cover-800.webp",
+      "width": 800,
+      "height": 500,
+      "bytes": 53404,
+      "sha256": "bc01245cd0776f37cd5613a04fa40ea9026744094e4ebd8e7f76df8b42531520",
+      "source_sha256": "fa6cf021b5abbb738cc51eb780514303f1d21be8987a449e82a593003f1d9019",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "Supply-chain inputs from MySQL and Oracle, with three sample records.",
+      "presentation_method": "source-informed-generation",
+      "sample_data": true,
+      "basis": [
+        "Recorded supply-chain analysis, report generation and Telegram bot delivery",
+        "Recorded PHP, Node.js, MySQL and Oracle stack",
+        "Existing SCM Tools portfolio wordmark and reporting presentation"
+      ],
+      "sources": [
+        {
+          "role": "identity-reference",
+          "src": "/assets/projects/scm-tools-logo.webp",
+          "sha256": "aef2b2890caabab588981e66d9f1e7cdcb68c0d21c1b087530c1fd8b415b6f83"
+        },
+        {
+          "role": "project-context-reference",
+          "src": "/assets/projects/scm-reporting.webp",
+          "sha256": "7bea59dee67d4fe504cfd7afff37b27f1b1ef99628eeb15011dfe8c04b8d1b96"
+        }
+      ],
+      "src": "/assets/projects/scm-overview.webp",
+      "width": 1586,
+      "height": 992,
+      "bytes": 58372,
+      "sha256": "333cfff102acc0bce6a48362aa5a4de916bf9ea8f128c70447b3869121fb3e7b",
+      "source_sha256": "87478bb5aa862fe27c57aefd1137f2265fab3b3d3360548431502e8e1b365a52",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "Supply-chain inputs from MySQL and Oracle, with three sample records.",
+      "presentation_method": "source-informed-generation",
+      "sample_data": true,
+      "basis": [
+        "Recorded supply-chain analysis, report generation and Telegram bot delivery",
+        "Recorded PHP, Node.js, MySQL and Oracle stack",
+        "Existing SCM Tools portfolio wordmark and reporting presentation"
+      ],
+      "sources": [
+        {
+          "role": "identity-reference",
+          "src": "/assets/projects/scm-tools-logo.webp",
+          "sha256": "aef2b2890caabab588981e66d9f1e7cdcb68c0d21c1b087530c1fd8b415b6f83"
+        },
+        {
+          "role": "project-context-reference",
+          "src": "/assets/projects/scm-reporting.webp",
+          "sha256": "7bea59dee67d4fe504cfd7afff37b27f1b1ef99628eeb15011dfe8c04b8d1b96"
+        }
+      ],
+      "src": "/assets/projects/scm-overview-800.webp",
+      "width": 800,
+      "height": 500,
+      "bytes": 23966,
+      "sha256": "650946672ce5499e5f3524579e1119e6724806cd83548680788ba941a1dbc4bc",
+      "source_sha256": "87478bb5aa862fe27c57aefd1137f2265fab3b3d3360548431502e8e1b365a52",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "Report DEMO-001 reviews the same three sample supply-chain records.",
+      "presentation_method": "source-informed-generation",
+      "sample_data": true,
+      "basis": [
+        "Recorded supply-chain analysis, report generation and Telegram bot delivery",
+        "Recorded PHP, Node.js, MySQL and Oracle stack",
+        "Existing SCM Tools portfolio wordmark and reporting presentation"
+      ],
+      "sources": [
+        {
+          "role": "identity-reference",
+          "src": "/assets/projects/scm-tools-logo.webp",
+          "sha256": "aef2b2890caabab588981e66d9f1e7cdcb68c0d21c1b087530c1fd8b415b6f83"
+        },
+        {
+          "role": "project-context-reference",
+          "src": "/assets/projects/scm-reporting.webp",
+          "sha256": "7bea59dee67d4fe504cfd7afff37b27f1b1ef99628eeb15011dfe8c04b8d1b96"
+        }
+      ],
+      "src": "/assets/projects/scm-report-detail.webp",
+      "width": 1586,
+      "height": 992,
+      "bytes": 63532,
+      "sha256": "e5151ea38af350fda9627b3cfd57f4ac2282c259143e8de5b0d12caa8173dd4e",
+      "source_sha256": "172c03461dbaaab2d3c5aafa4f241931c8766323934381bc5f43544fb118b457",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "Report DEMO-001 reviews the same three sample supply-chain records.",
+      "presentation_method": "source-informed-generation",
+      "sample_data": true,
+      "basis": [
+        "Recorded supply-chain analysis, report generation and Telegram bot delivery",
+        "Recorded PHP, Node.js, MySQL and Oracle stack",
+        "Existing SCM Tools portfolio wordmark and reporting presentation"
+      ],
+      "sources": [
+        {
+          "role": "identity-reference",
+          "src": "/assets/projects/scm-tools-logo.webp",
+          "sha256": "aef2b2890caabab588981e66d9f1e7cdcb68c0d21c1b087530c1fd8b415b6f83"
+        },
+        {
+          "role": "project-context-reference",
+          "src": "/assets/projects/scm-reporting.webp",
+          "sha256": "7bea59dee67d4fe504cfd7afff37b27f1b1ef99628eeb15011dfe8c04b8d1b96"
+        }
+      ],
+      "src": "/assets/projects/scm-report-detail-800.webp",
+      "width": 800,
+      "height": 500,
+      "bytes": 25694,
+      "sha256": "dcc0b52b994340fad3ed1eb38ae2747bf47c6d7558ded1da17c3d54b37520b29",
+      "source_sha256": "172c03461dbaaab2d3c5aafa4f241931c8766323934381bc5f43544fb118b457",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "Telegram delivery of the matching sample report to Demo Operations.",
+      "presentation_method": "source-informed-generation",
+      "sample_data": true,
+      "basis": [
+        "Recorded supply-chain analysis, report generation and Telegram bot delivery",
+        "Recorded PHP, Node.js, MySQL and Oracle stack",
+        "Existing SCM Tools portfolio wordmark and reporting presentation"
+      ],
+      "sources": [
+        {
+          "role": "identity-reference",
+          "src": "/assets/projects/scm-tools-logo.webp",
+          "sha256": "aef2b2890caabab588981e66d9f1e7cdcb68c0d21c1b087530c1fd8b415b6f83"
+        },
+        {
+          "role": "project-context-reference",
+          "src": "/assets/projects/scm-reporting.webp",
+          "sha256": "7bea59dee67d4fe504cfd7afff37b27f1b1ef99628eeb15011dfe8c04b8d1b96"
+        }
+      ],
+      "src": "/assets/projects/scm-telegram-delivery.webp",
+      "width": 1586,
+      "height": 992,
+      "bytes": 58526,
+      "sha256": "9ffe1020b50dac54146a834bc8c98fe8d2f3da492db77ff581985989f710b973",
+      "source_sha256": "515617a28a15e92790cedab1152824c86b11889a90c3a7735f68d932d9c55b04",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    },
+    {
+      "kind": "presentation",
+      "caption": "Telegram delivery of the matching sample report to Demo Operations.",
+      "presentation_method": "source-informed-generation",
+      "sample_data": true,
+      "basis": [
+        "Recorded supply-chain analysis, report generation and Telegram bot delivery",
+        "Recorded PHP, Node.js, MySQL and Oracle stack",
+        "Existing SCM Tools portfolio wordmark and reporting presentation"
+      ],
+      "sources": [
+        {
+          "role": "identity-reference",
+          "src": "/assets/projects/scm-tools-logo.webp",
+          "sha256": "aef2b2890caabab588981e66d9f1e7cdcb68c0d21c1b087530c1fd8b415b6f83"
+        },
+        {
+          "role": "project-context-reference",
+          "src": "/assets/projects/scm-reporting.webp",
+          "sha256": "7bea59dee67d4fe504cfd7afff37b27f1b1ef99628eeb15011dfe8c04b8d1b96"
+        }
+      ],
+      "src": "/assets/projects/scm-telegram-delivery-800.webp",
+      "width": 800,
+      "height": 500,
+      "bytes": 24140,
+      "sha256": "7ee0fc2b903fedf9ab660a9afcd8df436a2f1168eeaa1a1f4f13a1379d56bb5c",
+      "source_sha256": "515617a28a15e92790cedab1152824c86b11889a90c3a7735f68d932d9c55b04",
+      "crop": null,
+      "redacted": false,
+      "exporter": "project-visuals"
+    }
+  ]
+}

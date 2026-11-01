@@ -65,8 +65,9 @@ class PublicSiteTests(unittest.TestCase):
     def test_complete_editorial_inventory_and_lightweight_entry(self):
         doc = Document((ROOT / 'index.html').read_text())
         self.assertEqual(len(doc.find('details', **{'class': 'job'})), 8)
-        self.assertEqual(len(doc.find('details', **{'class': 'project'})), 4)
-        self.assertEqual(len(doc.find('a', **{'class': 'repo'})), 4)
+        self.assertEqual(len(doc.find('a', **{'class': 'work-card'})), 19)
+        self.assertFalse(doc.find('details', **{'class': 'catalogue-project'}))
+        self.assertEqual(len(doc.find('a', **{'class': 'repo'})), 3)
         self.assertEqual(' '.join(doc.text).count('80%'), 1)
         self.assertTrue(doc.find('a', href='/world/'))
         scripts = [node.get('src', '') for node in doc.find('script')]
@@ -118,7 +119,12 @@ class PublicSiteTests(unittest.TestCase):
         self.assertTrue(legacy.find('a', href='/'))
         self.assertTrue((ROOT / 'assets/arief-wijaya-cv.pdf').read_bytes().startswith(b'%PDF-'))
         urls = ET.parse(ROOT / 'sitemap.xml').findall('{*}url/{*}loc')
-        self.assertEqual({u.text for u in urls}, {'https://ariefwijaya.github.io/'})
+        home = Document((ROOT / 'index.html').read_text())
+        expected = {'https://ariefwijaya.github.io/'} | {
+            'https://ariefwijaya.github.io' + node['href'] for node in home.find('a')
+            if node.get('href', '').startswith('/work/')}
+        self.assertEqual({u.text for u in urls}, expected)
+        self.assertEqual(len(urls), 20, 'Homepage plus all 19 project routes')
 
 
 if __name__ == '__main__':

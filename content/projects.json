@@ -1,0 +1,1103 @@
+{
+  "cases": [
+    {
+      "slug": "anycheck",
+      "name": "AnyCheck",
+      "category": "Document intelligence & workflows",
+      "headline": "Document review with Orbit in context.",
+      "summary": "Document extraction and review, Orbit AI chat and configurable processing workflows at Fintelite Group.",
+      "role": "Technical direction & engineering leadership",
+      "context": "Professional work at Fintelite Group",
+      "stack": [
+        "Flutter",
+        "Go",
+        "Document AI"
+      ],
+      "cover": "anycheck-cover",
+      "coverAlt": "AnyCheck project cover combining native document extraction, Orbit AI chat and the Orbit mascot",
+      "intro": "A document feature is only one part of a business application. People also need to choose a service, configure what it extracts, review the output and connect the result to the next step.",
+      "sections": [
+        {
+          "title": "The product",
+          "paragraphs": [
+            "AnyCheck brings document verification and extraction into a shared workspace. Its capabilities include custom extraction templates, bank statement analysis, an AI assistant and a visual Workflow Builder.",
+            "The workflow tooling lets users configure a process from the node types available to their organisation. Upload and results views connect that process to the documents being handled."
+          ]
+        },
+        {
+          "title": "My contribution",
+          "paragraphs": [
+            "At Fintelite, I lead technical direction and help connect architecture and engineering delivery with Product and Data team priorities.",
+            "My document-AI experience includes OCR pipelines, LLM integration and work with the Data Team on extraction improvements. I work alongside the engineers and product teams responsible for the wider platform."
+          ]
+        },
+        {
+          "title": "From document to next action",
+          "items": [
+            "Review a document beside its structured fields and line items.",
+            "Ask Orbit about the document without leaving its context.",
+            "Connect extraction and follow-up steps in the visual Workflow Builder.",
+            "Monitor the organisation’s activity, credits and review queue.",
+            "Configure custom extraction fields and refine their definitions.",
+            "Inspect financial-document account totals and transaction-level records."
+          ]
+        },
+        {
+          "title": "For a similar project",
+          "paragraphs": [
+            "This work is relevant to a team building document-heavy business software: the application around an AI capability, the review interfaces and the processes that make the output useful.",
+            "The related engineering experience spans application architecture, technical delivery and collaboration across Fintelite’s products."
+          ]
+        }
+      ],
+      "galleryTitle": "A closer look at the interface",
+      "galleryNote": "Document intake, extraction, review and financial analysis, with Orbit alongside the document context. Annotation and platform views show the operational side. The examples use sample invoice, bank-statement, company and workload data.",
+      "gallery": [
+        {
+          "image": "anycheck-orbit-chat",
+          "alt": "Native Orbit AI conversation beside a matching sample invoice and structured extraction results",
+          "wide": true
+        },
+        {
+          "image": "anycheck-fsa-orbit",
+          "alt": "Financial Statement Analyzer comparing sample receivables with a contextual Orbit answer",
+          "wide": true
+        },
+        {
+          "image": "anycheck-extraction-review",
+          "alt": "Sample invoice and native structured extraction component with line items and reconciled tax"
+        },
+        {
+          "image": "anycheck-upload-configuration",
+          "alt": "Document upload, template selection, extraction modes and citation settings",
+          "wide": true
+        },
+        {
+          "image": "anycheck-workflow",
+          "alt": "Native AnyCheck Workflow Builder with connected input, extraction and code nodes",
+          "wide": true
+        },
+        {
+          "image": "anycheck-owner-overview",
+          "alt": "Native Organization Owner overview for Demo Logistics with synthetic credit usage and review status",
+          "wide": true
+        },
+        {
+          "image": "anycheck-annotation-dashboard",
+          "alt": "Annotation Admin Dashboard with consistent sample workload, throughput and team-performance data",
+          "wide": true
+        },
+        {
+          "image": "anycheck-platform-dashboard",
+          "alt": "Platform Dashboard showing sample organization totals and credit usage",
+          "wide": true
+        },
+        {
+          "image": "anycheck-bank-review",
+          "alt": "Native AnyCheck bank-statement review beside its source document and extracted header fields",
+          "wide": true
+        },
+        {
+          "image": "anycheck-bsa-summary",
+          "alt": "Native Bank Statement Analyzer with matching mock account and currency totals",
+          "wide": true
+        },
+        {
+          "image": "anycheck-bsa-transactions",
+          "alt": "Native Bank Statement Analyzer table with five reconciled mock credit and debit transactions",
+          "wide": true
+        },
+        {
+          "image": "anycheck-template-fields",
+          "alt": "Native custom-template field configuration dialog from local QA"
+        }
+      ],
+      "logo": "anycheck-logo",
+      "publicReferences": [
+        {
+          "label": "Official AnyCheck website",
+          "url": "https://anycheck.ai/"
+        },
+        {
+          "label": "Fintelite product overview",
+          "url": "https://fintelite.ai/"
+        }
+      ],
+      "cardRole": "Technical direction & engineering"
+    },
+    {
+      "slug": "jagoan-voucher",
+      "name": "Jagoan Voucher",
+      "category": "Commerce & creator tools",
+      "headline": "A marketplace, with a creator side.",
+      "summary": "Voucher purchasing, order flows and realtime creator tools in one web product.",
+      "role": "Frontend & backend development",
+      "context": "Web product development",
+      "stack": [
+        "Next.js",
+        "Go",
+        "PostgreSQL",
+        "WebSocket"
+      ],
+      "cover": "jagoan-cover",
+      "coverAlt": "Jagoan Voucher marketplace and native creator donation-alert preview, composed on a dark project cover",
+      "intro": "Jagoan Voucher combines two product flows: buying game vouchers and supporting creators. Each needs a clear interface, while orders, balances and realtime updates depend on the backend behind it.",
+      "sections": [
+        {
+          "title": "The product",
+          "paragraphs": [
+            "The marketplace covers product selection, checkout and order status. Creator-facing tools include donation views, a dashboard and an Overlay Studio for configuring OBS browser-source widgets.",
+            "The overlay tooling includes alert and goal interfaces, with additional widgets for creator use. A demo state is separate from a live donation or payment."
+          ]
+        },
+        {
+          "title": "My contribution",
+          "paragraphs": [
+            "I worked on the frontend and backend. The scope spans the web interfaces and the application services supporting the marketplace and creator tools.",
+            "For the portfolio, the useful example is the connection between a product page, its order flow and the tools a creator uses after signing in."
+          ]
+        },
+        {
+          "title": "Selected product flows",
+          "items": [
+            "Search and product discovery in the marketplace.",
+            "Denomination selection, checkout and order tracking.",
+            "Creator dashboard and donation views.",
+            "Overlay Studio and OBS alert configuration.",
+            "Realtime interfaces supported by backend services."
+          ]
+        },
+        {
+          "title": "For a similar project",
+          "paragraphs": [
+            "This project is relevant to a business commissioning a marketplace or creator platform with several user roles and realtime interactions.",
+            "The frontend and backend need to agree on order states, balances and user roles. The marketplace and creator interfaces show different parts of that shared product."
+          ]
+        }
+      ],
+      "galleryTitle": "Marketplace to creator tools",
+      "galleryNote": "The real frontend, captured locally with synthetic API responses and the built-in overlay demo. Sample accounts, order status and donation amounts do not represent real transactions.",
+      "gallery": [
+        {
+          "image": "jagoan-marketplace",
+          "alt": "Jagoan Voucher product-discovery interface with search and catalogue cards"
+        },
+        {
+          "image": "jagoan-checkout",
+          "alt": "Jagoan Voucher product page with denomination, email, payment selection and checkout summary"
+        },
+        {
+          "image": "jagoan-overlay-studio",
+          "alt": "Jagoan Voucher Overlay Studio with alert sound, animation and example donation alert"
+        },
+        {
+          "image": "jagoan-order",
+          "alt": "Synthetic Jagoan order status with an explicitly non-redeemable demo voucher"
+        },
+        {
+          "image": "jagoan-overlay",
+          "alt": "A fictional donation alert rendered by Jagoan Voucher’s built-in OBS demo mode"
+        }
+      ],
+      "logo": "jagoan-logo",
+      "logoTheme": "dark",
+      "cardRole": "Frontend & backend"
+    },
+    {
+      "slug": "gomusi",
+      "name": "GoMUSI",
+      "category": "Public-service applications",
+      "headline": "A request, through its next steps.",
+      "summary": "Public-service information, multi-step applications and tools for managing forms and service flows.",
+      "role": "Frontend & backend development",
+      "context": "Service platform development",
+      "stack": [
+        "Flutter",
+        "Backend APIs",
+        "Forms & workflows"
+      ],
+      "cover": "gomusi-cover",
+      "coverAlt": "Reference-based GoMUSI cover with original service-flow and applicant-form views presented in realistic phone hardware",
+      "intro": "A service application has two sides: the person submitting information and the people reviewing it. GoMUSI connects service information, forms and the steps a request moves through.",
+      "sections": [
+        {
+          "title": "The product",
+          "paragraphs": [
+            "GoMUSI organises public-service information and applications around forms and a sequence of service steps. Its interfaces include service selection, submissions, review and submission details.",
+            "Administrative tools support the management of services, forms and ordered flow or wizard steps."
+          ]
+        },
+        {
+          "title": "My contribution",
+          "paragraphs": [
+            "I worked on the frontend and backend. The scope includes applicant-facing interfaces and the application services behind forms and service flows.",
+            "The administrative side is part of the product scope: teams need to manage what applicants see and the stages a service requires, rather than relying only on a fixed public form."
+          ]
+        },
+        {
+          "title": "Selected product flows",
+          "items": [
+            "A catalogue of services and their requirements.",
+            "Multi-step application and information collection.",
+            "Submission details, progress and review.",
+            "Administrative form, service and flow management."
+          ]
+        },
+        {
+          "title": "For a similar project",
+          "paragraphs": [
+            "This work is relevant to a business or institution replacing disconnected forms with a structured application process.",
+            "That experience also applies to application portals, intake workflows and administrative tools that need to work together."
+          ]
+        }
+      ],
+      "galleryTitle": "Application and review interfaces",
+      "galleryNote": "The existing web application, captured locally with synthetic API responses. These selected crops show the service flow, applicant form, tracking and an unsaved administrative draft. No real application is submitted.",
+      "gallery": [
+        {
+          "image": "gomusi-service-mobile",
+          "alt": "GoMUSI service description and two-step application review flow using synthetic data"
+        },
+        {
+          "image": "gomusi-wizard-mobile",
+          "alt": "GoMUSI application form with fictional applicant, organisation and email fields"
+        },
+        {
+          "image": "gomusi-tracking-mobile",
+          "alt": "GoMUSI synthetic submission with one completed step and one awaiting review"
+        },
+        {
+          "image": "gomusi-admin-form",
+          "alt": "GoMUSI administrative form-field settings with a fictional draft label"
+        }
+      ],
+      "logo": "gomusi-logo"
+    },
+    {
+      "slug": "mytimor",
+      "name": "MyTimor",
+      "category": "Multi-role mobile applications",
+      "headline": "Three apps, one connected service.",
+      "summary": "Customer, driver and merchant applications for transport, goods delivery and food ordering in Timor-Leste.",
+      "role": "Mobile lead development & backend integration",
+      "context": "Telkomcel project work · recorded in 2020",
+      "stack": [
+        "Flutter",
+        "REST APIs",
+        "Real-time communication"
+      ],
+      "cover": "mytimor-cover",
+      "coverAlt": "Reference-based MyTimor cover showing delivery booking, restaurant menu and completed delivery in integrated phone frames",
+      "intro": "Customers, drivers and merchants take part in the same service, but each needs a different mobile workflow. MyTimor brings those roles together for transport, delivery and food ordering.",
+      "sections": [
+        {
+          "title": "The product",
+          "paragraphs": [
+            "MyTimor supports transport, goods delivery and food ordering in Timor-Leste. Its customer, driver and merchant applications serve different parts of an order, with T-PAY included in the product's payment flow."
+          ]
+        },
+        {
+          "title": "My contribution",
+          "paragraphs": [
+            "I developed the customer, driver and merchant applications in Flutter. I also worked on the database schema, REST APIs and real-time communication connecting the mobile applications.",
+            "I handled Android Play Store publication and internal testing channels."
+          ]
+        },
+        {
+          "title": "Scope of the work",
+          "items": [
+            "Role-specific customer, driver and merchant applications.",
+            "Backend interfaces and a shared data model for mobile workflows.",
+            "Real-time communication between parts of the service.",
+            "Android distribution and internal testing."
+          ]
+        },
+        {
+          "title": "For a similar project",
+          "paragraphs": [
+            "This project is relevant to a business planning a marketplace or delivery service that needs more than one mobile interface and the APIs connecting them.",
+            "The interfaces show connected but distinct responsibilities: customers choose and place orders, drivers verify deliveries, and merchants maintain menus and operating hours."
+          ]
+        }
+      ],
+      "galleryTitle": "Customer, driver and merchant journeys",
+      "galleryNote": "Customer journeys from the project archive, alongside published customer, driver and merchant app views: discovery, delivery, order verification, menu management and opening hours.",
+      "gallery": [
+        {
+          "image": "mytimor-delivery-booking",
+          "alt": "Customer delivery booking with sender, recipient, route and package details. Recovered from the original MyTimor interface archive; account data is mock."
+        },
+        {
+          "image": "mytimor-food-discovery",
+          "alt": "Customer restaurant menu with product choices, quantities and basket total. Recovered original interface, not a generated mockup."
+        },
+        {
+          "image": "mytimor-order-complete",
+          "alt": "Completed delivery with driver rating, route details and order information. Archived customer-app screen with mock data."
+        },
+        {
+          "image": "mytimor-published-discovery",
+          "alt": "Customer app: restaurant discovery, categories and recommended menus."
+        },
+        {
+          "image": "mytimor-driver-published-order",
+          "alt": "Driver app: a confirmed food order, pickup and delivery details, estimated revenue and order verification."
+        },
+        {
+          "image": "mytimor-merchant-published-menu",
+          "alt": "Published merchant-app artwork showing menu management and an add-menu action."
+        },
+        {
+          "image": "mytimor-merchant-published-hours",
+          "alt": "Merchant app: opening hours and day-by-day availability controls."
+        }
+      ],
+      "logo": "mytimor-logo",
+      "cardRole": "Mobile apps & backend integration",
+      "publicReferences": [
+        {
+          "label": "Customer app listing",
+          "url": "https://apkpure.com/fr/mytimor-order-taxi-food-and/com.tcel.mytimor"
+        },
+        {
+          "label": "Driver app listing",
+          "url": "https://apkpure.com/fr/mytimor-driver/com.tcel.mytimor_driver"
+        },
+        {
+          "label": "Merchant app listing",
+          "url": "https://apkpure.com/fr/mytimor-merchant/com.tcel.mytimor_merchant"
+        }
+      ]
+    },
+    {
+      "slug": "elibrary",
+      "name": "E-Library UNTL",
+      "category": "Web applications & administration",
+      "headline": "A digital library, beyond its catalogue.",
+      "summary": "A reader-facing website, web administrator interface and backend REST API for an online university library.",
+      "role": "Website frontend, administration & REST API",
+      "context": "Telkomcel project work · recorded in 2020",
+      "stack": [
+        "Web frontend",
+        "Administration",
+        "REST API"
+      ],
+      "cover": "elibrary-cover",
+      "coverAlt": "E-Library UNTL presentation showing the reader-facing website and book catalogue",
+      "intro": "Readers need to find a book and understand what it contains. A digital library also needs the interfaces and services behind that catalogue.",
+      "sections": [
+        {
+          "title": "The product",
+          "paragraphs": [
+            "E-Library UNTL is an online library for Universidade Nacional Timor Lorosa'e. The reader-facing website presents book discovery, subject categories and individual book pages.",
+            "The wider product also includes an E Biblioteca UNTL mobile reader with subject departments and in-app reading."
+          ]
+        },
+        {
+          "title": "My contribution",
+          "paragraphs": [
+            "I developed the website frontend, the web administrator interface and the REST API for the backend.",
+            "The work covered the public catalogue as well as the interfaces and services used to manage it. The gallery below shows the reader-facing side."
+          ]
+        },
+        {
+          "title": "What the archived interface shows",
+          "items": [
+            "Search by title, author or keyword.",
+            "Book discovery and subject categories.",
+            "Book-detail pages with descriptions and related content.",
+            "Reading entry points and a Read Later control."
+          ]
+        },
+        {
+          "title": "For a similar project",
+          "paragraphs": [
+            "This work is relevant to a client commissioning a catalogue or content platform with internal management tools and a backend API.",
+            "The archived captures document the interface, not reader adoption or present-day service availability."
+          ]
+        }
+      ],
+      "galleryTitle": "Web catalogue and mobile reading",
+      "galleryNote": "Archived reader-facing website captures and published E Biblioteca UNTL mobile views. My contribution covered the website, administration and REST API; the mobile views show the wider product context.",
+      "gallery": [
+        {
+          "image": "elibrary-home",
+          "alt": "Archived reader-facing E-Library UNTL homepage."
+        },
+        {
+          "image": "elibrary-catalogue",
+          "alt": "Archived book catalogue. This is a reader view, not the administration interface."
+        },
+        {
+          "image": "elibrary-book-detail",
+          "alt": "Archived book-detail page with categories and reading controls."
+        },
+        {
+          "image": "elibrary-published-mobile-categories",
+          "alt": "Mobile library: subject departments and book counts."
+        },
+        {
+          "image": "elibrary-published-mobile-reader",
+          "alt": "Mobile library: the book-reading interface."
+        }
+      ],
+      "logo": "elibrary-logo",
+      "publicReferences": [
+        {
+          "label": "Mobile app listing",
+          "url": "https://apkpure.com/fr/e-biblioteca-untl/com.untl.tcel.tluntl"
+        }
+      ]
+    },
+    {
+      "slug": "sribuu",
+      "name": "Sribuu",
+      "category": "Personal finance · Mobile engineering",
+      "headline": "Everyday finance, built for mobile.",
+      "summary": "A personal-finance product for iOS and Android, with Flutter development, clean architecture and mobile-team leadership.",
+      "role": "Flutter development & mobile team leadership",
+      "context": "Fintelite / Sribuu · Jun 2021–Dec 2023",
+      "stack": [
+        "Flutter",
+        "Dart",
+        "Clean architecture",
+        "Mobile engineering"
+      ],
+      "cover": "sribuu-cover",
+      "coverAlt": "Sribuu mobile product presentation with its original turquoise identity",
+      "logo": "sribuu-logo",
+      "intro": "I built the iOS and Android applications with Flutter, then led the mobile team. My work covered implementation, application architecture, code review and improvements to the apps.",
+      "sections": [
+        {
+          "title": "The product",
+          "paragraphs": [
+            "Sribuu is a personal-finance application. Its public product guides describe recording transactions, planning category-based monthly budgets and tracking financial goals.",
+            "These product capabilities explain the context of the work. They do not establish that every feature or current interface was part of the version I worked on."
+          ]
+        },
+        {
+          "title": "My contribution",
+          "paragraphs": [
+            "From June to December 2021, I developed the iOS and Android applications with Flutter and clean architecture.",
+            "From January 2022 to December 2023, I worked as Senior Frontend Engineer / Mobile Team Lead: leading the mobile team, researching improvements, reviewing code and optimising the applications."
+          ]
+        },
+        {
+          "title": "Engineering beyond one screen",
+          "items": [
+            "Flutter implementation across iOS and Android.",
+            "Clean architecture and application structure.",
+            "Code review, technical research and mobile-team leadership."
+          ]
+        },
+        {
+          "title": "For a similar project",
+          "paragraphs": [
+            "This work is relevant to a client building a mobile product that needs both hands-on implementation and an engineering structure the team can maintain.",
+            "The images distinguish archived promotional material from public product references. I do not claim current release ownership, present-day feature availability or adoption figures."
+          ]
+        }
+      ],
+      "galleryTitle": "Personal finance on mobile",
+      "galleryNote": "Official product guides and App Store artwork, showing transaction summaries, budgets, goals and statement import. My contribution period is June 2021–December 2023; the current listing may include later releases.",
+      "gallery": [
+        {
+          "image": "sribuu-feature-overview",
+          "alt": "Sribuu financial overview and mobile product interfaces."
+        },
+        {
+          "image": "sribuu-budget-form",
+          "alt": "Monthly budget setup with amount, category and month selection."
+        },
+        {
+          "image": "sribuu-financial-goals",
+          "alt": "Financial-goal tracking from Sribuu’s published product guide."
+        },
+        {
+          "image": "sribuu-app-store-overview",
+          "alt": "Published Sribuu App Store artwork showing the financial overview and budgeting context."
+        },
+        {
+          "image": "sribuu-app-store-import",
+          "alt": "Published Sribuu App Store artwork showing statement-import options."
+        }
+      ],
+      "publicReferences": [
+        {
+          "label": "Official budgeting guide",
+          "url": "https://sribuu.id/budgeting-2/"
+        },
+        {
+          "label": "Official product website",
+          "url": "https://sribuu.id/"
+        },
+        {
+          "label": "App Store listing",
+          "url": "https://apps.apple.com/id/app/sribuu-budget-money-manager/id1542637665"
+        }
+      ],
+      "cardRole": "Flutter & mobile leadership"
+    }
+  ],
+  "catalogue": [
+    {
+      "name": "E-Library UNTL",
+      "category": "Digital library",
+      "role": "Frontend, administration & REST API",
+      "description": "A reader-facing catalogue with management interfaces and backend services.",
+      "highlights": [
+        "Book discovery and detail pages",
+        "Web administration",
+        "REST API"
+      ],
+      "case": "elibrary",
+      "cover": "elibrary-home",
+      "logo": "elibrary-logo"
+    },
+    {
+      "name": "GoMUSI",
+      "category": "Public-service workflows",
+      "role": "Frontend & backend",
+      "description": "Service discovery, application forms, request tracking and administrative field configuration.",
+      "highlights": [
+        "Service catalogue and application wizard",
+        "Request progress and administrative review",
+        "Configurable application fields"
+      ],
+      "case": "gomusi",
+      "cover": "gomusi-cover",
+      "logo": "gomusi-logo"
+    },
+    {
+      "name": "Sirajamusi",
+      "category": "Performance assessment",
+      "role": "Frontend & backend",
+      "description": "Role-specific interfaces for appraised users and evaluators, with competency records and reporting.",
+      "highlights": [
+        "Appraised-person and evaluator views",
+        "Competency, achievement and innovation records",
+        "Report cards and rankings"
+      ],
+      "logo": "sirajamusi-logo",
+      "gallery": [
+        {
+          "image": "sirajamusi-published-competency",
+          "alt": "Hard-competency reporting categories and report-entry actions."
+        },
+        {
+          "image": "sirajamusi-evaluation",
+          "alt": "Read-only competency evaluation with individual assessment criteria. Sample records."
+        },
+        {
+          "image": "sirajamusi-report",
+          "alt": "Performance-report detail with competency totals and ranking. Sample records."
+        }
+      ],
+      "cover": "sirajamusi-cover",
+      "publicReferences": [
+        {
+          "label": "Published app listing",
+          "url": "https://apkpure.com/fr/sirajamusi-polda-sumsel/com.sintechsolution.sirajamusi"
+        }
+      ],
+      "slug": "sirajamusi",
+      "context": "Performance assessment for appraised users and evaluators",
+      "stack": [
+        "Flutter",
+        "Backend APIs",
+        "Assessment & reporting"
+      ],
+      "headline": "Assessment, from evidence to report.",
+      "contribution": "I worked on the frontend and backend of the assessment application, including its role-specific interfaces and reporting flows."
+    },
+    {
+      "name": "Sinabung",
+      "category": "Competency & performance",
+      "role": "Frontend & backend",
+      "description": "Assessment workflows with hard and soft competency modules and performance reporting.",
+      "highlights": [
+        "Role-specific assessment views",
+        "Hard and soft competency",
+        "Report-card detail"
+      ],
+      "logo": "sinabung-logo",
+      "gallery": [
+        {
+          "image": "sinabung-cover",
+          "alt": "Sinabung competency review and performance reporting"
+        },
+        {
+          "image": "sinabung-competency",
+          "alt": "Competency evidence and approval history"
+        },
+        {
+          "image": "sinabung-report",
+          "alt": "Competency totals and performance ranking"
+        }
+      ],
+      "cover": "sinabung-cover",
+      "slug": "sinabung",
+      "context": "Competency and performance assessment application",
+      "stack": [
+        "Flutter",
+        "Backend APIs",
+        "Competency workflows"
+      ],
+      "headline": "Competency records, through review.",
+      "contribution": "My contribution covers frontend and backend development for competency assessment and performance-reporting flows."
+    },
+    {
+      "name": "Siapsemeru",
+      "category": "Assessment workflows",
+      "role": "Frontend & backend",
+      "description": "Evaluator and appraised-person interfaces, including achievement and innovation records.",
+      "highlights": [
+        "Evaluator overview",
+        "Achievement and innovation workflows",
+        "Report cards and rankings"
+      ],
+      "logo": "siapsemeru-logo",
+      "gallery": [
+        {
+          "image": "siapsemeru-published-competency",
+          "alt": "Hard-competency categories with reporting actions and submitted-report indicators."
+        },
+        {
+          "image": "siapsemeru-innovation",
+          "alt": "Innovation submission, supporting documents and review history. Sample records."
+        },
+        {
+          "image": "siapsemeru-report",
+          "alt": "Performance reporting and ranking details. Sample records."
+        }
+      ],
+      "cover": "siapsemeru-cover",
+      "publicReferences": [
+        {
+          "label": "Published app listing",
+          "url": "https://apkpure.com/fr/siap-semeru/com.sintechsolution.siapsemeru"
+        }
+      ],
+      "slug": "siapsemeru",
+      "context": "Achievement, innovation and performance-review workflows",
+      "stack": [
+        "Flutter",
+        "Backend APIs",
+        "Evidence & reporting"
+      ],
+      "headline": "Achievements, evidence and review.",
+      "contribution": "I worked on frontend and backend development for the evaluator and appraised-person workflows."
+    },
+    {
+      "name": "Monaling",
+      "category": "Field data & offline sync",
+      "role": "Frontend & backend",
+      "description": "Map, tower and survey interfaces with offline-form and synchronisation workflows.",
+      "highlights": [
+        "Asset map and tower detail",
+        "Survey submissions and history",
+        "Offline forms and synchronisation"
+      ],
+      "logo": "monaling-logo",
+      "gallery": [
+        {
+          "image": "monaling-published-map",
+          "alt": "Transmission-tower locations with map filters and location controls."
+        },
+        {
+          "image": "monaling-inspection",
+          "alt": "Offline inspection form with asset, site, inspector and draft controls. Sample records."
+        },
+        {
+          "image": "monaling-history",
+          "alt": "Submission history with accepted, waiting and draft statuses. Sample records."
+        }
+      ],
+      "cover": "monaling-cover",
+      "publicReferences": [
+        {
+          "label": "Published app listing",
+          "url": "https://apkpure.com/fr/monaling/com.sintechsolution.monaling"
+        }
+      ],
+      "slug": "monaling",
+      "context": "Tower inspection and field-data collection",
+      "stack": [
+        "Flutter",
+        "Backend APIs",
+        "Maps & offline sync"
+      ],
+      "headline": "Fieldwork, connected.",
+      "contribution": "I worked on the frontend and backend, including the map, inspection and synchronisation workflows described here."
+    },
+    {
+      "name": "Gardu PLN",
+      "category": "UP2D Health Index",
+      "role": "Frontend & backend",
+      "description": "Asset-oriented dashboard, inspection and scanner interfaces with field-submission tools.",
+      "highlights": [
+        "Health-index dashboard",
+        "Asset detail and inspection entry",
+        "Scanner and offline-sync interfaces"
+      ],
+      "logo": "gardupln-logo",
+      "cover": "gardu-pln-cover",
+      "gallery": [
+        {
+          "image": "gardupln-dashboard",
+          "alt": "Asset-condition doughnut chart and monthly-inspection column chart with sample records"
+        }
+      ],
+      "slug": "gardu-pln",
+      "context": "Asset-condition monitoring and field inspection",
+      "stack": [
+        "Flutter",
+        "Backend APIs",
+        "Asset inspection"
+      ],
+      "headline": "Asset health, ready for inspection.",
+      "contribution": "My contribution covers frontend and backend development for asset-condition and field-inspection interfaces."
+    },
+    {
+      "name": "ETS · Electronic Traffic Sign",
+      "category": "Maps & field reporting",
+      "role": "Frontend & backend",
+      "description": "Traffic-sign discovery, plotting and record management through a map-based application.",
+      "highlights": [
+        "Map and search filters",
+        "Traffic-sign creation and detail",
+        "Reporting interfaces"
+      ],
+      "cover": "ets-cover",
+      "gallery": [
+        {
+          "image": "ets-published-map",
+          "alt": "Traffic-sign locations with category filters on the map."
+        },
+        {
+          "image": "ets-published-plotting",
+          "alt": "Sign plotting with coordinates, procurement year, notes and supporting photos."
+        },
+        {
+          "image": "ets-published-detail",
+          "alt": "A traffic-sign record with condition, location, procurement year and installation action."
+        }
+      ],
+      "logo": "ets_dishub-logo",
+      "publicReferences": [
+        {
+          "label": "Published app listing",
+          "url": "https://apkpure.com/fr/ets-dishub-kota-palembang/com.etramatech.ets"
+        }
+      ],
+      "slug": "ets",
+      "context": "Traffic-sign mapping and field reporting in Palembang",
+      "stack": [
+        "Flutter",
+        "Backend APIs",
+        "Maps & field records"
+      ],
+      "headline": "Traffic signs, mapped.",
+      "contribution": "I worked on frontend and backend development for the map-based traffic-sign application."
+    },
+    {
+      "name": "BintanGO",
+      "category": "Creator platform",
+      "role": "Mobile team leadership",
+      "description": "I led and trained the mobile team, reviewed code and worked on the application's architecture.",
+      "highlights": [
+        "Creator jobs, campaign discovery and the creator-community interface.",
+        "Mobile application architecture, code review and team leadership.",
+        "Android and iOS team training and implementation guidance."
+      ],
+      "logo": "bintango-logo",
+      "publicReferences": [
+        {
+          "label": "Current company website (product context)",
+          "url": "https://bintango.com/"
+        },
+        {
+          "label": "Published app listing",
+          "url": "https://apkpure.com/fr/bintango-creatorspace/id.bintango"
+        }
+      ],
+      "gallery": [
+        {
+          "image": "bintango-published-jobs",
+          "alt": "Published CreatorSpace artwork showing creator jobs and brand-collaboration opportunities."
+        },
+        {
+          "image": "bintango-published-adnetwork",
+          "alt": "Published CreatorSpace artwork showing campaign listings and job filters."
+        },
+        {
+          "image": "bintango-published-community",
+          "alt": "Published CreatorSpace artwork showing the creator community and forum."
+        }
+      ],
+      "cover": "bintango-cover",
+      "slug": "bintango",
+      "context": "Mobile product work at BintanGO · May 2022–January 2024",
+      "stack": [
+        "Mobile architecture",
+        "Code review",
+        "Team leadership"
+      ],
+      "headline": "Creator products, built by a team.",
+      "contribution": "As Front-end Lead Mobile, I worked on application architecture, reviewed code, and led and trained the Android and iOS team. Published CreatorSpace screens provide product context; they do not extend my contribution to later releases."
+    },
+    {
+      "name": "Musica",
+      "category": "Music & karaoke",
+      "role": "Mobile, web & backend APIs",
+      "description": "A Timor-Leste music and karaoke application. My earlier portfolio records work across mobile apps, user-facing web, administration and REST APIs.",
+      "highlights": [
+        "Music and karaoke product flows",
+        "Flutter applications",
+        "Web and API development"
+      ],
+      "logo": "musica-logo",
+      "gallery": [
+        {
+          "image": "musica-published-discovery",
+          "alt": "Published Musica artwork showing music discovery and a song list."
+        },
+        {
+          "image": "musica-published-player",
+          "alt": "Published Musica artwork showing playback, progress and listening controls."
+        },
+        {
+          "image": "musica-published-duet",
+          "alt": "Published Musica artwork showing the duet-karaoke interface."
+        }
+      ],
+      "cover": "musica-cover",
+      "publicReferences": [
+        {
+          "label": "Published app listing",
+          "url": "https://apkpure.com/fr/musica-timor-leste/com.tcel.musicatl"
+        }
+      ],
+      "slug": "musica",
+      "context": "Music and karaoke product for Timor-Leste",
+      "stack": [
+        "Flutter",
+        "Web administration",
+        "REST APIs"
+      ],
+      "headline": "From music discovery to karaoke.",
+      "contribution": "My recorded contribution spans the mobile application, user-facing web, administration and REST APIs."
+    },
+    {
+      "name": "SCM Tools",
+      "category": "Reporting automation",
+      "role": "Development",
+      "description": "Tools for analysing supply-chain information, including automated reports delivered through a Telegram bot.",
+      "highlights": [
+        "Supply-chain information",
+        "Automated reporting",
+        "Telegram delivery"
+      ],
+      "logo": "scm-tools-logo",
+      "gallery": [
+        {
+          "image": "scm-overview",
+          "title": "Supply-chain inputs",
+          "alt": "SCM Tools source overview with MySQL, Oracle and three sample input records"
+        },
+        {
+          "image": "scm-report-detail",
+          "title": "Report detail",
+          "alt": "SCM Tools report DEMO-001 with three matching sample supply-chain records"
+        },
+        {
+          "image": "scm-telegram-delivery",
+          "title": "Telegram delivery",
+          "alt": "SCM Tools bot delivery presentation with the matching sample report"
+        }
+      ],
+      "cover": "scm-reporting",
+      "slug": "scm-tools",
+      "context": "Supply-chain reporting during my ERP role at PT. Tanjung Enim Lestari",
+      "stack": [
+        "PHP",
+        "Node.js",
+        "MySQL",
+        "Oracle"
+      ],
+      "headline": "From source data to delivered reports.",
+      "contribution": "I developed tools for analysing supply-chain information and generating automated reports delivered through a Telegram bot.",
+      "galleryNote": "Supply-chain inputs, report review and Telegram delivery, presented with one consistent sample report."
+    },
+    {
+      "name": "CCTV Dishub",
+      "category": "Location-based monitoring",
+      "role": "Mobile development",
+      "description": "A mobile application for CCTV monitoring and camera locations in Palembang, recorded in my earlier portfolio.",
+      "highlights": [
+        "Camera locations",
+        "Monitoring interfaces"
+      ],
+      "logo": "cctv_dishub-logo",
+      "gallery": [
+        {
+          "image": "cctv-published-cameras",
+          "alt": "Camera directory with a monitoring preview and camera locations."
+        },
+        {
+          "image": "cctv-published-map",
+          "alt": "Feeder-stop locations with map filters and location controls."
+        }
+      ],
+      "cover": "cctv-dishub-cover",
+      "publicReferences": [
+        {
+          "label": "Published app listing",
+          "url": "https://apkpure.com/fr/cctv-dishub-palembang/com.sintechsolution.atcs"
+        }
+      ],
+      "slug": "cctv-dishub",
+      "context": "Camera monitoring and location information in Palembang",
+      "stack": [
+        "Mobile interfaces",
+        "Camera locations",
+        "Monitoring views"
+      ],
+      "headline": "City cameras, within reach.",
+      "contribution": "My recorded contribution is mobile development for camera-location and monitoring interfaces."
+    },
+    {
+      "name": "Gerai SDM",
+      "category": "Human-resource services",
+      "role": "Mobile development",
+      "description": "An integrated mobile service interface for personnel services and public recruitment information, recorded in my earlier portfolio.",
+      "highlights": [
+        "Service information",
+        "Member-facing interfaces"
+      ],
+      "logo": "geraisdm-logo",
+      "gallery": [
+        {
+          "image": "geraisdm-published-home",
+          "alt": "Published Gerai SDM artwork showing the personnel-service home and news."
+        },
+        {
+          "image": "geraisdm-published-services",
+          "alt": "Published Gerai SDM artwork showing personnel-service categories."
+        }
+      ],
+      "cover": "gerai-sdm-cover",
+      "publicReferences": [
+        {
+          "label": "Published app listing",
+          "url": "https://apkpure.com/fr/gerai-sdm-polda-sumsel/com.sintechsolution.geraisdm"
+        }
+      ],
+      "slug": "gerai-sdm",
+      "context": "Personnel services and public recruitment information",
+      "stack": [
+        "Mobile interfaces",
+        "Service navigation",
+        "Member-facing flows"
+      ],
+      "headline": "Personnel services, connected.",
+      "contribution": "My recorded contribution is mobile development for personnel-service information and member-facing interfaces."
+    },
+    {
+      "name": "Sentuh Asetku",
+      "category": "Land-asset mapping",
+      "role": "Flutter development",
+      "description": "A land-asset application with plotting, search and map-based asset locations. My earlier portfolio records mobile development and Play Store publication.",
+      "highlights": [
+        "Asset search and mapping",
+        "Land plotting",
+        "Mobile application development"
+      ],
+      "logo": "sentuhassetku-logo",
+      "gallery": [
+        {
+          "image": "sentuhassetku-mapping",
+          "alt": "Land plotting, asset search and map locations"
+        }
+      ],
+      "cover": "sentuhassetku-mapping",
+      "slug": "sentuh-asetku",
+      "context": "Land-asset search, plotting and location mapping",
+      "stack": [
+        "Flutter",
+        "Asset search",
+        "Map-based plotting"
+      ],
+      "headline": "Land assets, easier to locate.",
+      "contribution": "My earlier portfolio records mobile application development and Play Store publication for the asset-mapping application."
+    },
+    {
+      "name": "Nutrizer",
+      "category": "Nutrition information",
+      "role": "Mobile, administration & backend API",
+      "description": "An application for BMI calculation and nutrition-composition information, with administration and backend work recorded in my earlier portfolio.",
+      "highlights": [
+        "BMI and nutrition information",
+        "Flutter application",
+        "Administration and API"
+      ],
+      "logo": "nutrizer-logo",
+      "gallery": [
+        {
+          "image": "nutrizer-published-nutrition",
+          "alt": "Nutritional-needs calculation with energy, protein, carbohydrate and fat totals."
+        },
+        {
+          "image": "nutrizer-published-bmi",
+          "alt": "BMI calculation with height, weight and an interpreted result."
+        },
+        {
+          "image": "nutrizer-published-features",
+          "alt": "Nutrition tools: BMI, nutritional needs and the nutrition dictionary."
+        }
+      ],
+      "cover": "nutrizer-cover",
+      "publicReferences": [
+        {
+          "label": "Published app listing",
+          "url": "https://apkpure.com/fr/nutrizer/com.etramatech.nutrizer"
+        }
+      ],
+      "slug": "nutrizer",
+      "context": "BMI and nutritional-composition information application",
+      "stack": [
+        "Flutter",
+        "Web administration",
+        "Backend APIs"
+      ],
+      "headline": "Nutrition tools for everyday use.",
+      "contribution": "My recorded contribution covers the Flutter mobile application, website administration and backend API, together with Play Store publication."
+    }
+  ],
+  "featured": [
+    "anycheck",
+    "jagoan-voucher",
+    "sribuu",
+    "mytimor"
+  ],
+  "openSource": [
+    {
+      "name": "Nutrizer",
+      "logo": "nutrizer-logo",
+      "summary": "Nutrition information",
+      "url": "https://github.com/ariefwijaya/nutrizer"
+    },
+    {
+      "name": "mina-finansial",
+      "logo": "mina-finansial-logo",
+      "summary": "Personal finance",
+      "url": "https://github.com/ariefwijaya/mina-finansial"
+    },
+    {
+      "name": "Game Center",
+      "logo": "game-center-logo",
+      "summary": "Flutter architecture reference",
+      "url": "https://github.com/ariefwijaya/game_center"
+    }
+  ]
+}
